@@ -7,8 +7,8 @@ Filename: README.md
 Creation Date: 1-11-20
 
 Version: 1.0 (1-11-20)
- - Notes: All linked assets reside in [docs](https://github.com/glenfish/portfolio/docs) directory
- - [Assignment Requirements & Checklist](https://github.com/glenfish/portfolio/docs/requirements.md)
+ - Notes: All linked assets reside in [docs](./docs/) directory
+ - [Assignment Requirements & Checklist](./docs/requirements.md)
 
 ---
 ## Links: 
@@ -17,7 +17,7 @@ Published Portfolio
 
 [Github Repository](https://github.com/glenfish/portfolio.git)
 
-[Gitlog](https://github.com/glenfish/portfolio/gitlog.txt)
+[Gitlog](./gitlog.txt)
 
 ---
 
