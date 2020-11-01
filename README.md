@@ -4,31 +4,32 @@ Author: Nicholas Fehlberg
 Filename: README.md
 Creation Date: 1-11-20
 Version: 1.0 (1-11-20)
- - Notes: All linked assets reside in ```docs``` directory
+ - Notes: All linked assets reside in [docs](./docs) directory
  - [Assignment Requirements & Checklist](./docs/requirements.md)
 
 ---
 ## Links: 
 
 Published Portfolio
+
 [Github Repository](https://github.com/glenfish/portfolio.git)
+
 [Gitlog](./gitlog.txt)
 
 ---
 
-###Description of portfolio
-Purpose:
+### Description of portfolio
+
 This portfolio website showcases professional development knowledge and experience of the subject through a responsive, device-agnostic design aesthetic. 
 
 Its intended audience are IT professionals, prospective employers and clients and recruiters in the IT space. 
 
-Functionality & Features:
+__Functionality & Features:__
 
-Sitemap:
+__Sitemap:__
 
-Screenshots:
+__Screenshots:__
 
-Tech Stack:
+__Tech Stack:__
 HTML5, CSS3, Javascript, Git/Github, Github Pages
 
----
