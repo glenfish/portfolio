@@ -1,14 +1,21 @@
 # T1A2 - Portfolio
+
 **Requirements & Checklist**
+
 Author: Nicholas Fehlberg
+
 Filename: requirements.md
+
 Version: 1.0
+
 Creation Date: 1-11-20
+
 Notes: This document is a personal interpretation and implemenation plan for the assignment
 
 ---
 
 __Assignment due date:__ 15-11-20
+
 __Live presentation:__ 13-11-20
 
 ## High Level Requirements:
@@ -67,15 +74,21 @@ Live presentation no longer than 10 minutes. Utilise the submitted slide deck. U
 
 ## Submission
 Project must be submitted to Canvas per below instructions:
+
 A single zip file
 
 Create a directory called NicholasFehlberg_T1A2
+
 Organise all files inside this folder and zip it up with the command below:
+
 ```zip -r NicholasFehlberg_T1A2.zip NicholasFehlberg_T1A2```
 
 ### Folder structure:
+
 README.md
+
 gitlog.txt
+
 docs >
 - all files linked in the README file (png, jpg, pdf, md)
 
@@ -88,4 +101,5 @@ src >
 All links to online material should include screenshots
 
 ### Upload Link
+
 https://ait.instructure.com/courses/3030/assignments/26748 
