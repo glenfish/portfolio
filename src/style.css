@@ -341,51 +341,52 @@ template {
   display: none;
 }
 
-/* generic layout */
-header#header {
-  /* header 1 */
-  width: "1370px";
-  height: "392px";
-  background-image: "./images/header.jpg";
-}
-
-/* 1024px layout */
-@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
-  /* header 2 */
-  header#header {
-    width: "100%";
-    height: "293px";
-    background-image: "./images/header-1024.jpg";
+/* smartphone layout portrait */
+@media only screen and (min-device-width: 1px) and (max-device-width: 414px) and (orientation: portrait) {
+  /* header 4 */
+  .header {
+    width: 100%;
+    height: 118px;
+    background: white url("./images/header-414.jpg") no-repeat center;
   }
 }
 
 /* 768px layout */
 @media only screen and (min-device-width: 768px) {
   /* header 3 */
-  header#header {
-    width: "100%";
-    height: "220px";
-    background-image: "./images/header-768.jpg";
-  }
-}
-
-/* smartphone layout portrait */
-@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (orientation: portrait) {
-  /* header 4 */
-  header#header {
-    width: "100%";
-    height: "118px";
-    background-image: "./images/header-414.jpg";
+  .header {
+    width: 100%;
+    height: 220px;
+    background: white url("./images/header-768.jpg") no-repeat center;
   }
 }
 
 /* smartphone layout landscape */
-@media only screen and (min-device-width: 414px) and (max-device-width: 768px) and (orientation: landscape) {
+@media only screen and (min-device-width: 415px) and (max-device-width: 768px) {
   /* header 3 */
-  header#header {
-    width: "100%";
-    height: "220px";
-    background-image: "./images/header-768.jpg";
+  .header {
+    width: 100%;
+    height: 220px;
+    background: white url("./images/header-768.jpg") no-repeat center top;
+  }
+}
+
+/* 1024px layout */
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  /* header 2 */
+  .header {
+    width: 100%;
+    height: 293px;
+    background: white url("./images/header-1024.jpg") no-repeat center;
+  }
+}
+
+/* generic layout */
+@media only screen and (min-device-width: 1025px) {
+  .header {
+    width: 1370px;
+    height: 392px;
+    background: white url("./images/header.jpg") no-repeat center;
   }
 }
 
@@ -393,5 +394,13 @@ header#header {
 body {
   background: white;
   height: 100vh;
+}
+
+header {
+  max-width: 1370px;
+}
+
+.header {
+  margin: 0 auto;
 }
 /*# sourceMappingURL=style.css.map */
