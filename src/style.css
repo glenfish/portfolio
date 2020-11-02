@@ -342,7 +342,7 @@ template {
 }
 
 /* smartphone layout portrait */
-@media only screen and (min-device-width: 1px) and (max-device-width: 414px) and (orientation: portrait) {
+@media only screen and (min-device-width: 1px) and (max-device-width: 414px) {
   /* header 4 */
   .header {
     width: 100%;
