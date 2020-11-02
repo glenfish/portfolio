@@ -340,4 +340,37 @@ template {
 [hidden] {
   display: none;
 }
+
+/* generic layout */
+/* 1024px layout */
+@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+  /* header-1024.jpg */
+}
+
+/* 768px layout */
+@media only screen and (min-device-width: 768px) {
+  /* header-768.jpg */
+}
+
+/* smartphone layout portrait */
+@media only screen and (min-device-width: 375px) and (max-device-width: 414px) and (orientation: portrait) {
+  /* header-414.jpg */
+}
+
+/* smartphone layout landscape */
+@media only screen and (min-device-width: 414px) and (max-device-width: 768px) and (orientation: landscape) {
+  /* header-768.jpg */
+}
+
+/* -end device specific styles- */
+body {
+  background: white;
+  height: 100vh;
+}
+
+header#header {
+  width: "1370px";
+  height: "392px";
+  background-image: "./images/header.jpg";
+}
 /*# sourceMappingURL=style.css.map */

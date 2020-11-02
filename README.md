@@ -34,5 +34,7 @@ __Sitemap:__
 __Screenshots:__
 
 __Tech Stack:__
-HTML5, CSS3, Javascript, Git/Github, Github Pages
+HTML5, CSS3, Javascript, Sass, Git, Github, Github Pages
+
+GIMP for image editing
 
