@@ -355,7 +355,7 @@ template {
 @media screen and (min-device-width: 768px) {
   /* header 3 */
   .header {
-    width: 768px;
+    width: 100%;
     height: 220px;
     background: white url("./images/header-768.jpg") no-repeat center;
   }
@@ -365,7 +365,7 @@ template {
 @media screen and (min-device-width: 415px) and (max-device-width: 768px) {
   /* header 3 */
   .header {
-    width: 768px;
+    width: 100%;
     height: 220px;
     background: white url("./images/header-768.jpg") no-repeat center top;
   }
@@ -375,7 +375,7 @@ template {
 @media screen and (min-device-width: 769px) and (max-device-width: 1024px) {
   /* header 2 */
   .header {
-    width: 1024px;
+    width: 100%;
     height: 293px;
     background: white url("./images/header-1024.jpg") no-repeat center;
   }
@@ -385,7 +385,7 @@ template {
 @media screen and (min-device-width: 769px) and (max-device-width: 1024px) and (orientation: landscape) {
   /* header 2 */
   .header {
-    width: 1024px;
+    width: 100%;
     height: 293px;
     background: white url("./images/header-1024.jpg") no-repeat center;
   }
@@ -403,7 +403,6 @@ template {
 /* -end device specific styles- */
 body {
   background: white;
-  height: 100vh;
 }
 
 header {
