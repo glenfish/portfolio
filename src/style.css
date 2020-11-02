@@ -352,47 +352,47 @@ template {
 }
 
 /* 768px layout */
-@media only screen and (min-device-width: 768px) {
+@media screen and (min-device-width: 768px) {
   /* header 3 */
   .header {
-    width: 100%;
+    width: 768px;
     height: 220px;
     background: white url("./images/header-768.jpg") no-repeat center;
   }
 }
 
 /* smartphone layout landscape */
-@media only screen and (min-device-width: 415px) and (max-device-width: 768px) {
+@media screen and (min-device-width: 415px) and (max-device-width: 768px) {
   /* header 3 */
   .header {
-    width: 100%;
+    width: 768px;
     height: 220px;
     background: white url("./images/header-768.jpg") no-repeat center top;
   }
 }
 
 /* 1024px layout */
-@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) {
+@media screen and (min-device-width: 769px) and (max-device-width: 1024px) {
   /* header 2 */
   .header {
-    width: 100%;
+    width: 1024px;
     height: 293px;
     background: white url("./images/header-1024.jpg") no-repeat center;
   }
 }
 
 /* 1024px layout */
-@media only screen and (min-device-width: 769px) and (max-device-width: 1024px) and (orientation: landscape) {
+@media screen and (min-device-width: 769px) and (max-device-width: 1024px) and (orientation: landscape) {
   /* header 2 */
   .header {
-    width: 100%;
+    width: 1024px;
     height: 293px;
     background: white url("./images/header-1024.jpg") no-repeat center;
   }
 }
 
 /* generic layout */
-@media only screen and (min-device-width: 1025px) {
+@media screen and (min-device-width: 1025px) {
   .header {
     width: 1370px;
     height: 392px;
