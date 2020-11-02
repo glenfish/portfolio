@@ -13,7 +13,7 @@ Version: 1.0 (1-11-20)
 ---
 ## Links: 
 
-Published Portfolio
+[Published Portfolio](https://glenfish.github.io/portfolio/src/)
 
 [Github Repository](https://github.com/glenfish/portfolio.git)
 
