@@ -1,0 +1,26 @@
+slate gray
+#e0f2f9
+
+gray blue
+#b9ddf9
+
+dusky turqoise
+#6cccd4
+
+marine
+#c4e8bb
+
+gray
+#dce4ed
+
+tan
+#dcccb4
+
+lemon
+#fcfbcc
+
+light tan
+#f5f8e0
+
+lemon 2
+#f7fbbc
