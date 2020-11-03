@@ -42,7 +42,15 @@ and (min-device-width : 768px) { /* header-768.jpg */}
 and (min-device-width : 769px) 
 and (max-device-width : 1024px)  { /* header-1024.jpg */}
 ```
+### 3-11-20
 
+Making changes to the media/screen definitions.
+
+I need to create a header image that is 560px wide with the main content (robots and text) occupying a space no wider than 414px in the center. This is for the media size of > 414 and < 561. (update: created image and modified two layouts based on how they looked in Google Developer tools responsive view)
+
+Working grid and flexbox layout in a separate test project until I can get the basis of it working, and then I'll bring it across to the portfolio project. I find that making the sections a unique color and putting dummy text and a headline into each one good for the responsive design. I am yet to do my wireframe design. I feel like I'm doing things the right way. The wireframe will be good for laying out the elements within the responsive framework, once I've got it done.
+
+Grid and flexbox added. The site is now responsive from 355px phones and smaller all the way up to desktops of any size. The max page width is 1370px.
 ---
 
 ## Trello Board
