@@ -476,6 +476,7 @@ footer {
     text-align: left;
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+    line-height: 160%;
   }
   header {
     -ms-grid-column: 1;
@@ -548,6 +549,7 @@ footer {
     text-align: left;
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+    line-height: 160%;
   }
   header {
     -ms-grid-column: 1;
@@ -620,6 +622,7 @@ footer {
     font-size: 0.875em;
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+    line-height: 160%;
   }
   header {
     -ms-grid-column: 1;
@@ -689,6 +692,7 @@ footer {
     font-size: 0.9375em;
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+    line-height: 160%;
   }
   header {
     -ms-grid-row: 2;
@@ -771,6 +775,7 @@ footer {
             box-shadow: 5px 10px 15px #888888;
     background: rgba(7, 152, 161, 0.9);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+    line-height: 150%;
   }
   header {
     -ms-grid-row: 2;
