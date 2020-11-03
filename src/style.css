@@ -472,7 +472,7 @@ footer {
         grid-template-columns: minmax(355px, 1fr);
     -ms-grid-rows: auto;
         grid-template-rows: auto;
-    font-size: 0.8125em;
+    font-size: 0.875em;
     text-align: left;
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
@@ -545,7 +545,7 @@ footer {
         grid-template-columns: minmax(415px, 1fr);
     -ms-grid-rows: auto;
         grid-template-rows: auto;
-    font-size: 0.8125em;
+    font-size: 0.875em;
     text-align: left;
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
