@@ -345,7 +345,7 @@ template {
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  color: #d4f4ff;
+  color: white;
   font-family: helvetica, arial, sans-serif;
 }
 
@@ -386,8 +386,6 @@ a {
   width: 100%;
   margin: 0 auto;
   /* background: red; */
-  background: #0798a1;
-  background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   padding: 0 2px 5px 2px;
 }
 
@@ -476,6 +474,8 @@ footer {
         grid-template-rows: auto;
     font-size: 0.8125em;
     text-align: left;
+    background: rgba(7, 152, 161, 0.8);
+    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   }
   header {
     -ms-grid-column: 1;
@@ -546,6 +546,8 @@ footer {
         grid-template-rows: auto;
     font-size: 0.8125em;
     text-align: left;
+    background: rgba(7, 152, 161, 0.8);
+    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   }
   header {
     -ms-grid-column: 1;
@@ -616,6 +618,8 @@ footer {
     -ms-grid-rows: auto;
         grid-template-rows: auto;
     font-size: 0.875em;
+    background: rgba(7, 152, 161, 0.8);
+    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   }
   header {
     -ms-grid-column: 1;
@@ -683,6 +687,8 @@ footer {
     -ms-grid-columns: (minmax(0, 4fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 4fr)) 1fr;
     font-size: 0.9375em;
+    background: rgba(7, 152, 161, 0.8);
+    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   }
   header {
     -ms-grid-row: 2;
@@ -750,6 +756,9 @@ footer {
 /* ---------------------------------------- */
 /* START desktop layout*/
 @media (min-width: 1025px) {
+  body {
+    background: url(./images/bgnd.jpg);
+  }
   .container {
     -ms-grid-columns: (minmax(0, 3fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 3fr)) 1fr;
@@ -760,6 +769,8 @@ footer {
     margin-bottom: 20px;
     -webkit-box-shadow: 5px 10px 15px #888888;
             box-shadow: 5px 10px 15px #888888;
+    background: rgba(7, 152, 161, 0.8);
+    background: linear-gradient(58deg, rgba(7, 152, 161, 0.9) 0%, rgba(17, 103, 72, 0.9) 100%);
   }
   header {
     -ms-grid-row: 2;
