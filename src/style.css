@@ -363,7 +363,7 @@ aside, section, footer, main {
   border: 1px solid rgba(90, 231, 220, 0.1);
   border-radius: 8px;
   padding: 14px;
-  background: rgba(203, 255, 255, 0.07);
+  background: rgba(203, 255, 255, 0.1);
   margin: 8px;
 }
 
@@ -388,6 +388,7 @@ a {
   /* background: red; */
   background: #0798a1;
   background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+  padding: 0 2px 5px 2px;
 }
 
 h1, h2 {
@@ -397,7 +398,7 @@ h1, h2 {
 
 header {
   /* background: skyblue; */
-  margin: 0;
+  margin: 0px 0px 5px 0px;
 }
 
 main {
