@@ -769,8 +769,8 @@ footer {
     margin-bottom: 20px;
     -webkit-box-shadow: 5px 10px 15px #888888;
             box-shadow: 5px 10px 15px #888888;
-    background: rgba(7, 152, 161, 0.8);
-    background: linear-gradient(58deg, rgba(7, 152, 161, 0.9) 0%, rgba(17, 103, 72, 0.9) 100%);
+    background: rgba(7, 152, 161, 0.9);
+    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   }
   header {
     -ms-grid-row: 2;
