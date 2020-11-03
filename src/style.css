@@ -345,7 +345,7 @@ template {
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  color: black;
+  color: #d4f4ff;
   font-family: helvetica, arial, sans-serif;
 }
 
@@ -360,7 +360,7 @@ body {
 }
 
 aside, section, footer, main {
-  border: 1px dotted #999;
+  border: 1px dashed rgba(90, 231, 220, 0.2);
   padding: 10px;
 }
 
@@ -383,6 +383,8 @@ a {
   width: 100%;
   margin: 0 auto;
   /* background: red; */
+  background: #0798a1;
+  background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
 }
 
 h1, h2 {
@@ -399,7 +401,8 @@ main {
 }
 
 nav {
-  background: #8ad89e;
+  background: #0798a1;
+  background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
   margin: 0;
   color: white;
   display: -webkit-box;
@@ -747,6 +750,11 @@ footer {
         grid-template-columns: repeat(3, minmax(0, 3fr)) 1fr;
     font-size: 1.0em;
     max-width: 1370px;
+    border: 1px solid #066e75;
+    border-radius: 0 0 4px 4px;
+    margin-bottom: 20px;
+    -webkit-box-shadow: 5px 10px 15px #888888;
+            box-shadow: 5px 10px 15px #888888;
   }
   header {
     -ms-grid-row: 2;
