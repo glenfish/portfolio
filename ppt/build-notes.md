@@ -51,6 +51,16 @@ I need to create a header image that is 560px wide with the main content (robots
 Working grid and flexbox layout in a separate test project until I can get the basis of it working, and then I'll bring it across to the portfolio project. I find that making the sections a unique color and putting dummy text and a headline into each one good for the responsive design. I am yet to do my wireframe design. I feel like I'm doing things the right way. The wireframe will be good for laying out the elements within the responsive framework, once I've got it done.
 
 Grid and flexbox added. The site is now responsive from 355px phones and smaller all the way up to desktops of any size. The max page width is 1370px.
+
+### 4-11-20
+
+Fixed layout issue with small screen phones, and dynamic sizing of header image at small sizes.
+
+Considering changing the layout to create a wrapper grid layout around the existing grid, so that the menu can be sticky. I may just remove the menu and position it absolutely. Seems like a better and easier solution. Committing what I have currently to Github and creating a new git branch called 'menu-test' to test it.
+
+
+
+
 ---
 
 ## Trello Board
