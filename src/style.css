@@ -561,7 +561,8 @@ footer {
   }
 }
 
-/* END phone 2 layout */
+/* END phone layout */
+/* START phone 2 layout  -----------------------------------------------------------------------------------------------*/
 @media (min-width: 415px) and (max-width: 599px) {
   .content-container {
     -ms-grid-columns: minmax(415px, 1fr);
@@ -646,7 +647,7 @@ footer {
 }
 
 /* END phone 2 layout */
-/* START tablet layout */
+/* START tablet layout -------------------------------------------------------------------------------- */
 @media (min-width: 600px) and (max-width: 768px) {
   .content-container {
     -ms-grid-columns: minmax(600px, 1fr);
@@ -683,7 +684,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 50px;
+    height: 40px;
   }
   aside#aside1 {
     /* display: none; */
@@ -718,10 +719,13 @@ footer {
     -ms-grid-column: 1;
     grid-column: 1;
   }
+  nav {
+    font-size: 1.125em;
+  }
 }
 
 /* END tablet layout */
-/* START laptop layout*/
+/* START laptop layout -------------------------------------------------------------------------------------------------*/
 @media (min-width: 769px) and (max-width: 1024px) {
   .content-container {
     -ms-grid-columns: (minmax(0, 4fr))[3] 1fr;
@@ -756,7 +760,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 50px;
+    height: 44px;
   }
   aside#aside1 {
     -ms-grid-column: 3;
@@ -794,10 +798,13 @@ footer {
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
   }
+  nav {
+    font-size: 1.2em;
+  }
 }
 
 /* END laptop layout */
-/* ---------------------------------------- */
+/* -------------------------------------------------------------------------------------------------------------- */
 /* START desktop layout*/
 @media (min-width: 1025px) {
   body {
@@ -845,7 +852,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 50px;
+    height: 60px;
   }
   nav > ul {
     max-width: 1370px;
@@ -887,6 +894,9 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
+  }
+  nav {
+    font-size: 1.2em;
   }
 }
 
