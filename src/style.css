@@ -354,6 +354,13 @@ html {
           box-sizing: inherit;
 }
 
+* {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  min-width: 0;
+  min-height: 0;
+}
+
 body {
   padding: 0;
   margin: 0;
@@ -468,8 +475,8 @@ footer {
 /* START phone layout */
 @media only screen and (min-width: 1px) and (max-width: 414px) {
   .container {
-    -ms-grid-columns: minmax(355px, 1fr);
-        grid-template-columns: minmax(355px, 1fr);
+    -ms-grid-columns: minmax(1px, 1fr);
+        grid-template-columns: minmax(1px, 1fr);
     -ms-grid-rows: auto;
         grid-template-rows: auto;
     font-size: 0.875em;
@@ -477,6 +484,7 @@ footer {
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
+    min-width: 258px;
   }
   header {
     -ms-grid-column: 1;
@@ -484,8 +492,12 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    height: 118px;
-    background: url("./images/header-414.jpg") no-repeat center top;
+    min-height: 118px;
+    background: red url("./images/header-414.jpg") no-repeat center top;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    min-width: 258px;
   }
   main {
     -ms-grid-column: 1;
