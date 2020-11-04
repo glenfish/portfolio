@@ -64,6 +64,7 @@ Experimenting on new branch 'fonts' to try out some Google fonts with some blank
 
 Header has been converted from all images to images and web fonts. All responsive layouts have been customised for display at their respective view widths.
 
+'fonts' branch has been merged into 'main'.
 
 ---
 
