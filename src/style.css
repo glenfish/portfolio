@@ -387,7 +387,6 @@ a {
   /* width: 100%; */
   margin: 0 auto;
   padding: 0px 0px 0px 0px;
-  max-width: 1370px;
 }
 
 .content-container {
@@ -826,6 +825,10 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 50px;
+  }
+  nav > ul {
+    max-width: 1370px;
+    margin: auto;
   }
   aside#aside1 {
     -ms-grid-column: 3;
