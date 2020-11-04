@@ -416,7 +416,8 @@ main {
 
 nav {
   background: #0798a1;
-  background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
+  background: -webkit-gradient(linear, left bottom, left top, from(#0798a1), to(#299970));
+  background: linear-gradient(0deg, #0798a1 0%, #299970 100%);
   margin: 0;
   color: white;
   display: -webkit-box;
