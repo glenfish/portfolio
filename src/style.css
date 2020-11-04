@@ -522,6 +522,10 @@ footer {
     -webkit-box-align: center;
     /* align-items */
   }
+  nav ul li {
+    padding-left: 3px;
+    padding-right: 3px;
+  }
   aside#aside1 {
     /* display: none; */
     -ms-grid-row: 4;
@@ -594,6 +598,17 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 32px;
+  }
+  nav ul {
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    /* justify-content */
+    -webkit-box-align: center;
+    /* align-items */
+  }
+  nav ul li {
+    padding-left: 3px;
+    padding-right: 3px;
   }
   aside#aside1 {
     /* display: none; */
