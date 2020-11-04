@@ -541,7 +541,7 @@ footer {
     top: 6px;
     text-align: center;
     font-size: 0.875rem;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.125rem;
     color: #dcfdf8;
     margin: 0 0 0 4px;
     text-transform: uppercase;
@@ -658,7 +658,7 @@ footer {
     top: 4px;
     text-align: center;
     font-size: 0.875rem;
-    letter-spacing: 0.1rem;
+    letter-spacing: 0.125rem;
     color: #dcfdf8;
     margin: 0 0 0 4px;
     text-transform: uppercase;
