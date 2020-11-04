@@ -56,9 +56,13 @@ Grid and flexbox added. The site is now responsive from 355px phones and smaller
 
 Fixed layout issue with small screen phones, and dynamic sizing of header image at small sizes.
 
-Considering changing the layout to create a wrapper grid layout around the existing grid, so that the menu can be sticky. I may just remove the menu and position it absolutely. Seems like a better and easier solution. Committing what I have currently to Github and creating a new git branch called 'menu-test' to test it.
+Considering changing the layout to create a wrapper grid layout around the existing grid, so that the menu can be sticky. I may just remove the menu and position it absolutely. Seems like a better and easier solution. Committing what I have currently to Github and creating a new git branch called 'menu-test' to test it. (update: moved the nav bar outside the container and made it sticky)
 
+Layout now finished.
 
+Experimenting on new branch 'fonts' to try out some Google fonts with some blank header images.
+
+Header has been converted from all images to images and web fonts. All responsive layouts have been customised for display at their respective view widths.
 
 
 ---
