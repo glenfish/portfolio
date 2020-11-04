@@ -364,6 +364,7 @@ html {
 body {
   padding: 0;
   margin: 0;
+  width: 100vw;
 }
 
 aside, section, footer, main {
@@ -372,6 +373,8 @@ aside, section, footer, main {
   padding: 14px;
   background: rgba(203, 255, 255, 0.1);
   margin: 8px;
+  -webkit-box-shadow: 1px 1px 5px #20ad8a;
+          box-shadow: 1px 1px 5px #20ad8a;
 }
 
 a {
@@ -383,10 +386,9 @@ a {
   /* width: 100%; */
   margin: 0 auto;
   padding: 0px 0px 0px 0px;
-  max-width: 1370px;
 }
 
-.container {
+.content-container {
   /* color: white; */
   display: -ms-grid;
   display: grid;
@@ -438,6 +440,7 @@ nav ul {
           align-items: center;
   margin: 0;
   width: 100%;
+  padding: 0;
 }
 
 nav ul li {
@@ -461,8 +464,8 @@ footer {
   /* background-color: rgb(170, 11, 11); */
 }
 
-/* Add padding to all of the .container child elements */
-.container > * {
+/* Add padding to all of the .content-container child elements */
+.content-container > * {
   /* padding: 20px; */
 }
 
@@ -474,7 +477,7 @@ footer {
 
 /* START phone layout */
 @media only screen and (min-width: 1px) and (max-width: 414px) {
-  .container {
+  .content-container {
     -ms-grid-columns: minmax(1px, 1fr);
         grid-template-columns: minmax(1px, 1fr);
     -ms-grid-rows: auto;
@@ -552,7 +555,7 @@ footer {
 
 /* END phone 2 layout */
 @media (min-width: 415px) and (max-width: 599px) {
-  .container {
+  .content-container {
     -ms-grid-columns: minmax(415px, 1fr);
         grid-template-columns: minmax(415px, 1fr);
     -ms-grid-rows: auto;
@@ -626,7 +629,7 @@ footer {
 /* END phone 2 layout */
 /* START tablet layout */
 @media (min-width: 600px) and (max-width: 768px) {
-  .container {
+  .content-container {
     -ms-grid-columns: minmax(600px, 1fr);
         grid-template-columns: minmax(600px, 1fr);
     -ms-grid-rows: auto;
@@ -698,7 +701,7 @@ footer {
 /* END tablet layout */
 /* START laptop layout*/
 @media (min-width: 769px) and (max-width: 1024px) {
-  .container {
+  .content-container {
     -ms-grid-columns: (minmax(0, 4fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 4fr)) 1fr;
     font-size: 0.9375em;
@@ -773,18 +776,21 @@ footer {
 /* START desktop layout*/
 @media (min-width: 1025px) {
   body {
-    background: url(./images/bgnd.jpg);
+    background: url(./images/bgnd.jpg) repeat-y;
+    background-size: cover;
   }
-  .container {
+  .wrapper {
+    margin-bottom: 80px;
+  }
+  .content-container {
     -ms-grid-columns: (minmax(0, 3fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 3fr)) 1fr;
     font-size: 1.0em;
     max-width: 1370px;
     border: 1px solid #066e75;
     border-radius: 0 0 4px 4px;
-    margin-bottom: 20px;
-    -webkit-box-shadow: 5px 10px 15px #888888;
-            box-shadow: 5px 10px 15px #888888;
+    -webkit-box-shadow: 5px 7px 15px #fff;
+            box-shadow: 5px 7px 15px #fff;
     background: rgba(7, 152, 161, 0.9);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 150%;
