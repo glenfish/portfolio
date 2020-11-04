@@ -400,12 +400,15 @@ a {
 
 h1, h2 {
   text-transform: uppercase;
-  margin-top: 0.5rem;
 }
 
 header {
   /* background: skyblue; */
   margin: 0px 0px 10px 0px;
+}
+
+header h1 {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 main {
@@ -453,6 +456,10 @@ nav ul li {
   list-style: none;
 }
 
+.tagline {
+  font-family: 'Itim';
+}
+
 aside#aside1 {
   /* background: seagreen; */
 }
@@ -497,11 +504,47 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
     min-height: 118px;
-    background: url("./images/header-414.jpg") no-repeat center top;
+    background: url("./images/header-414-blank.jpg") no-repeat center top;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
     min-width: 258px;
+  }
+  #header-text {
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    top: -21px;
+    color: #08b18c;
+  }
+  #header-text > h1 {
+    position: relative;
+    text-align: center;
+    font-size: 4.0rem;
+    width: 100%;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px white;
+  }
+  .surname {
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 0;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    margin-left: 80px;
+    font-size: 1.6rem;
+    color: #14c4ca;
+  }
+  #header-text > h4 {
+    display: block;
+    position: relative;
+    top: 6px;
+    text-align: center;
+    font-size: 0.875rem;
+    letter-spacing: 0.1rem;
+    color: #dcfdf8;
+    margin: 0 0 0 4px;
+    text-transform: uppercase;
   }
   main {
     -ms-grid-column: 1;
@@ -582,7 +625,43 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
     height: 118px;
-    background: url("./images/header-600.jpg") no-repeat center top;
+    background: url("./images/header-600-blank.jpg") no-repeat center top;
+  }
+  #header-text {
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    top: -21px;
+    color: #08b18c;
+  }
+  #header-text > h1 {
+    position: relative;
+    text-align: center;
+    font-size: 4.0rem;
+    width: 100%;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px white;
+  }
+  .surname {
+    display: block;
+    margin-top: 19px;
+    margin-bottom: 0;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    margin-left: 80px;
+    font-size: 1.6rem;
+    color: #14c4ca;
+  }
+  #header-text > h4 {
+    display: block;
+    position: relative;
+    top: 4px;
+    text-align: center;
+    font-size: 0.875rem;
+    letter-spacing: 0.1rem;
+    color: #dcfdf8;
+    margin: 0 0 0 4px;
+    text-transform: uppercase;
   }
   main {
     -ms-grid-column: 1;
@@ -668,8 +747,44 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    height: 200px;
-    background: url("./images/header-768.jpg") no-repeat center bottom;
+    height: 220px;
+    background: url("./images/header-768-blank.jpg") no-repeat center bottom;
+  }
+  #header-text {
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    top: -6px;
+    color: #08b18c;
+  }
+  #header-text > h1 {
+    position: relative;
+    text-align: center;
+    font-size: 5rem;
+    width: 100%;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px white;
+  }
+  .surname {
+    display: block;
+    margin-top: 26px;
+    margin-bottom: 0;
+    text-align: center;
+    letter-spacing: 0.375rem;
+    margin-left: 100px;
+    font-size: 2.4rem;
+    color: #14c4ca;
+  }
+  #header-text > h4 {
+    display: block;
+    position: relative;
+    top: 24px;
+    text-align: center;
+    font-size: 1.0rem;
+    letter-spacing: 0.25rem;
+    color: #5bcfc0;
+    margin: 0 0 0 4px;
+    text-transform: uppercase;
   }
   main {
     -ms-grid-column: 1;
@@ -745,8 +860,44 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-    height: 250px;
-    background: url("./images/header-1024.jpg") no-repeat center bottom;
+    height: 260px;
+    background: url("./images/header-1024-blank.jpg") no-repeat center bottom;
+  }
+  #header-text {
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    top: 0px;
+    color: #08b18c;
+  }
+  #header-text > h1 {
+    position: relative;
+    text-align: center;
+    font-size: 5.5rem;
+    width: 100%;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px white;
+  }
+  .surname {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    margin-left: 106px;
+    font-size: 2.4rem;
+    color: #14c4ca;
+  }
+  #header-text > h4 {
+    display: block;
+    position: relative;
+    top: 24px;
+    text-align: center;
+    font-size: 1.2rem;
+    letter-spacing: 0.25rem;
+    color: #5bcfc0;
+    margin: 0 0 0 6px;
+    text-transform: uppercase;
   }
   main {
     -ms-grid-column: 1;
@@ -837,8 +988,44 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-    height: 340px;
-    background: url("./images/header.jpg") no-repeat center bottom;
+    height: 300px;
+    background: url("./images/header-blank.jpg") no-repeat center bottom;
+  }
+  #header-text {
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    top: 0px;
+    color: #08b18c;
+  }
+  #header-text > h1 {
+    position: relative;
+    text-align: center;
+    font-size: 6rem;
+    width: 100%;
+    margin-bottom: 0;
+    text-shadow: 2px 2px 2px white;
+  }
+  .surname {
+    display: block;
+    margin-top: 30px;
+    margin-bottom: 0;
+    text-align: center;
+    letter-spacing: 0.5rem;
+    margin-left: 100px;
+    font-size: 2.5rem;
+    color: #14c4ca;
+  }
+  #header-text > h4 {
+    display: block;
+    position: relative;
+    top: 39px;
+    text-align: center;
+    font-size: 1.25rem;
+    letter-spacing: 0.3rem;
+    color: #5bcfc0;
+    margin: 0 0 0 10px;
+    text-transform: uppercase;
   }
   main {
     -ms-grid-column: 1;
