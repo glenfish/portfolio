@@ -429,6 +429,7 @@ nav {
 }
 
 nav ul {
+  display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-orient: horizontal;
@@ -440,16 +441,12 @@ nav ul {
   -webkit-box-pack: space-evenly;
       -ms-flex-pack: space-evenly;
           justify-content: space-evenly;
-  -ms-flex-align: center;
-      align-items: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
   margin: 0 auto;
   width: 100%;
   padding: 0;
-  display: -webkit-box;
-  -webkit-box-pack: center;
-  /* justify-content */
-  -webkit-box-align: center;
-  /* align-items */
 }
 
 nav ul li {
@@ -517,6 +514,13 @@ footer {
   nav {
     height: 30px;
     min-width: 260px;
+  }
+  nav ul {
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    /* justify-content */
+    -webkit-box-align: center;
+    /* align-items */
   }
   aside#aside1 {
     /* display: none; */
