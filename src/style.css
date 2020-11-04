@@ -372,6 +372,7 @@ aside, section, footer, main {
   border-radius: 8px;
   padding: 14px;
   background: rgba(203, 255, 255, 0.1);
+  background: linear-gradient(135deg, rgba(4, 103, 110, 0.6) 0%, rgba(17, 103, 72, 0.7) 80%);
   margin: 8px;
   -webkit-box-shadow: 1px 1px 5px #20ad8a;
           box-shadow: 1px 1px 5px #20ad8a;
@@ -496,7 +497,7 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
     min-height: 118px;
-    background: red url("./images/header-414.jpg") no-repeat center top;
+    background: url("./images/header-414.jpg") no-repeat center top;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
