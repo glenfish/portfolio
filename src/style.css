@@ -546,17 +546,17 @@ footer {
   }
   #section2 {
     /* display: none; */
-    -ms-grid-row: 6;
+    -ms-grid-row: 5;
     -ms-grid-row-span: 1;
-    grid-row: 6 / 7;
+    grid-row: 5 / 6;
     -ms-grid-column: 1;
     grid-column: 1;
   }
   #section3 {
     /* display: none; */
-    -ms-grid-row: 5;
+    -ms-grid-row: 6;
     -ms-grid-row-span: 1;
-    grid-row: 5 / 6;
+    grid-row: 6 / 7;
     -ms-grid-column: 1;
     grid-column: 1;
   }
@@ -705,17 +705,17 @@ footer {
   }
   #section2 {
     /* display: none; */
-    -ms-grid-row: 6;
+    -ms-grid-row: 5;
     -ms-grid-row-span: 1;
-    grid-row: 6 / 7;
+    grid-row: 5 / 6;
     -ms-grid-column: 1;
     grid-column: 1;
   }
   #section3 {
     /* display: none; */
-    -ms-grid-row: 5;
+    -ms-grid-row: 6;
     -ms-grid-row-span: 1;
-    grid-row: 5 / 6;
+    grid-row: 6 / 7;
     -ms-grid-column: 1;
     grid-column: 1;
   }
