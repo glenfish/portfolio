@@ -368,14 +368,14 @@ body {
 }
 
 aside, section, footer, main {
-  border: 1px solid rgba(90, 231, 220, 0.1);
+  border: 1px solid rgba(90, 231, 220, 0.3);
   border-radius: 8px;
-  padding: 14px;
+  padding: 8px;
   background: rgba(203, 255, 255, 0.1);
   background: linear-gradient(135deg, rgba(4, 103, 110, 0.6) 0%, rgba(17, 103, 72, 0.7) 80%);
   margin: 8px;
-  -webkit-box-shadow: 1px 1px 5px #20ad8a;
-          box-shadow: 1px 1px 5px #20ad8a;
+  -webkit-box-shadow: 1px 1px 7px rgba(32, 173, 138, 0.5);
+          box-shadow: 1px 1px 7px rgba(32, 173, 138, 0.5);
 }
 
 a {
@@ -387,6 +387,7 @@ a {
   /* width: 100%; */
   margin: 0 auto;
   padding: 0px 0px 0px 0px;
+  max-width: 1370px;
 }
 
 .content-container {
@@ -421,6 +422,10 @@ nav {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  width: 100%;
 }
 
 nav ul {
@@ -466,10 +471,6 @@ footer {
 }
 
 /* Add padding to all of the .content-container child elements */
-.content-container > * {
-  /* padding: 20px; */
-}
-
 @media only screen and (orientation: landscape) {
   body {
     /* -- */
@@ -488,7 +489,7 @@ footer {
     background: rgba(7, 152, 161, 0.8);
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
-    min-width: 258px;
+    min-width: 260px;
   }
   header {
     -ms-grid-column: 1;
@@ -511,12 +512,8 @@ footer {
     grid-row: 3 / 4;
   }
   nav {
-    -ms-grid-column: 1;
-    grid-column: 1;
-    -ms-grid-row: 1;
-    -ms-grid-row-span: 1;
-    grid-row: 1 / 2;
-    height: 24px;
+    height: 30px;
+    min-width: 260px;
   }
   aside#aside1 {
     /* display: none; */
@@ -589,7 +586,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 26px;
+    height: 32px;
   }
   aside#aside1 {
     /* display: none; */
@@ -640,14 +637,17 @@ footer {
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
   }
+  .content-container > * {
+    padding: 20px;
+  }
   header {
     -ms-grid-column: 1;
     grid-column: 1;
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    height: 220px;
-    background: url("./images/header-768.jpg") no-repeat center top;
+    height: 200px;
+    background: url("./images/header-768.jpg") no-repeat center bottom;
   }
   main {
     -ms-grid-column: 1;
@@ -662,7 +662,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 40px;
+    height: 50px;
   }
   aside#aside1 {
     /* display: none; */
@@ -710,6 +710,9 @@ footer {
     background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
   }
+  .content-container > * {
+    padding: 25px;
+  }
   header {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
@@ -717,8 +720,8 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-    height: 293px;
-    background: url("./images/header-1024.jpg") no-repeat center top;
+    height: 250px;
+    background: url("./images/header-1024.jpg") no-repeat center bottom;
   }
   main {
     -ms-grid-column: 1;
@@ -732,7 +735,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 40px;
+    height: 50px;
   }
   aside#aside1 {
     -ms-grid-column: 3;
@@ -783,12 +786,15 @@ footer {
   .wrapper {
     margin-bottom: 80px;
   }
+  .content-container > * {
+    padding: 25px;
+  }
   .content-container {
     -ms-grid-columns: (minmax(0, 3fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 3fr)) 1fr;
     font-size: 1.0em;
     max-width: 1370px;
-    border: 1px solid #066e75;
+    border: 0px solid #066e75;
     border-radius: 0 0 4px 4px;
     -webkit-box-shadow: 5px 7px 15px #fff;
             box-shadow: 5px 7px 15px #fff;
@@ -803,8 +809,8 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-    height: 392px;
-    background: url("./images/header.jpg") no-repeat center top;
+    height: 340px;
+    background: url("./images/header.jpg") no-repeat center bottom;
   }
   main {
     -ms-grid-column: 1;
