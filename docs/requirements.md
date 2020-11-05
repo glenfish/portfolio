@@ -26,6 +26,18 @@ __Live presentation:__ 13-11-20
 ## Detailed Requirements
 
 ### Content : 4+ pages
+
+> Projects (more detail on projects)
+
+> Resume (with download link to PDF)
+
+> Blog (mock-up of 4 blog posts)
+
+> Resources (resource list for developers)
+
+> Contact (email address and contact form)
+
+
 - [ ] name and contact info
 - [ ] links to professional accounts (LinkedIn, Github)
 - [ ] work and study history
