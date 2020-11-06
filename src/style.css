@@ -347,6 +347,7 @@ html {
           box-sizing: border-box;
   color: white;
   font-family: helvetica, arial, sans-serif;
+  background: black;
 }
 
 *, *:before, *:after {
@@ -368,13 +369,13 @@ body {
 
 aside, section, footer, main {
   border: 1px solid rgba(90, 231, 220, 0.3);
-  border-radius: 8px;
+  border-radius: 4px;
   padding: 8px;
   background: rgba(203, 255, 255, 0.1);
-  background: linear-gradient(135deg, rgba(4, 103, 110, 0.6) 0%, rgba(17, 103, 72, 0.7) 80%);
-  margin: 8px;
-  -webkit-box-shadow: 1px 1px 7px rgba(32, 173, 138, 0.5);
-          box-shadow: 1px 1px 7px rgba(32, 173, 138, 0.5);
+  background: linear-gradient(135deg, rgba(4, 103, 110, 0.9) 0%, rgba(31, 150, 106, 0.9) 80%);
+  margin: 6px;
+  -webkit-box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
+          box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
 }
 
 a {
@@ -395,7 +396,9 @@ a {
   width: 100%;
   margin: 0 auto;
   /* background: red; */
-  padding: 0px 1px 5px 1px;
+  background: #b9ddf9;
+  background: linear-gradient(24deg, #b9ddf9 20%, #c4e8bb 45%, #6cccd4 60%);
+  padding: 0px 0px 5px px;
 }
 
 h1, h2 {
@@ -404,7 +407,7 @@ h1, h2 {
 
 header {
   /* background: skyblue; */
-  margin: 0px 0px 10px 0px;
+  margin: 0px 0px 2px 0px;
 }
 
 header h1 {
@@ -493,8 +496,6 @@ footer {
         grid-template-rows: auto;
     font-size: 0.875em;
     text-align: left;
-    background: rgba(7, 152, 161, 0.8);
-    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
     min-width: 260px;
   }
@@ -504,7 +505,7 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    min-height: 80px;
+    min-height: 70px;
     background: black;
     min-width: 258px;
     z-index: 500;
@@ -569,7 +570,7 @@ footer {
     top: 0px;
     margin: 0 auto;
     padding: 0;
-    height: 80px;
+    height: 70px;
     position: relative;
     background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
@@ -586,8 +587,6 @@ footer {
         grid-template-rows: auto;
     font-size: 0.875em;
     text-align: left;
-    background: rgba(7, 152, 161, 0.8);
-    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
   }
   header {
@@ -679,8 +678,6 @@ footer {
     -ms-grid-rows: auto;
         grid-template-rows: auto;
     font-size: 0.875em;
-    background: rgba(7, 152, 161, 0.8);
-    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
   }
   .content-container > * {
@@ -764,8 +761,6 @@ footer {
     -ms-grid-columns: (minmax(0, 4fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 4fr)) 1fr;
     font-size: 0.9375em;
-    background: rgba(7, 152, 161, 0.8);
-    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 160%;
   }
   .content-container > * {
@@ -850,11 +845,10 @@ footer {
 /* START desktop layout*/
 @media (min-width: 1025px) {
   body {
-    background: url(./images/bgnd.jpg) repeat-y;
-    background-size: cover;
+    background: black;
   }
   .wrapper {
-    margin-bottom: 80px;
+    margin-bottom: 0px;
   }
   .content-container > * {
     padding: 25px;
@@ -866,10 +860,6 @@ footer {
     max-width: 1370px;
     border: 0px solid #066e75;
     border-radius: 0 0 4px 4px;
-    -webkit-box-shadow: 5px 7px 15px #fff;
-            box-shadow: 5px 7px 15px #fff;
-    background: rgba(7, 152, 161, 0.9);
-    background: linear-gradient(58deg, #0798a1 0%, #116748 100%);
     line-height: 150%;
   }
   header {
@@ -879,45 +869,8 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-    height: 170px;
+    height: 160px;
     background: black;
-  }
-  #header-text {
-    margin: 0 auto;
-    padding: 5px;
-    position: relative;
-    top: 0px;
-    color: #08b18c;
-  }
-  #header-text > h1 {
-    position: relative;
-    text-align: center;
-    font-size: 6rem;
-    width: 100%;
-    margin-bottom: 0;
-    text-shadow: 2px 2px 2px white;
-    margin: 0;
-  }
-  .surname {
-    display: block;
-    margin-top: 30px;
-    margin-bottom: 0;
-    text-align: center;
-    letter-spacing: 0.5rem;
-    margin-left: 100px;
-    font-size: 2.5rem;
-    color: #14c4ca;
-  }
-  #header-text > h4 {
-    display: block;
-    position: relative;
-    top: 42px;
-    text-align: center;
-    font-size: 1.25rem;
-    letter-spacing: 0.3rem;
-    color: #5bcfc0;
-    margin: 0 0 0 10px;
-    text-transform: uppercase;
   }
   main {
     -ms-grid-column: 1;
@@ -981,9 +934,9 @@ footer {
     top: -10px;
     margin: 0 auto;
     padding: 0;
-    height: 150px;
+    height: 140px;
     position: relative;
-    background: black url("./images/header.gif") no-repeat center center;
+    background: black url("./images/header-800.gif") no-repeat center center;
     background-size: contain;
   }
 }
