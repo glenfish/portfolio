@@ -487,7 +487,7 @@ footer {
   }
 }
 
-/* START phone layout */
+/* START phone layout --------------------------------------------------------------------------*/
 @media only screen and (min-width: 1px) and (max-width: 414px) {
   .content-container {
     -ms-grid-columns: minmax(1px, 1fr);
@@ -505,7 +505,7 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    min-height: 80px;
+    min-height: 60px;
     background: black;
     min-width: 258px;
     z-index: 500;
@@ -520,6 +520,7 @@ footer {
   nav {
     height: 50px;
     min-width: 260px;
+    font-size: 0.85em;
   }
   nav ul {
     display: -webkit-box;
@@ -529,8 +530,8 @@ footer {
     /* align-items */
   }
   nav ul li {
-    padding-left: 6px;
-    padding-right: 6px;
+    padding-left: 4px;
+    padding-right: 4px;
   }
   aside#aside1 {
     /* display: none; */
@@ -570,15 +571,15 @@ footer {
     top: 0px;
     margin: 0 auto;
     padding: 0;
-    height: 80px;
+    height: 60px;
     position: relative;
-    background: black url("./images/header.gif") no-repeat center center;
+    background: black url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
 }
 
 /* END phone layout */
-/* START phone 2 layout  -----------------------------------------------------------------------------------------------*/
+/* START phone 2 layout  ------------------------------------------------------------------------------------------------*/
 @media (min-width: 415px) and (max-width: 599px) {
   .content-container {
     -ms-grid-columns: minmax(415px, 1fr);
@@ -664,7 +665,7 @@ footer {
     padding: 0;
     height: 100px;
     position: relative;
-    background: black url("./images/header.gif") no-repeat center center;
+    background: black url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -749,7 +750,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/header.gif") no-repeat center center;
+    background: black url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -835,7 +836,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/header.gif") no-repeat center center;
+    background: black url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -936,7 +937,7 @@ footer {
     padding: 0;
     height: 140px;
     position: relative;
-    background: black url("./images/header-800.gif") no-repeat center center;
+    background: black url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
 }
