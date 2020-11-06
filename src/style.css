@@ -529,8 +529,8 @@ footer {
     /* align-items */
   }
   nav ul li {
-    padding-left: 3px;
-    padding-right: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
   }
   aside#aside1 {
     /* display: none; */
