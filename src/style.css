@@ -504,7 +504,8 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    min-height: 40px;
+    min-height: 80px;
+    background: black;
     min-width: 258px;
     z-index: 500;
   }
@@ -568,9 +569,9 @@ footer {
     top: 0px;
     margin: 0 auto;
     padding: 0;
-    height: 60px;
+    height: 80px;
     position: relative;
-    background: black url("./images/welcome-sml.gif") no-repeat center center;
+    background: black url("./images/header-414.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -595,7 +596,7 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    height: 90px;
+    height: 100px;
     background: black;
   }
   main {
@@ -662,9 +663,9 @@ footer {
     top: 0px;
     margin: 0 auto;
     padding: 0;
-    height: 90px;
+    height: 100px;
     position: relative;
-    background: black url("./images/welcome-lrg.gif") no-repeat center center;
+    background: black url("./images/header-600.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -751,7 +752,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/welcome-lrg.gif") no-repeat center center;
+    background: black url("./images/header-800.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -839,7 +840,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/welcome-lrg.gif") no-repeat center center;
+    background: black url("./images/header-800.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -982,7 +983,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/welcome-lrg.gif") no-repeat center center;
+    background: black url("./images/header-800.gif") no-repeat center center;
     background-size: contain;
   }
 }
