@@ -528,7 +528,7 @@ footer {
   nav {
     height: 50px;
     min-width: 260px;
-    font-size: 0.875em;
+    font-size: 0.9375em;
   }
   nav ul {
     display: -webkit-box;
@@ -621,7 +621,7 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 40px;
-    font-size: 0.875em;
+    font-size: 0.9375em;
   }
   nav ul {
     display: -webkit-box;
@@ -716,6 +716,7 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 40px;
+    font-size: 1.125em;
   }
   aside#aside1 {
     /* display: none; */
@@ -749,9 +750,6 @@ footer {
     grid-row: 6 / 7;
     -ms-grid-column: 1;
     grid-column: 1;
-  }
-  nav {
-    font-size: 1.125em;
   }
   #anim {
     top: -16px;
@@ -799,6 +797,7 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 44px;
+    font-size: 1.2em;
   }
   aside#aside1 {
     -ms-grid-column: 3;
@@ -835,9 +834,6 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-  }
-  nav {
-    font-size: 1.2em;
   }
   #anim {
     top: -16px;
@@ -892,6 +888,7 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 60px;
+    font-size: 1.5em;
   }
   nav > ul {
     max-width: 1370px;
@@ -933,9 +930,6 @@ footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-  }
-  nav {
-    font-size: 1.5em;
   }
   #anim {
     top: -10px;
