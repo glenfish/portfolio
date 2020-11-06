@@ -516,7 +516,7 @@ footer {
     grid-row: 3 / 4;
   }
   nav {
-    height: 30px;
+    height: 40px;
     min-width: 260px;
   }
   nav ul {
@@ -611,7 +611,7 @@ footer {
     -ms-grid-row: 1;
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
-    height: 32px;
+    height: 40px;
   }
   nav ul {
     display: -webkit-box;
