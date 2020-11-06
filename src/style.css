@@ -528,7 +528,7 @@ footer {
   nav {
     height: 50px;
     min-width: 260px;
-    font-size: 0.85em;
+    font-size: 0.875em;
   }
   nav ul {
     display: -webkit-box;
@@ -621,6 +621,7 @@ footer {
     -ms-grid-row-span: 1;
     grid-row: 1 / 2;
     height: 40px;
+    font-size: 0.875em;
   }
   nav ul {
     display: -webkit-box;
