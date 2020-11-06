@@ -571,7 +571,7 @@ footer {
     padding: 0;
     height: 80px;
     position: relative;
-    background: black url("./images/header-414.gif") no-repeat center center;
+    background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -665,7 +665,7 @@ footer {
     padding: 0;
     height: 100px;
     position: relative;
-    background: black url("./images/header-600.gif") no-repeat center center;
+    background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -752,7 +752,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/header-800.gif") no-repeat center center;
+    background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -840,7 +840,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/header-800.gif") no-repeat center center;
+    background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
   }
 }
@@ -983,7 +983,7 @@ footer {
     padding: 0;
     height: 150px;
     position: relative;
-    background: black url("./images/header-800.gif") no-repeat center center;
+    background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
   }
 }
