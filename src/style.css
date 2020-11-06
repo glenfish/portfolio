@@ -505,7 +505,7 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    min-height: 70px;
+    min-height: 80px;
     background: black;
     min-width: 258px;
     z-index: 500;
@@ -518,7 +518,7 @@ footer {
     grid-row: 3 / 4;
   }
   nav {
-    height: 40px;
+    height: 50px;
     min-width: 260px;
   }
   nav ul {
@@ -570,7 +570,7 @@ footer {
     top: 0px;
     margin: 0 auto;
     padding: 0;
-    height: 70px;
+    height: 80px;
     position: relative;
     background: black url("./images/header.gif") no-repeat center center;
     background-size: contain;
