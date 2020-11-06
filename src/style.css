@@ -347,7 +347,7 @@ html {
           box-sizing: border-box;
   color: white;
   font-family: helvetica, arial, sans-serif;
-  background: black;
+  background: #a4a29c;
 }
 
 *, *:before, *:after {
@@ -387,6 +387,7 @@ a {
   /* width: 100%; */
   margin: 0 auto;
   padding: 0px 0px 0px 0px;
+  max-width: 1370px;
 }
 
 .content-container {
@@ -432,6 +433,7 @@ nav {
   top: 0;
   width: 100%;
   z-index: 1000;
+  font-family: 'Visitor TT1 BRK';
 }
 
 nav ul {
@@ -481,6 +483,12 @@ footer {
 }
 
 /* Add padding to all of the .content-container child elements */
+@font-face {
+  font-family: 'Visitor TT1 BRK';
+  src: url("fonts/visitor1.eot");
+  src: url("fonts/visitor1.eot?#iefix") format("embedded-opentype"), url("fonts/visitor1.woff2") format("woff2"), url("fonts/visitor1.woff") format("woff"), url("fonts/visitor1.ttf") format("truetype"), url("fonts/visitor1.svg#Visitor TT1 BRK") format("svg");
+}
+
 @media only screen and (orientation: landscape) {
   body {
     /* -- */
@@ -761,7 +769,7 @@ footer {
   .content-container {
     -ms-grid-columns: (minmax(0, 4fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 4fr)) 1fr;
-    font-size: 0.9375em;
+    font-size: 1em;
     line-height: 160%;
   }
   .content-container > * {
@@ -845,9 +853,6 @@ footer {
 /* -------------------------------------------------------------------------------------------------------------- */
 /* START desktop layout*/
 @media (min-width: 1025px) {
-  body {
-    background: black;
-  }
   .wrapper {
     margin-bottom: 0px;
   }
@@ -929,7 +934,7 @@ footer {
     grid-column: 1 / 5;
   }
   nav {
-    font-size: 1.2em;
+    font-size: 1.5em;
   }
   #anim {
     top: -10px;
@@ -939,6 +944,7 @@ footer {
     position: relative;
     background: black url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
+    z-index: 2000;
   }
 }
 
