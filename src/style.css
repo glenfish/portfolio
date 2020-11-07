@@ -346,7 +346,7 @@ html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   color: white;
-  font-family: helvetica, arial, sans-serif;
+  font-family: Monospace, 'Helvetica', 'Arial', sans-serif;
   background: #252525;
 }
 
@@ -378,6 +378,14 @@ aside, section, footer, main {
           box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
 }
 
+footer {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -404,6 +412,13 @@ a {
 
 h1, h2 {
   text-transform: uppercase;
+  font-size: 2.0em;
+}
+
+h3 {
+  font-family: Monospace, 'Helvetica', 'Arial';
+  font-size: 1em;
+  opacity: 0.7;
 }
 
 header {
@@ -433,7 +448,7 @@ nav {
   top: 0;
   width: 100%;
   z-index: 1000;
-  font-family: 'Visitor TT1 BRK';
+  font-family: 'Visitor TT1 BRK', Monospace;
 }
 
 nav ul {
@@ -466,23 +481,6 @@ nav ul li {
   font-family: 'Catamaran';
 }
 
-aside#aside1 {
-  /* background: seagreen; */
-}
-
-footer {
-  /* background: darkslateblue; */
-}
-
-#section2 {
-  /* background-color: black; */
-}
-
-#section3 {
-  /* background-color: rgb(170, 11, 11); */
-}
-
-/* Add padding to all of the .content-container child elements */
 @font-face {
   font-family: 'Visitor TT1 BRK';
   src: url("fonts/visitor1.eot");
@@ -617,7 +615,7 @@ footer {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    min-height: 70px;
+    min-height: 80px;
     background: black;
     min-width: 258px;
     z-index: 500;
@@ -633,15 +631,16 @@ footer {
     height: 50px;
     min-width: 260px;
     font-size: 1.0em;
+    font-family: 'Visitor TT1 BRK';
   }
-  nav ul {
+  ul {
     display: -webkit-box;
     -webkit-box-pack: center;
     /* justify-content */
     -webkit-box-align: center;
     /* align-items */
   }
-  nav ul li {
+  ul li {
     padding-left: 4px;
     padding-right: 4px;
   }
@@ -680,7 +679,7 @@ footer {
     grid-column: 1;
   }
   #anim {
-    top: -10px;
+    top: -5px;
     margin: 0 auto;
     padding: 0;
     height: 60px;
@@ -738,15 +737,16 @@ footer {
     grid-row: 1 / 2;
     height: 40px;
     font-size: 1.0em;
+    font-family: 'Visitor TT1 BRK';
   }
-  nav ul {
+  ul {
     display: -webkit-box;
     -webkit-box-pack: center;
     /* justify-content */
     -webkit-box-align: center;
     /* align-items */
   }
-  nav ul li {
+  ul li {
     padding-left: 3px;
     padding-right: 3px;
   }
