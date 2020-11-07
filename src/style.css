@@ -413,12 +413,13 @@ a {
 
 h1, h2 {
   text-transform: uppercase;
+  font-family: 'Consolas', Monospace, 'Helvetica', 'Arial';
   font-size: 1.875em;
   color: #80ffb0;
 }
 
 h3 {
-  font-family: Monospace, 'Helvetica', 'Arial';
+  font-family: 'Consolas', Monospace, 'Helvetica', 'Arial';
   font-size: 1em;
   opacity: 0.7;
 }
