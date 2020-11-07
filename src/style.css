@@ -630,7 +630,7 @@ nav ul li {
     grid-row: 3 / 4;
   }
   nav {
-    height: 50px;
+    height: 55px;
     min-width: 260px;
     font-size: 1.0em;
     font-family: 'Visitor TT1 BRK';
@@ -910,7 +910,7 @@ nav ul li {
   .content-container {
     -ms-grid-columns: (minmax(0, 4fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 4fr)) 1fr;
-    font-size: 1em;
+    font-size: 0.875em;
     line-height: 160%;
   }
   .content-container > * {
@@ -1013,7 +1013,7 @@ nav ul li {
   .content-container {
     -ms-grid-columns: (minmax(0, 3fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 3fr)) 1fr;
-    font-size: 1.0em;
+    font-size: 0.9375em;
     max-width: 1370px;
     border: 0px solid #066e75;
     border-radius: 0 0 4px 4px;
