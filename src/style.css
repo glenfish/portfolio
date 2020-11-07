@@ -491,7 +491,7 @@ footer {
 
 @-webkit-keyframes letter-flicker {
   0% {
-    opacity: 0.6;
+    opacity: 0.8;
     -webkit-transform: rotate(1deg);
             transform: rotate(1deg);
   }
@@ -522,7 +522,7 @@ footer {
             transform: rotate(1deg);
   }
   69% {
-    opacity: 01.0;
+    opacity: 1.0;
     -webkit-transform: skew(-3deg) rotate(1deg);
             transform: skew(-3deg) rotate(1deg);
   }
@@ -543,7 +543,7 @@ footer {
 
 @keyframes letter-flicker {
   0% {
-    opacity: 0.6;
+    opacity: 0.8;
     -webkit-transform: rotate(1deg);
             transform: rotate(1deg);
   }
@@ -574,7 +574,7 @@ footer {
             transform: rotate(1deg);
   }
   69% {
-    opacity: 01.0;
+    opacity: 1.0;
     -webkit-transform: skew(-3deg) rotate(1deg);
             transform: skew(-3deg) rotate(1deg);
   }
@@ -697,8 +697,8 @@ footer {
     background: black url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
-    -webkit-animation: letter-flicker 5s infinite;
-            animation: letter-flicker 5s infinite;
+    -webkit-animation: letter-flicker 4s infinite;
+            animation: letter-flicker 4s infinite;
   }
 }
 
@@ -802,8 +802,8 @@ footer {
     background: black url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
-    -webkit-animation: letter-flicker 5s infinite;
-            animation: letter-flicker 5s infinite;
+    -webkit-animation: letter-flicker 4s infinite;
+            animation: letter-flicker 4s infinite;
   }
 }
 
@@ -897,8 +897,8 @@ footer {
     background: black url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
-    -webkit-animation: letter-flicker 5s infinite;
-            animation: letter-flicker 5s infinite;
+    -webkit-animation: letter-flicker 4s infinite;
+            animation: letter-flicker 4s infinite;
   }
 }
 
@@ -993,8 +993,8 @@ footer {
     background: black url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
-    -webkit-animation: letter-flicker 5s infinite;
-            animation: letter-flicker 5s infinite;
+    -webkit-animation: letter-flicker 4s infinite;
+            animation: letter-flicker 4s infinite;
   }
 }
 
@@ -1101,8 +1101,8 @@ footer {
     background: black url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
-    -webkit-animation: letter-flicker 5s infinite;
-            animation: letter-flicker 5s infinite;
+    -webkit-animation: letter-flicker 4s infinite;
+            animation: letter-flicker 4s infinite;
   }
 }
 
