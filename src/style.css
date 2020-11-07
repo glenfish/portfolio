@@ -346,7 +346,7 @@ html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   color: white;
-  font-family: Monospace, 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Consolas', Monospace, 'Helvetica', 'Arial', sans-serif;
   background: #252525;
 }
 
