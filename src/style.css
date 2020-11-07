@@ -370,7 +370,7 @@ body {
 aside, section, footer, main {
   border: 1px solid rgba(90, 231, 220, 0.3);
   border-radius: 6px;
-  padding: 8px;
+  padding: 16px;
   background: rgba(13, 94, 83, 0.6);
   background: linear-gradient(-45deg, rgba(13, 94, 83, 0.6) 0%, rgba(39, 122, 92, 0.9) 50%);
   margin: 5px;
