@@ -612,7 +612,7 @@ nav ul li {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    min-height: 80px;
+    min-height: 100px;
     background: black;
     min-width: 258px;
     z-index: 500;
@@ -700,7 +700,7 @@ nav ul li {
 
 /* END phone layout */
 /* START phone 2 layout  ------------------------------------------------------------------------------------------------*/
-@media screen and (min-width: 415px) and (max-width: 599px) {
+@media (min-width: 415px) and (max-width: 599px) {
   .content-container {
     -ms-grid-columns: minmax(415px, 1fr);
         grid-template-columns: minmax(415px, 1fr);
