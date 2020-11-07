@@ -700,7 +700,7 @@ nav ul li {
 
 /* END phone layout */
 /* START phone 2 layout  ------------------------------------------------------------------------------------------------*/
-@media (min-width: 415px) and (max-width: 599px) {
+@media only screen and (min-width: 415px) and (max-width: 599px) {
   .content-container {
     -ms-grid-columns: minmax(415px, 1fr);
         grid-template-columns: minmax(415px, 1fr);
