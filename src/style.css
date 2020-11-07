@@ -492,18 +492,16 @@ footer {
 @-webkit-keyframes letter-flicker {
   0% {
     opacity: 0.6;
-    -webkit-transform: translate(0px, 0px) rotate(1deg);
-            transform: translate(0px, 0px) rotate(1deg);
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
   }
   2% {
     opacity: 0.8;
-    -webkit-transform: skew(-5deg) translate(-1px, 1px);
-            transform: skew(-5deg) translate(-1px, 1px);
+    -webkit-transform: skew(-5deg);
+            transform: skew(-5deg);
   }
   3% {
     opacity: 0.6;
-    -webkit-transform: translate(0px, 0px);
-            transform: translate(0px, 0px);
   }
   4% {
     opacity: 1;
@@ -533,36 +531,32 @@ footer {
   }
   98% {
     opacity: 1.0;
-    -webkit-transform: translate(0px, 0px) rotate(1deg);
-            transform: translate(0px, 0px) rotate(1deg);
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
   }
   99% {
     opacity: 0.7;
-    -webkit-transform: translate(5px, 3px);
-            transform: translate(5px, 3px);
   }
   100% {
     opacity: 1.0;
-    -webkit-transform: skew(2deg) rotate(1deg) translate(0px, 0px);
-            transform: skew(2deg) rotate(1deg) translate(0px, 0px);
+    -webkit-transform: skew(2deg) rotate(1deg);
+            transform: skew(2deg) rotate(1deg);
   }
 }
 
 @keyframes letter-flicker {
   0% {
     opacity: 0.6;
-    -webkit-transform: translate(0px, 0px) rotate(1deg);
-            transform: translate(0px, 0px) rotate(1deg);
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
   }
   2% {
     opacity: 0.8;
-    -webkit-transform: skew(-5deg) translate(-1px, 1px);
-            transform: skew(-5deg) translate(-1px, 1px);
+    -webkit-transform: skew(-5deg);
+            transform: skew(-5deg);
   }
   3% {
     opacity: 0.6;
-    -webkit-transform: translate(0px, 0px);
-            transform: translate(0px, 0px);
   }
   4% {
     opacity: 1;
@@ -592,18 +586,16 @@ footer {
   }
   98% {
     opacity: 1.0;
-    -webkit-transform: translate(0px, 0px) rotate(1deg);
-            transform: translate(0px, 0px) rotate(1deg);
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
   }
   99% {
     opacity: 0.7;
-    -webkit-transform: translate(5px, 3px);
-            transform: translate(5px, 3px);
   }
   100% {
     opacity: 1.0;
-    -webkit-transform: skew(2deg) rotate(1deg) translate(0px, 0px);
-            transform: skew(2deg) rotate(1deg) translate(0px, 0px);
+    -webkit-transform: skew(2deg) rotate(1deg);
+            transform: skew(2deg) rotate(1deg);
   }
 }
 
