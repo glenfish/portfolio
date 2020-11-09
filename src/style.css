@@ -418,6 +418,10 @@ a {
   color: inherit;
 }
 
+aside img, section img, main img {
+  margin: 12px 6px 6px 0px;
+}
+
 .wrapper {
   /* width: 100%; */
   margin: 0 auto;
@@ -451,8 +455,25 @@ h3 {
 }
 
 aside#aside1 h2 {
+  position: relative;
+  top: -10px;
+  padding-left: 20px;
   font-family: 'Kalam';
-  color: #a2e5ff;
+  color: #d0f2ff;
+  background: url(./images/banner-bgnd.png) no-repeat left bottom;
+  height: 58px;
+}
+
+.lower {
+  display: block;
+  position: relative;
+  top: 0px;
+  left: 90px;
+  -webkit-transform: skew(-20deg) rotate(-4deg);
+          transform: skew(-20deg) rotate(-4deg);
+  letter-spacing: 0.1em;
+  font-size: 110%;
+  color: #23d89c;
 }
 
 header {
@@ -523,14 +544,19 @@ nav ul li {
   font-family: 'Catamaran';
 }
 
-aside#aside1 blockquote {
+blockquote {
   background: rgba(13, 94, 83, 0.6);
-  padding: 5px 15px;
+  padding: 5px 15px 5px 15px;
   border-radius: 5px;
   margin: auto;
   text-align: center;
-  color: #80ffee;
-  font-size: 110%;
+  color: white;
+  font-size: 120%;
+  border: 1px #34c4ce solid;
+  background: -webkit-gradient(linear, left top, left bottom, from(#0ba4af), color-stop(30%, #0e8a7f));
+  background: linear-gradient(180deg, #0ba4af 0%, #0e8a7f 30%);
+  font-family: 'PT Sans Narrow', sans-serif;
+  opacity: 0.85;
 }
 
 @font-face {
@@ -745,6 +771,9 @@ aside#aside1 img {
     font-size: 1.2em;
     line-height: 150%;
   }
+  aside#aside1 h2 {
+    font-size: 1.6em;
+  }
   footer {
     /* display:none; */
     -ms-grid-column: 1;
@@ -954,6 +983,9 @@ aside#aside1 img {
     font-size: 1.2em;
     line-height: 150%;
   }
+  aside#aside1 h2 {
+    font-size: 2em;
+  }
   footer {
     /* display:none; */
     -ms-grid-column: 1;
@@ -1045,6 +1077,9 @@ aside#aside1 img {
     grid-column: 3 / 5;
     font-size: 1.2em;
     line-height: 150%;
+  }
+  aside#aside1 h2 {
+    font-size: 2.0em;
   }
   footer {
     -ms-grid-column: 1;
@@ -1157,6 +1192,9 @@ aside#aside1 img {
     font-size: 1.2em;
     line-height: 150%;
   }
+  aside#aside1 h2 {
+    font-size: 2.0em;
+  }
   footer {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
@@ -1209,9 +1247,6 @@ aside#aside1 img {
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
             animation: letter-flicker 4s infinite;
-  }
-  aside img, section img, main img {
-    margin: 2px 6px 6px 0px;
   }
 }
 
