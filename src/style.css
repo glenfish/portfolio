@@ -462,6 +462,7 @@ aside#aside1 h2 {
   color: #d0f2ff;
   background: url(./images/banner-bgnd.png) no-repeat left bottom;
   text-align: left;
+  max-width: 100%;
 }
 
 .lower {
