@@ -383,7 +383,7 @@ aside {
 
 section, footer, main {
   background: rgba(13, 94, 83, 0.8);
-  background: linear-gradient(-42deg, rgba(11, 85, 75, 0.7) 0%, #35a079 50%);
+  background: linear-gradient(135deg, rgba(14, 141, 150, 0.8) 10%, #31a87b 50%);
 }
 
 aside, main {
