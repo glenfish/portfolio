@@ -372,7 +372,7 @@ body {
 aside, section, footer, main {
   border: 1px solid rgba(90, 231, 220, 0.3);
   border-radius: 6px;
-  padding: 16px;
+  padding: 13px;
   margin: 5px;
   -webkit-box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
           box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
@@ -410,7 +410,7 @@ footer {
 }
 
 aside p, section p, main p {
-  margin: 8px 0px;
+  margin: 4px 4px;
 }
 
 a {
