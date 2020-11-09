@@ -665,6 +665,10 @@ blockquote a {
   }
 }
 
+aside#aside1 {
+  overflow: hidden;
+}
+
 aside#aside1 img {
   float: left;
   padding: 7px;
