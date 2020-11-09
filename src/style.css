@@ -397,6 +397,14 @@ footer {
           justify-content: space-between;
 }
 
+aside img, section img, main img {
+  margin: 2px 3px 3px 0px;
+}
+
+aside p, section p, main p {
+  margin: 12px 0px;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -424,7 +432,7 @@ a {
 h1, h2 {
   text-transform: uppercase;
   font-family: 'Consolas', Monospace, 'Helvetica', 'Arial';
-  font-size: 1.875em;
+  font-size: 1.75em;
   color: #80ffb0;
 }
 
@@ -488,6 +496,10 @@ nav ul {
   padding: 0;
 }
 
+b {
+  color: #80ffb0;
+}
+
 nav ul li {
   margin: 0 10px;
   list-style: none;
@@ -495,6 +507,15 @@ nav ul li {
 
 .tagline {
   font-family: 'Catamaran';
+}
+
+blockquote {
+  background: #0f664d;
+  padding: 5px 15px;
+  border-radius: 5px;
+  margin: auto;
+  text-align: center;
+  color: #80ffb0;
 }
 
 @font-face {
@@ -1066,11 +1087,11 @@ aside#aside1 img {
   .content-container {
     -ms-grid-columns: (minmax(0, 3fr))[3] 1fr;
         grid-template-columns: repeat(3, minmax(0, 3fr)) 1fr;
-    font-size: 0.9375em;
+    font-size: 0.825em;
     max-width: 1370px;
     border: 0px solid #066e75;
     border-radius: 0 0 4px 4px;
-    line-height: 150%;
+    line-height: 165%;
   }
   header {
     -ms-grid-row: 2;
