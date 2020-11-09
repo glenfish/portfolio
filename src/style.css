@@ -348,8 +348,8 @@ html {
   color: white;
   font-family: 'Consolas', Monospace, 'Helvetica', 'Arial', sans-serif;
   background: #202020;
-  background: -webkit-gradient(linear, left top, right top, color-stop(5%, black), color-stop(28%, #2c2c2c), color-stop(72%, #2c2c2c), color-stop(95%, black));
-  background: linear-gradient(90deg, black 5%, #2c2c2c 28%, #2c2c2c 72%, black 95%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(5%, black), color-stop(25%, #3b3b3b), color-stop(75%, #3b3b3b), color-stop(95%, black));
+  background: linear-gradient(90deg, black 5%, #3b3b3b 25%, #3b3b3b 75%, black 95%);
 }
 
 *, *:before, *:after {
@@ -365,8 +365,8 @@ html {
 }
 
 body {
-  padding: 0;
-  margin: 0;
+  padding: 0px;
+  margin: 0px;
 }
 
 aside, section, footer, main {
