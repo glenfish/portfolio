@@ -378,7 +378,7 @@ aside, section, footer, main {
 
 aside {
   background: rgba(13, 94, 83, 0.6);
-  background: linear-gradient(135deg, rgba(14, 141, 150, 0.3) 0%, rgba(17, 141, 131, 0.8) 50%);
+  background: linear-gradient(35deg, rgba(14, 141, 150, 0.3) 0%, rgba(17, 141, 131, 0.8) 50%);
 }
 
 section, footer, main {
@@ -544,7 +544,11 @@ aside#aside1 h2 {
 
 header {
   /* background: skyblue; */
-  margin: 0px 0px 2px 0px;
+  margin: 5px 2% 5px 2%;
+  border-radius: 10px;
+  -webkit-box-shadow: 1px 1px 8px #3d3d3d;
+          box-shadow: 1px 1px 8px #3d3d3d;
+  background: black;
 }
 
 header h1 {
@@ -883,16 +887,16 @@ aside#aside1 .flexrow {
     padding: 0;
     height: 60px;
     position: relative;
-    background: black url("./images/header-crt-cli.gif") no-repeat center center;
+    background: url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
   #webdev {
-    top: 50px;
+    top: 60px;
     margin: auto;
     height: 16px;
     -webkit-transform: rotate(-2deg) skew(-15deg);
             transform: rotate(-2deg) skew(-15deg);
-    background: black url("./images/webdev.gif") no-repeat center center;
+    background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
@@ -998,16 +1002,16 @@ aside#aside1 .flexrow {
     padding: 0;
     height: 90px;
     position: relative;
-    background: black url("./images/header-crt-cli.gif") no-repeat center center;
+    background: url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
   #webdev {
-    top: 75px;
+    top: 85px;
     margin: auto;
     height: 17px;
     -webkit-transform: rotate(-2deg) skew(-15deg);
             transform: rotate(-2deg) skew(-15deg);
-    background: black url("./images/webdev.gif") no-repeat center center;
+    background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
@@ -1039,7 +1043,7 @@ aside#aside1 .flexrow {
     -ms-grid-row: 2;
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
-    height: 155px;
+    height: 145px;
     background: black;
   }
   main {
@@ -1102,7 +1106,7 @@ aside#aside1 .flexrow {
     padding: 0;
     height: 120px;
     position: relative;
-    background: black url("./images/header-crt-cli.gif") no-repeat center center;
+    background: url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
   #webdev {
@@ -1111,7 +1115,7 @@ aside#aside1 .flexrow {
     height: 20px;
     -webkit-transform: rotate(-2deg) skew(-15deg);
             transform: rotate(-2deg) skew(-15deg);
-    background: black url("./images/webdev.gif") no-repeat center center;
+    background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
@@ -1143,7 +1147,6 @@ aside#aside1 .flexrow {
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
     height: 160px;
-    background: black;
   }
   main {
     -ms-grid-column: 1;
@@ -1207,16 +1210,16 @@ aside#aside1 .flexrow {
     padding: 0;
     height: 70px;
     position: relative;
-    background: black url("./images/header-crt-cli.gif") no-repeat center center;
+    background: url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
   #webdev {
-    top: 80px;
+    top: 100px;
     margin: auto;
     height: 24px;
     -webkit-transform: rotate(-2deg) skew(-15deg);
             transform: rotate(-2deg) skew(-15deg);
-    background: black url("./images/webdev.gif") no-repeat center center;
+    background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
@@ -1327,16 +1330,16 @@ aside#aside1 .flexrow {
     padding-top: 50px;
     height: 70px;
     position: relative;
-    background: black url("./images/header-crt-cli.gif") no-repeat center center;
+    background: url("./images/header-crt-cli.gif") no-repeat center center;
     background-size: contain;
   }
   #webdev {
-    top: 50px;
+    top: 80px;
     margin: auto;
     height: 28px;
     -webkit-transform: rotate(-2deg) skew(-15deg);
             transform: rotate(-2deg) skew(-15deg);
-    background: black url("./images/webdev.gif") no-repeat center center;
+    background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
