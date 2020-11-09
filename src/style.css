@@ -1226,8 +1226,7 @@ aside#aside1 .flexrow {
 /* START desktop layout*/
 @media (min-width: 1025px) {
   body {
-    background: url(./images/bgnd.jpg) repeat-y;
-    background-size: cover;
+    background: white;
     font-size: 0.9125em;
   }
   .wrapper {
