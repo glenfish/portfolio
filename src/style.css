@@ -378,7 +378,7 @@ aside, section, footer, main {
 
 aside {
   background: rgba(13, 94, 83, 0.6);
-  background: linear-gradient(-45deg, rgba(13, 85, 94, 0.568) 0%, rgba(39, 122, 118, 0.9) 50%);
+  background: linear-gradient(135deg, rgba(14, 141, 150, 0.3) 0%, rgba(17, 141, 131, 0.8) 50%);
 }
 
 section, footer, main {
