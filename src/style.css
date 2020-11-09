@@ -603,10 +603,10 @@ nav ul li {
   font-family: 'Catamaran';
 }
 
-aside#aside1 blockquote {
+blockquote {
   background: rgba(13, 94, 83, 0.6);
   border-radius: 5px;
-  margin: 20px auto 0 auto;
+  margin: 20px auto 30px auto;
   text-align: center;
   color: white;
   font-size: 120%;
@@ -615,6 +615,7 @@ aside#aside1 blockquote {
   background: linear-gradient(180deg, #0ba4af 0%, #0e8a7f 30%);
   font-family: 'PT Sans Narrow', sans-serif;
   opacity: 0.85;
+  width: 200px;
 }
 
 blockquote a {
