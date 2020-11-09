@@ -373,11 +373,19 @@ aside, section, footer, main {
   border: 1px solid rgba(90, 231, 220, 0.3);
   border-radius: 6px;
   padding: 16px;
-  background: rgba(13, 94, 83, 0.6);
-  background: linear-gradient(-45deg, rgba(13, 94, 83, 0.6) 0%, rgba(39, 122, 92, 0.9) 50%);
   margin: 5px;
   -webkit-box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
           box-shadow: 1px 1px 3px rgba(82, 218, 184, 0.5);
+}
+
+aside {
+  background: rgba(13, 94, 83, 0.6);
+  background: linear-gradient(-45deg, rgba(13, 85, 94, 0.568) 0%, rgba(39, 122, 118, 0.9) 50%);
+}
+
+section, footer, main {
+  background: rgba(13, 94, 83, 0.6);
+  background: linear-gradient(-45deg, rgba(13, 94, 83, 0.6) 0%, rgba(39, 122, 92, 0.9) 50%);
 }
 
 aside {
@@ -444,6 +452,7 @@ h3 {
 
 aside#aside1 h2 {
   font-family: 'Kalam';
+  color: #a2e5ff;
 }
 
 header {
@@ -513,13 +522,13 @@ nav ul li {
   font-family: 'Catamaran';
 }
 
-blockquote {
-  background: #0f664d;
+aside#aside1 blockquote {
+  background: #0f6666;
   padding: 5px 15px;
   border-radius: 5px;
   margin: auto;
   text-align: center;
-  color: #80ffb0;
+  color: #80ffee;
 }
 
 @font-face {
