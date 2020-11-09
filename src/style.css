@@ -510,7 +510,8 @@ nav ul {
 }
 
 b {
-  color: #80ffb0;
+  color: #bcebfd;
+  font-size: 125%;
 }
 
 nav ul li {
@@ -523,12 +524,13 @@ nav ul li {
 }
 
 aside#aside1 blockquote {
-  background: #0f6666;
+  background: rgba(13, 94, 83, 0.6);
   padding: 5px 15px;
   border-radius: 5px;
   margin: auto;
   text-align: center;
   color: #80ffee;
+  font-size: 110%;
 }
 
 @font-face {
