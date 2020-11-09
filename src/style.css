@@ -533,7 +533,6 @@ aside#aside1 h2 {
 .lower {
   display: block;
   position: relative;
-  top: 0px;
   left: 70px;
   -webkit-transform: skew(-20deg) rotate(-4deg);
           transform: skew(-20deg) rotate(-4deg);
@@ -909,6 +908,9 @@ aside#aside1 .flexrow {
     width: 80%;
     margin: auto;
   }
+  .lower {
+    top: -5px;
+  }
 }
 
 /* END phone layout */
@@ -1021,6 +1023,9 @@ aside#aside1 .flexrow {
     width: 80%;
     margin: auto;
   }
+  .lower {
+    top: -10px;
+  }
 }
 
 /* END phone 2 layout */
@@ -1125,6 +1130,9 @@ aside#aside1 .flexrow {
     width: 100%;
     margin: auto;
   }
+  .lower {
+    top: -10px;
+  }
 }
 
 /* END tablet layout */
@@ -1228,6 +1236,9 @@ aside#aside1 .flexrow {
   main .iconrow {
     width: 100%;
     margin: auto;
+  }
+  .lower {
+    top: 0;
   }
 }
 
@@ -1344,6 +1355,9 @@ aside#aside1 .flexrow {
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
             animation: letter-flicker 4s infinite;
+  }
+  .lower {
+    top: 0;
   }
 }
 
