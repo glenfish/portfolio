@@ -544,11 +544,11 @@ nav ul li {
   font-family: 'Catamaran';
 }
 
-blockquote {
+aside#aside1 blockquote {
   background: rgba(13, 94, 83, 0.6);
   padding: 5px 15px 5px 15px;
   border-radius: 5px;
-  margin: auto;
+  margin: 20px auto 0 auto;
   text-align: center;
   color: white;
   font-size: 120%;
