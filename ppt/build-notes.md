@@ -66,6 +66,20 @@ Header has been converted from all images to images and web fonts. All responsiv
 
 'fonts' branch has been merged into 'main'.
 
+### 10-11-20
+
+The site has undergone a lot of design change since its initial draft and wireframes. After presenting it to Alex and discussing it with him, and looking at a few example sites I realized it didn't have any impact. Instead of 50's robot kitsch, now its 70's retro cool (well, hopefully!). The headers have been replaced with an animated gif element which was created from live video from my desktop. One of Alex's comments was that it should have my personality in the design and content, so with that in mind, I've added an aside element that gives some early background on how I got into computing as a kid, with some retro images.
+
+This has also affected the colors of the site somewhat. At present it's a mix of green, blue, black and white and pink highlights. The colors are in keeping with what I feel is late 70's and early 80's pop culture.
+
+I'm moving on now to the main section which will be in keeping with the wireframe for the most part.
+
+There's only 3 days until presentation but I have a lot of this already done in terms of content. The site is working pretty well across most devices, with the exception of the very small phones (like the iphone 5). I will eventually fix that but its more important that I get the requirements finished for the assessment, even if that means sacrificing some content. I will use dummy text where necessary to fill out the site.
+
+### 11-11-20
+
+The tech stack icons are flex-wrapping across the main section, and the circular pic of me is floating left with text wrapping to the right. The 'download resume button has been moved to the 'main' section from the 'aside1' section.
+
 ---
 
 ## Trello Board
