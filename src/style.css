@@ -410,7 +410,7 @@ footer {
 }
 
 aside p, section p, main p {
-  margin: 12px 0px;
+  margin: 8px 0px;
 }
 
 a {
@@ -419,7 +419,7 @@ a {
 }
 
 aside img, section img, main img {
-  margin: 12px 6px 6px 0px;
+  margin: 12px 4px 4px 0px;
 }
 
 .wrapper {
@@ -663,7 +663,7 @@ blockquote {
 
 aside#aside1 img {
   float: left;
-  padding: 10px;
+  padding: 7px;
 }
 
 .flexcol {
