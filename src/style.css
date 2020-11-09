@@ -461,14 +461,14 @@ aside#aside1 h2 {
   font-family: 'Kalam';
   color: #d0f2ff;
   background: url(./images/banner-bgnd.png) no-repeat left bottom;
-  height: 58px;
+  text-align: left;
 }
 
 .lower {
   display: block;
   position: relative;
   top: 0px;
-  left: 90px;
+  left: 70px;
   -webkit-transform: skew(-20deg) rotate(-4deg);
           transform: skew(-20deg) rotate(-4deg);
   letter-spacing: 0.1em;
