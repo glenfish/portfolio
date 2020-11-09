@@ -347,9 +347,7 @@ html {
           box-sizing: border-box;
   color: white;
   font-family: Monospace, 'Helvetica', 'Arial', sans-serif;
-  background: #202020;
-  background: -webkit-gradient(linear, left top, right top, color-stop(5%, black), color-stop(25%, #3b3b3b), color-stop(75%, #3b3b3b), color-stop(95%, black));
-  background: linear-gradient(90deg, black 5%, #3b3b3b 25%, #3b3b3b 75%, black 95%);
+  background: #ffffff;
 }
 
 *, *:before, *:after {
@@ -1227,6 +1225,8 @@ aside#aside1 .flexrow {
 /* START desktop layout*/
 @media (min-width: 1025px) {
   body {
+    background: url(./images/bgnd.jpg) repeat-y;
+    background-size: cover;
     font-size: 0.9125em;
   }
   .wrapper {
