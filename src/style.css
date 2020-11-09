@@ -388,12 +388,20 @@ section, footer, main {
   background: linear-gradient(-45deg, rgba(13, 94, 83, 0.6) 0%, rgba(39, 122, 92, 0.9) 50%);
 }
 
-aside {
+aside, main {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  position: relative;
+}
+
+main {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  position: relative;
 }
 
 aside#aside1 {
@@ -420,6 +428,58 @@ a {
 
 aside img, section img, main img {
   margin: 12px 4px 4px 0px;
+}
+
+main img.icon {
+  margin: 3px 3px;
+}
+
+main .flexrow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  width: 100%;
+}
+
+main .iconrow {
+  width: 100%;
+  margin: auto;
+}
+
+main .boxstyle-1 {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  padding: 16px;
+  width: 100%;
+}
+
+main .boxstyle-2 {
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  margin-bottom: 10px;
+  -webkit-box-align: right;
+      -ms-flex-align: right;
+          align-items: right;
+  padding: 16px;
+  width: 100%;
+}
+
+main .boxstyle-2 img {
+  float: left;
+  margin-right: 15px;
+}
+
+main p {
+  width: 96%;
+  text-align: justify;
+  margin: auto;
 }
 
 .wrapper {
@@ -666,7 +726,7 @@ blockquote a {
   }
 }
 
-aside#aside1 {
+aside#aside1, main {
   overflow: hidden;
 }
 
@@ -692,8 +752,7 @@ aside#aside1 img {
 
 .flexcol .textbox {
   display: block;
-  max-width: 98%;
-  padding: 0 2px;
+  max-width: 100%;
 }
 
 .flexrow {
@@ -705,16 +764,19 @@ aside#aside1 img {
   -webkit-box-direction: normal;
       -ms-flex-direction: row;
           flex-direction: row;
+  -ms-flex-negative: 1;
+      flex-shrink: 1;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+aside#aside1 .flexrow {
   -webkit-box-pack: start;
       -ms-flex-pack: start;
           justify-content: flex-start;
   -webkit-box-align: start;
       -ms-flex-align: start;
           align-items: flex-start;
-  -ms-flex-negative: 1;
-      flex-shrink: 1;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
 }
 
 @media only screen and (orientation: landscape) {
@@ -833,6 +895,10 @@ aside#aside1 img {
   aside img, section img, main img {
     margin: 2px 12px 6px 12px;
   }
+  main .iconrow {
+    width: 80%;
+    margin: auto;
+  }
 }
 
 /* END phone layout */
@@ -941,6 +1007,10 @@ aside#aside1 img {
     -webkit-animation: letter-flicker 4s infinite;
             animation: letter-flicker 4s infinite;
   }
+  main .iconrow {
+    width: 80%;
+    margin: auto;
+  }
 }
 
 /* END phone 2 layout */
@@ -1040,6 +1110,10 @@ aside#aside1 img {
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
             animation: letter-flicker 4s infinite;
+  }
+  main .iconrow {
+    width: 100%;
+    margin: auto;
   }
 }
 
@@ -1141,6 +1215,10 @@ aside#aside1 img {
     position: relative;
     -webkit-animation: letter-flicker 4s infinite;
             animation: letter-flicker 4s infinite;
+  }
+  main .iconrow {
+    width: 100%;
+    margin: auto;
   }
 }
 
