@@ -469,13 +469,13 @@ main .boxstyle-2 {
   width: 100%;
 }
 
-main .boxstyle-2 img {
+main .boxstyle-1 img {
   float: left;
-  margin-right: 15px;
+  margin: 0 15px 0 0;
 }
 
 main p {
-  width: 96%;
+  width: 98%;
   text-align: justify;
   margin: auto;
 }
