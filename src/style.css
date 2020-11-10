@@ -1034,7 +1034,7 @@ aside#aside1 .flexrow {
   }
   main .iconrow {
     width: 80%;
-    margin: auto;
+    margin: 5px auto;
   }
   .lower {
     top: 5px;
