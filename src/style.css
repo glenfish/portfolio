@@ -1188,6 +1188,7 @@ main p, section p {
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
     height: 150px;
+    background: black;
   }
   main {
     -ms-grid-column: 1;
