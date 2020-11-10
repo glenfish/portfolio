@@ -100,6 +100,12 @@ https://www.publicdomainpictures.net/en/view-image.php?image=241151&picture=drag
 
 <a href="https://www.vecteezy.com/free-vector/futuristic">Futuristic Vectors by Vecteezy attribution</a>
 
+### Image Attributions
+
+Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+
+
+
 
 
 
