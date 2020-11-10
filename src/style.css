@@ -867,6 +867,10 @@ main p, section p {
           justify-content: space-between;
 }
 
+.link-special {
+  color: #f7f7a5;
+}
+
 /* START phone layout ======================================================================================-*/
 @media only screen and (min-width: 1px) and (max-width: 413px) {
   .content-container {
