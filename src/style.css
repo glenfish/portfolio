@@ -804,7 +804,7 @@ aside#aside1 .flexrow {
   }
 }
 
-/* START phone layout -------------------------------------------------------------------------------------------------------*/
+/* START phone layout ======================================================================================-*/
 @media only screen and (min-width: 1px) and (max-width: 414px) {
   .content-container {
     -ms-grid-columns: minmax(1px, 1fr);
@@ -915,7 +915,7 @@ aside#aside1 .flexrow {
     margin: 2px 12px 6px 12px;
   }
   main .iconrow {
-    width: 80%;
+    width: 70%;
     margin: auto;
   }
   .lower {
