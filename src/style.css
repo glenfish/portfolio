@@ -567,7 +567,7 @@ nav {
   background: #0798a1;
   background: -webkit-gradient(linear, left bottom, left top, from(#0798a1), to(#299970));
   background: linear-gradient(0deg, #0798a1 0%, #299970 100%);
-  margin: 0;
+  margin: 0 auto;
   color: white;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -575,7 +575,7 @@ nav {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
-  width: 100%;
+  width: 99%;
   z-index: 1000;
   font-family: 'Visitor TT1 BRK', Monospace;
   border-bottom: 1px solid #0b805d;
