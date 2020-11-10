@@ -843,11 +843,28 @@ main p, section p {
 
 .webpage-images {
   border: 2px white solid;
+  -webkit-box-shadow: 2px 2px 7px #026336;
+          box-shadow: 2px 2px 7px #026336;
+  width: 48%;
 }
 
 .skills {
   font-size: 1.8em;
   color: yellow;
+}
+
+.website-container {
+  width: 98%;
+  margin: 0 auto;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
 }
 
 /* START phone layout ======================================================================================-*/
@@ -965,6 +982,9 @@ main p, section p {
   .lower {
     top: 5px;
   }
+  .webpage-images {
+    width: 100%;
+  }
 }
 
 /* END phone layout */
@@ -1080,6 +1100,9 @@ main p, section p {
   }
   .lower {
     top: 10px;
+  }
+  .webpage-images {
+    width: 100%;
   }
 }
 
