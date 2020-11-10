@@ -347,7 +347,7 @@ html {
           box-sizing: border-box;
   color: white;
   font-family: Monospace, 'Helvetica', 'Arial', sans-serif;
-  background: #white;
+  background: white;
   -webkit-box-shadow: 2px 2px 2px 5px black;
           box-shadow: 2px 2px 2px 5px black;
 }
@@ -805,7 +805,7 @@ aside#aside1 .flexrow {
 }
 
 /* START phone layout ======================================================================================-*/
-@media only screen and (min-width: 1px) and (max-width: 414px) {
+@media only screen and (min-width: 1px) and (max-width: 413px) {
   .content-container {
     -ms-grid-columns: minmax(1px, 1fr);
         grid-template-columns: minmax(1px, 1fr);
@@ -925,7 +925,7 @@ aside#aside1 .flexrow {
 
 /* END phone layout */
 /* START phone 2 layout  ------------------------------------------------------------------------------------------------*/
-@media (min-width: 415px) and (max-width: 599px) {
+@media (min-width: 414px) and (max-width: 599px) {
   .content-container {
     -ms-grid-columns: minmax(415px, 1fr);
         grid-template-columns: minmax(415px, 1fr);
