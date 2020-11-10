@@ -533,14 +533,16 @@ aside#aside1 h2 {
   max-width: 100%;
   text-shadow: 1px 1px 1px white;
   letter-spacing: 3px;
+  -webkit-transform: rotate(-1deg);
+          transform: rotate(-1deg);
 }
 
 .lower {
   display: block;
   position: relative;
   left: 70px;
-  -webkit-transform: skew(-25deg) rotate(-6deg);
-          transform: skew(-25deg) rotate(-6deg);
+  -webkit-transform: skew(-25deg) rotate(-5deg);
+          transform: skew(-25deg) rotate(-5deg);
   letter-spacing: 0.1em;
   font-size: 105%;
   color: #23d89c;
@@ -1058,7 +1060,7 @@ aside#aside1 .flexrow {
     margin: 10px auto;
   }
   .lower {
-    top: 5px;
+    top: 10px;
   }
 }
 
@@ -1165,7 +1167,7 @@ aside#aside1 .flexrow {
     margin: 10px auto;
   }
   .lower {
-    top: 5px;
+    top: 10px;
   }
 }
 
@@ -1272,7 +1274,7 @@ aside#aside1 .flexrow {
     margin: 10px auto;
   }
   .lower {
-    top: 5px;
+    top: 10px;
   }
 }
 
