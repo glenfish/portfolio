@@ -841,6 +841,10 @@ main p, section p {
   line-height: 140%;
 }
 
+.webpage-images {
+  border: 2px white solid;
+}
+
 /* START phone layout ======================================================================================-*/
 @media only screen and (min-width: 1px) and (max-width: 413px) {
   .content-container {
