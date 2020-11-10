@@ -1021,7 +1021,7 @@ aside#aside1 .flexrow {
     background-size: contain;
   }
   #webdev {
-    top: 85px;
+    top: 75px;
     margin: auto;
     height: 17px;
     -webkit-transform: rotate(-2deg) skew(-15deg);
