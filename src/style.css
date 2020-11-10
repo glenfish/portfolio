@@ -581,7 +581,8 @@ nav {
   top: 0;
   width: 99%;
   z-index: 1000;
-  font-family: Monospace;
+  font-family: 'Yanone Kaffeesatz';
+  letter-spacing: 2px;
   border-bottom: 1px solid #0b805d;
   -webkit-box-shadow: 0px 1px 1px rgba(82, 218, 184, 0.5);
           box-shadow: 0px 1px 1px rgba(82, 218, 184, 0.5);
@@ -980,6 +981,7 @@ main p, section p {
     grid-row: 1 / 2;
     height: 55px;
     font-size: 1.0em;
+    font-family: 'Yanone Kaffeesatz';
   }
   ul {
     display: -webkit-box;
