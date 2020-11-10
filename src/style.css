@@ -845,6 +845,11 @@ main p, section p {
   border: 2px white solid;
 }
 
+.skills {
+  font-size: 2.2em;
+  color: yellow;
+}
+
 /* START phone layout ======================================================================================-*/
 @media only screen and (min-width: 1px) and (max-width: 413px) {
   .content-container {
