@@ -567,8 +567,8 @@ main {
 
 nav {
   background: #0798a1;
-  background: -webkit-gradient(linear, left bottom, left top, from(#0798a1), to(#299970));
-  background: linear-gradient(0deg, #0798a1 0%, #299970 100%);
+  background: -webkit-gradient(linear, left bottom, left top, from(#0798a1), color-stop(50%, #2eaf80));
+  background: linear-gradient(0deg, #0798a1 0%, #2eaf80 50%);
   margin: 0 auto;
   color: white;
   display: -webkit-box;
@@ -583,6 +583,7 @@ nav {
   border-bottom: 1px solid #0b805d;
   -webkit-box-shadow: 0px 1px 1px rgba(82, 218, 184, 0.5);
           box-shadow: 0px 1px 1px rgba(82, 218, 184, 0.5);
+  border-radius: 0 0 4px 4px;
 }
 
 nav ul {
