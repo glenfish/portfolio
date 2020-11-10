@@ -47,7 +47,7 @@
                             <div id="header-text">
                                 <h1>Nicholas Fehlberg</h1>
                             </div> <!-- end header-text -->
-                            <img src="./images/nicholas-fehlberg.png" alt="Nicholas Fehlberg" height="150px">
+                            <img class="headshot" src="./images/nicholas-fehlberg.png" alt="Nicholas Fehlberg" height="150px">
                             <p>Hi, I'm a full stack web developer with a sales and marketing background in both online and retail spaces.</p>
                             <p>My goal is to hit the brief. I'm all about the bottom line impact for the ideas, products and solutions I bring to the table.</p>
                             <p> Past roles have included product manager, business development manager, marketing manager, web developer and sound engineeer. I've worked for successful start-ups and launched a couple of my own. I'm interested in disruptive business models and tech. In my spare time I juggle knives and play guitar, but never at the same time.</p>
@@ -82,10 +82,18 @@
                     <h1>Site Examples</h1>
                 </div> <!-- end header-text -->
                 <div class="website-container">
-                    <img class="webpage-images" src="./images/lapy-king.jpg" alt="Lapy King - Computer Sales and Repair">
-                    <img class="webpage-images" src="./images/bigtime-records.jpg" alt="Bigtime Records - US Record Company">
-                    <img class="webpage-images" src="./images/romeos-world.jpg" alt="Romeo's World - Children's Book Club">
-                    <img class="webpage-images" src="./images/daniel-kashuck.jpg" alt="Daniel Kashuck - LA Drummer Portfolio">
+                    <div class="img-div"> <!-- images need to be wrapped in divs with the height or width set to 100% or the aspect ratio is not maintained under flexbox conditions -->
+                        <img class="webpage-images" src="./images/lapy-king.jpg" alt="Lapy King - Computer Sales and Repair">
+                    </div>
+                    <div class="img-div">
+                        <img class="webpage-images" src="./images/bigtime-records.jpg" alt="Bigtime Records - US Record Company">
+                    </div>
+                    <div class="img-div">
+                        <img class="webpage-images" src="./images/romeos-world.jpg" alt="Romeo's World - Children's Book Club">
+                    </div>
+                    <div class="img-div">
+                        <img class="webpage-images" src="./images/daniel-kashuck.jpg" alt="Daniel Kashuck - LA Drummer Portfolio">
+                    </div>
                 </div> <!-- end website-container -->
             </section>  <!-- end section2 -->
             
