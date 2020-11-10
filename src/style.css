@@ -561,10 +561,11 @@ header {
 
 header h1 {
   font-family: 'PT Sans Narrow', sans-serif;
-}
-
-main {
-  /* background: slategray; */
+  position: relative;
+  left: 185px;
+  top: 3px;
+  font-size: 1.7em;
+  letter-spacing: 2px;
 }
 
 nav {
@@ -624,15 +625,15 @@ nav ul li {
 }
 
 blockquote {
-  background: rgba(13, 94, 83, 0.6);
+  background: rgba(25, 148, 131, 0.6);
   border-radius: 5px;
   margin: 20px auto 0px auto;
   text-align: center;
   color: white;
   font-size: 120%;
-  border: 1px #34c4ce solid;
-  background: -webkit-gradient(linear, left top, left bottom, from(#0ba4af), color-stop(30%, #0e8a7f));
-  background: linear-gradient(180deg, #0ba4af 0%, #0e8a7f 30%);
+  border: 2px white solid;
+  background: -webkit-gradient(linear, left top, left bottom, from(#12c4d1), color-stop(30%, #14b4a7));
+  background: linear-gradient(180deg, #12c4d1 0%, #14b4a7 30%);
   font-family: 'PT Sans Narrow', sans-serif;
   opacity: 0.85;
   width: 180px;
@@ -821,12 +822,6 @@ aside#aside1 .flexrow {
   margin: 0 8px 8px 0;
 }
 
-@media only screen and (orientation: landscape) {
-  body {
-    /* -- */
-  }
-}
-
 /* START phone layout ======================================================================================-*/
 @media only screen and (min-width: 1px) and (max-width: 413px) {
   .content-container {
@@ -926,8 +921,6 @@ aside#aside1 .flexrow {
     top: 60px;
     margin: auto;
     height: 16px;
-    -webkit-transform: rotate(-2deg) skew(-15deg);
-            transform: rotate(-2deg) skew(-15deg);
     background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
@@ -1047,8 +1040,6 @@ aside#aside1 .flexrow {
     top: 75px;
     margin: auto;
     height: 17px;
-    -webkit-transform: rotate(-2deg) skew(-15deg);
-            transform: rotate(-2deg) skew(-15deg);
     background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
@@ -1154,8 +1145,6 @@ aside#aside1 .flexrow {
     top: 100px;
     margin: auto;
     height: 20px;
-    -webkit-transform: rotate(-2deg) skew(-15deg);
-            transform: rotate(-2deg) skew(-15deg);
     background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
@@ -1261,8 +1250,6 @@ aside#aside1 .flexrow {
     top: 85px;
     margin: auto;
     height: 24px;
-    -webkit-transform: rotate(-2deg) skew(-15deg);
-            transform: rotate(-2deg) skew(-15deg);
     background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
@@ -1381,11 +1368,9 @@ aside#aside1 .flexrow {
     background-size: contain;
   }
   #webdev {
-    top: 45px;
+    top: 35px;
     margin: auto;
     height: 28px;
-    -webkit-transform: rotate(-2deg) skew(-15deg);
-            transform: rotate(-2deg) skew(-15deg);
     background: url("./images/webdev.gif") no-repeat center center;
     background-size: contain;
     position: relative;
