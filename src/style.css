@@ -427,12 +427,13 @@ a {
   color: inherit;
 }
 
-aside img, section img, main img {
+aside img, section img {
   margin: 12px 4px 4px 0px;
 }
 
-main img.icon {
-  margin: 3px 3px;
+.headshot {
+  float: left;
+  margin: 0 30px 10px 10px;
 }
 
 main .flexrow {
@@ -490,11 +491,6 @@ section .boxstyle-2 {
   padding: 30px;
   width: 98%;
   border-radius: 0 35px;
-}
-
-main .boxstyle-1 img {
-  float: left;
-  margin: 0 20px 10px 0;
 }
 
 main p {
@@ -848,7 +844,7 @@ main p, section p {
   border: 2px white solid;
   -webkit-box-shadow: 2px 2px 7px #026336;
           box-shadow: 2px 2px 7px #026336;
-  width: 48%;
+  width: 100%;
 }
 
 .skills {
@@ -868,10 +864,23 @@ main p, section p {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
 }
 
 .link-special {
   color: #f7f7a5;
+}
+
+.img-div {
+  width: 49%;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
 }
 
 /* START phone layout ======================================================================================-*/
@@ -979,7 +988,7 @@ main p, section p {
     -webkit-animation: letter-flicker 4s infinite;
             animation: letter-flicker 4s infinite;
   }
-  aside img, main img {
+  aside img {
     margin: 2px 0px 6px 0px;
     position: relative;
     left: -8px;
@@ -997,6 +1006,15 @@ main p, section p {
   }
   h1 {
     text-align: center;
+  }
+  .img-div {
+    width: 100%;
+    -ms-flex-item-align: center;
+        -ms-grid-row-align: center;
+        align-self: center;
+    -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+            flex: 0 0 auto;
   }
 }
 
