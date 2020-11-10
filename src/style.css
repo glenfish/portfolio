@@ -916,7 +916,7 @@ aside#aside1 .flexrow {
   }
   main .iconrow {
     width: 70%;
-    margin: auto;
+    margin: 10px auto;
   }
   .lower {
     top: 5px;
@@ -1033,8 +1033,8 @@ aside#aside1 .flexrow {
             animation: letter-flicker 4s infinite;
   }
   main .iconrow {
-    width: 80%;
-    margin: 5px auto;
+    width: 100%;
+    margin: 10px auto;
   }
   .lower {
     top: 5px;
@@ -1141,7 +1141,7 @@ aside#aside1 .flexrow {
   }
   main .iconrow {
     width: 100%;
-    margin: auto;
+    margin: 10px auto;
   }
   .lower {
     top: 5px;
@@ -1248,7 +1248,7 @@ aside#aside1 .flexrow {
   }
   main .iconrow {
     width: 100%;
-    margin: auto;
+    margin: 10px auto;
   }
   .lower {
     top: 5px;
@@ -1371,6 +1371,10 @@ aside#aside1 .flexrow {
   }
   .lower {
     top: 10px;
+  }
+  main .iconrow {
+    width: 100%;
+    margin: 10px auto;
   }
 }
 
