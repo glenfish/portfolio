@@ -455,13 +455,14 @@ main .iconrow {
 }
 
 main .socialrow {
-  margin: 10px auto;
+  margin: 10px auto 0 auto;
   padding: 0 20px 0 20px;
   width: 100%;
 }
 
 main .social-icon {
   padding: 5px;
+  margin-top: 10px;
 }
 
 main .boxstyle-1 {
@@ -493,7 +494,7 @@ section .boxstyle-2 {
 
 main .boxstyle-1 img {
   float: left;
-  margin: 0 20px 0 0;
+  margin: 0 20px 10px 0;
 }
 
 main p {
@@ -523,7 +524,8 @@ main p {
 h1, h2 {
   text-transform: uppercase;
   font-family: 'Yanone Kaffeesatz', 'Helvetica', 'Arial';
-  font-size: 2.6em;
+  font-size: 2.4em;
+  line-height: 1em;
   color: #80ffb0;
 }
 
@@ -650,6 +652,7 @@ blockquote {
   opacity: 0.9;
   width: 100px;
   height: 2.2em;
+  margin-top: 30px;
 }
 
 blockquote a {
@@ -977,7 +980,9 @@ main p, section p {
             animation: letter-flicker 4s infinite;
   }
   aside img, main img {
-    margin: 2px 12px 6px 12px;
+    margin: 2px 0px 6px 0px;
+    position: relative;
+    left: -8px;
   }
   main .iconrow {
     width: 70%;
@@ -985,9 +990,13 @@ main p, section p {
   }
   .lower {
     top: 5px;
+    left: 30px;
   }
   .webpage-images {
     width: 100%;
+  }
+  h1 {
+    text-align: center;
   }
 }
 
@@ -1318,6 +1327,7 @@ main p, section p {
   }
   .lower {
     top: 10px;
+    left: 40px;
   }
 }
 
