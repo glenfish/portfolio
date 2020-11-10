@@ -552,11 +552,10 @@ aside#aside1 h2 {
 
 header {
   /* background: skyblue; */
-  margin: 5px;
+  margin: 5px 5px 0px 5px;
   border-radius: 13px;
   -webkit-box-shadow: 1px 1px 8px #3d3d3d;
           box-shadow: 1px 1px 8px #3d3d3d;
-  background: black;
 }
 
 header h1 {
