@@ -1294,7 +1294,7 @@ aside#aside1 .flexrow {
     -ms-grid-column: 1;
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
-    height: 200px;
+    height: 180px;
     background: black;
   }
   main {
