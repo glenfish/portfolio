@@ -581,11 +581,12 @@ nav {
   top: 0;
   width: 99%;
   z-index: 1000;
-  font-family: 'Visitor TT1 BRK', Monospace;
+  font-family: Monospace;
   border-bottom: 1px solid #0b805d;
   -webkit-box-shadow: 0px 1px 1px rgba(82, 218, 184, 0.5);
           box-shadow: 0px 1px 1px rgba(82, 218, 184, 0.5);
   border-radius: 0 0 4px 4px;
+  text-transform: uppercase;
 }
 
 nav ul {
@@ -821,6 +822,12 @@ aside#aside1 .flexrow {
   margin: 0 8px 8px 0;
 }
 
+main p, section p {
+  font-family: 'Yanone Kaffeesatz';
+  font-size: 1.3em;
+  line-height: 140%;
+}
+
 /* START phone layout ======================================================================================-*/
 @media only screen and (min-width: 1px) and (max-width: 413px) {
   .content-container {
@@ -855,7 +862,6 @@ aside#aside1 .flexrow {
     height: 55px;
     min-width: 260px;
     font-size: 1.0em;
-    font-family: 'Visitor TT1 BRK';
   }
   ul {
     display: -webkit-box;
@@ -974,7 +980,6 @@ aside#aside1 .flexrow {
     grid-row: 1 / 2;
     height: 55px;
     font-size: 1.0em;
-    font-family: 'Visitor TT1 BRK';
   }
   ul {
     display: -webkit-box;
