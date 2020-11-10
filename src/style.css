@@ -522,8 +522,8 @@ main p {
 
 h1, h2 {
   text-transform: uppercase;
-  font-family: Monospace, 'Helvetica', 'Arial';
-  font-size: 1.75em;
+  font-family: 'Yanone Kaffeesatz', 'Helvetica', 'Arial';
+  font-size: 2.6em;
   color: #80ffb0;
 }
 
