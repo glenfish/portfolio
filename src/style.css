@@ -511,7 +511,7 @@ main p {
   display: -ms-grid;
   display: grid;
   width: 100%;
-  margin: 5px auto;
+  margin: 0 auto 5px auto;
   /* background: red; */
   background: white;
   padding: 0px 0px 5px px;
