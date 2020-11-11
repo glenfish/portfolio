@@ -537,6 +537,7 @@ aside#aside1 h2 {
   background: url(./images/banner-pink.png) no-repeat left bottom;
   text-align: left;
   max-width: 100%;
+  text-shadow: 3px 2px 1px #f3bad6;
   letter-spacing: 3px;
   -webkit-transform: rotate(-1deg);
           transform: rotate(-1deg);
