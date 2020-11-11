@@ -346,7 +346,7 @@ html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
   color: white;
-  font-family: Monospace, 'Helvetica', 'Arial', sans-serif;
+  font-family: 'Kalam','Helvetica', 'Arial', sans-serif;
   background: white;
   -webkit-box-shadow: 2px 2px 2px 5px black;
           box-shadow: 2px 2px 2px 5px black;
@@ -415,7 +415,8 @@ footer {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  font-size: 120%;
+  font-size: 130%;
+  letter-spacing: 1px;
 }
 
 aside p, section p, main p {
@@ -447,8 +448,8 @@ main .flexrow {
 main .iconrow {
   width: 100%;
   margin: auto;
-  -webkit-animation: iconfadein 2s ease;
-          animation: iconfadein 2s ease;
+  -webkit-animation: fadein 2s ease;
+          animation: fadein 2s ease;
 }
 
 main .socialrow {
@@ -522,7 +523,7 @@ h1, h2 {
 }
 
 h3 {
-  font-family: 'Consolas', Monospace, 'Helvetica', 'Arial';
+  font-family: 'Yanone Kaffeesatz', 'Helvetica', 'Arial';
   font-size: 1em;
   opacity: 0.7;
 }
@@ -532,11 +533,10 @@ aside#aside1 h2 {
   top: -10px;
   padding-left: 20px;
   font-family: 'Kalam';
-  color: #9eeaec;
+  color: #fff;
   background: url(./images/banner-pink.png) no-repeat left bottom;
   text-align: left;
   max-width: 100%;
-  text-shadow: 1px 1px 1px white;
   letter-spacing: 3px;
   -webkit-transform: rotate(-1deg);
           transform: rotate(-1deg);
@@ -551,7 +551,7 @@ aside#aside1 h2 {
   letter-spacing: 0.1em;
   font-size: 105%;
   color: #23d89c;
-  text-shadow: 1px 2px 3px white;
+  text-shadow: 3px 2px 3px white;
   max-width: 155px;
 }
 
@@ -928,7 +928,7 @@ main p, section p {
   }
 }
 
-@-webkit-keyframes iconfadein {
+@-webkit-keyframes fadein {
   0% {
     opacity: 0;
   }
@@ -937,7 +937,7 @@ main p, section p {
   }
 }
 
-@keyframes iconfadein {
+@keyframes fadein {
   0% {
     opacity: 0;
   }
