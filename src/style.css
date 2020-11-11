@@ -793,7 +793,7 @@ main p, section p {
 }
 
 #section3 .socialrow {
-  height: 55px;
+  padding-top: 5px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
