@@ -757,6 +757,7 @@ main p, section p {
 
 .link-special {
   color: #f7f7a5;
+  text-decoration: underline;
 }
 
 .img-div {
