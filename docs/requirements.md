@@ -6,9 +6,10 @@ Author: Nicholas Fehlberg
 
 Filename: requirements.md
 
-Version: 1.0
+Version: 2.0
 
 Creation Date: 1-11-20
+Updated Last: 11-11-20
 
 Notes: This document is a personal interpretation and implemenation plan for the assignment
 
@@ -27,47 +28,50 @@ __Live presentation:__ 13-11-20
 
 ### Content : 4+ pages
 
-> Projects (more detail on projects)
-
-> Resume (with download link to PDF)
+> Portfolio (more detail on projects)
 
 > Blog (mock-up of 4 blog posts)
 
-> Resources (resource list for developers)
+> Tools (resource list for developers)
 
 > Contact (email address and contact form)
 
+> Home page / landing page
+
+### Links
+
+> Resume (download link to PDF)
 
 - [ ] name and contact info
-- [ ] links to professional accounts (LinkedIn, Github)
+- [x] links to professional accounts (LinkedIn, Github)
 - [ ] work and study history
 - [ ] link to PDF of resume (can be mockup)
-- [ ] content: personality
-- [ ] content: skills
-- [ ] content: interests
+- [x] content: personality
+- [x] content: skills
+- [x] content: interests
 - [ ] list of blog posts with titles and dates
 - [ ] a blog area with 5 sample posts (placeholder text. 1 image per post reqd)
-- [ ] 4 components that are text based and styled
-- [ ] use your own CSS styling in ext sheet (or significantly modify a framework)
+- [x] 4 components that are text based and styled
+- [x] use your own CSS styling in ext sheet (or significantly modify a framework)
 - [ ] use comments in HTML & CSS to identify each component
-- [ ] semantic HTML elements and attributes
-- [ ] create reusable components (such as article layout styling)
-- [ ] use Flexbox and/or Grid for a responsive design for mobile, tablet and desktop
-- [ ] use git to track the project and generate gitlog.txt for submission
+- [x] semantic HTML elements and attributes
+- [x] create reusable components (such as article layout styling)
+- [x] use Flexbox and/or Grid for a responsive design for mobile, tablet and desktop
+- [x] use git to track the project and generate gitlog.txt for submission
 - [ ] implement SRI on all pages
 
 ### Markdown files
 A file named requirements.md
 A file named README.md addressing the assignment criteria below:
-- [ ] URL to published portfolio (Netlify or Github Pages for example)
-- [ ] link to Github repo
+- [x] URL to published portfolio (Netlify or Github Pages for example)
+- [x] link to Github repo
 - [ ] Description of portfolio website, including:
-  - [ ] Purpose
-  - [ ] Functionality & Features
+  - [x] Purpose
+  - [x] Functionality & Features
   - [ ] Sitemap
   - [ ] Screenshots
-  - [ ] Target audience
-  - [ ] Tech Stack (html, css, depolyment platform etc)
+  - [x] Target audience
+  - [x] Tech Stack (html, css, depolyment platform etc)
 
 
 ### Slide Deck
