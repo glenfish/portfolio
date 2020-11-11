@@ -1526,7 +1526,7 @@ main p, section p {
     -ms-grid-column-span: 2;
     grid-column: 3 / 5;
     font-size: 1.25em;
-    line-height: 150%;
+    line-height: 155%;
   }
   aside#aside1 h2 {
     font-size: 2.2em;
