@@ -1274,7 +1274,7 @@ main p, section p {
     grid-row: 4 / 5;
     -ms-grid-column: 1;
     grid-column: 1;
-    font-size: 1.2em;
+    font-size: 1.3em;
     line-height: 150%;
   }
   aside#aside1 h2 {
@@ -1335,12 +1335,6 @@ main p, section p {
   }
   .lower {
     top: 10px;
-  }
-  .intro {
-    background: #09947d;
-    padding: 15px;
-    margin-left: 70px;
-    width: 84%;
   }
   .intro {
     background: #09947d;
@@ -1531,8 +1525,8 @@ main p, section p {
     -ms-grid-column: 3;
     -ms-grid-column-span: 2;
     grid-column: 3 / 5;
-    font-size: 1.35em;
-    line-height: 160%;
+    font-size: 1.25em;
+    line-height: 150%;
   }
   aside#aside1 h2 {
     font-size: 2.2em;
