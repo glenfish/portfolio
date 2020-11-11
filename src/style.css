@@ -661,126 +661,6 @@ blockquote a {
   padding-top: 0.3em;
 }
 
-@font-face {
-  font-family: 'Visitor TT1 BRK';
-  src: url("fonts/visitor1.eot");
-  src: url("fonts/visitor1.eot?#iefix") format("embedded-opentype"), url("fonts/visitor1.woff2") format("woff2"), url("fonts/visitor1.woff") format("woff"), url("fonts/visitor1.ttf") format("truetype"), url("fonts/visitor1.svg#Visitor TT1 BRK") format("svg");
-}
-
-@-webkit-keyframes letter-flicker {
-  0% {
-    opacity: 0.8;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  2% {
-    opacity: 0.8;
-  }
-  3% {
-    opacity: 0.6;
-  }
-  4% {
-    opacity: 1;
-  }
-  5% {
-    opacity: 0.3;
-  }
-  6% {
-    opacity: 0.8;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  67% {
-    opacity: 0.8;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  69% {
-    opacity: 1.0;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  98% {
-    opacity: 1.0;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  99% {
-    opacity: 0.7;
-  }
-  100% {
-    opacity: 1.0;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-}
-
-@keyframes letter-flicker {
-  0% {
-    opacity: 0.8;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  2% {
-    opacity: 0.8;
-  }
-  3% {
-    opacity: 0.6;
-  }
-  4% {
-    opacity: 1;
-  }
-  5% {
-    opacity: 0.3;
-  }
-  6% {
-    opacity: 0.8;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  67% {
-    opacity: 0.8;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  69% {
-    opacity: 1.0;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  98% {
-    opacity: 1.0;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-  99% {
-    opacity: 0.7;
-  }
-  100% {
-    opacity: 1.0;
-    -webkit-transform: rotate(1deg);
-            transform: rotate(1deg);
-  }
-}
-
-@-webkit-keyframes iconfadein {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1.0;
-  }
-}
-
-@keyframes iconfadein {
-  0% {
-    opacity: 0;
-  }
-  100% {
-    opacity: 1.0;
-  }
-}
-
 aside#aside1, main {
   overflow: hidden;
 }
@@ -886,6 +766,131 @@ main p, section p {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
+}
+
+.bigger-text {
+  font-size: 120%;
+}
+
+/* Font definitions */
+@font-face {
+  font-family: 'Visitor TT1 BRK';
+  src: url("fonts/visitor1.eot");
+  src: url("fonts/visitor1.eot?#iefix") format("embedded-opentype"), url("fonts/visitor1.woff2") format("woff2"), url("fonts/visitor1.woff") format("woff"), url("fonts/visitor1.ttf") format("truetype"), url("fonts/visitor1.svg#Visitor TT1 BRK") format("svg");
+}
+
+/* Animations */
+@-webkit-keyframes letter-flicker {
+  0% {
+    opacity: 0.8;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  2% {
+    opacity: 0.8;
+  }
+  3% {
+    opacity: 0.6;
+  }
+  4% {
+    opacity: 1;
+  }
+  5% {
+    opacity: 0.3;
+  }
+  6% {
+    opacity: 0.8;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  67% {
+    opacity: 0.8;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  69% {
+    opacity: 1.0;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  98% {
+    opacity: 1.0;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  99% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1.0;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+}
+@keyframes letter-flicker {
+  0% {
+    opacity: 0.8;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  2% {
+    opacity: 0.8;
+  }
+  3% {
+    opacity: 0.6;
+  }
+  4% {
+    opacity: 1;
+  }
+  5% {
+    opacity: 0.3;
+  }
+  6% {
+    opacity: 0.8;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  67% {
+    opacity: 0.8;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  69% {
+    opacity: 1.0;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  98% {
+    opacity: 1.0;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+  99% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1.0;
+    -webkit-transform: rotate(1deg);
+            transform: rotate(1deg);
+  }
+}
+
+@-webkit-keyframes iconfadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1.0;
+  }
+}
+
+@keyframes iconfadein {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1.0;
+  }
 }
 
 /* START phone layout ======================================================================================-*/
