@@ -805,6 +805,7 @@ main p, section p {
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   background: rgba(82, 218, 184, 0.4);
+  border-radius: 0 0 0 15px;
 }
 
 #section3 .socialrow p {
