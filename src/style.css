@@ -807,6 +807,10 @@ main p, section p {
   padding: 10px;
 }
 
+#section3 .socialrow .social-icon {
+  margin: 0 5px 0 5px;
+}
+
 /* Font definitions */
 @font-face {
   font-family: 'Visitor TT1 BRK';
