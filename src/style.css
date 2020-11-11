@@ -1224,7 +1224,7 @@ main p, section p {
   }
   .headshot {
     float: left;
-    margin: 0 15px 10px 0px;
+    margin: 0 15px 0px 0px;
   }
 }
 
