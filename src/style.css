@@ -792,6 +792,21 @@ main p, section p {
   color: yellow;
 }
 
+#section3 .socialrow {
+  height: 55px;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background: rgba(82, 218, 184, 0.4);
+}
+
+#section3 .socialrow p {
+  padding: 10px;
+}
+
 /* Font definitions */
 @font-face {
   font-family: 'Visitor TT1 BRK';
