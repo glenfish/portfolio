@@ -468,7 +468,7 @@ main .boxstyle-1 {
           justify-content: flex-end;
   background: rgba(92, 241, 204, 0.2);
   border: 1px rgba(255, 255, 255, 0.3) dashed;
-  padding: 24px;
+  padding: 0 24px 0 24px;
   width: 100%;
   border-radius: 0 35px;
   margin-bottom: 20px;
@@ -782,7 +782,7 @@ main p, section p {
 
 .intro {
   border-radius: 25px;
-  font-size: 150%;
+  font-size: 145%;
   text-align: left;
 }
 
@@ -1057,7 +1057,7 @@ main p, section p {
   }
   main .iconrow {
     width: 70%;
-    margin: 10px auto;
+    margin: 0px auto;
   }
   .lower {
     top: 10px;
@@ -1072,6 +1072,7 @@ main p, section p {
   h1 {
     text-align: center;
     margin-bottom: 0;
+    margin-top: 20px;
   }
   .img-div {
     width: 100%;
