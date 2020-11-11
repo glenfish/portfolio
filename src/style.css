@@ -764,6 +764,8 @@ main p, section p {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
+  -webkit-animation: fadein 2s ease;
+          animation: fadein 2s ease;
 }
 
 .bigger-text {
@@ -1083,6 +1085,8 @@ main p, section p {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 auto;
             flex: 0 0 auto;
+    -webkit-animation: fadein 2s ease;
+            animation: fadein 2s ease;
   }
   .intro {
     display: inline-block;
