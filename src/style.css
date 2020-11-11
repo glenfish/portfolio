@@ -432,11 +432,6 @@ aside img, section img {
   margin: 12px 4px 4px 0px;
 }
 
-.headshot {
-  float: left;
-  margin: 0 15px 10px 0px;
-}
-
 main .flexrow {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -787,6 +782,8 @@ main p, section p {
 
 .intro {
   border-radius: 25px;
+  font-size: 160%;
+  text-align: left;
 }
 
 .rotate-90 {
@@ -1074,6 +1071,7 @@ main p, section p {
   }
   h1 {
     text-align: center;
+    margin-bottom: 0;
   }
   .img-div {
     width: 100%;
@@ -1083,6 +1081,13 @@ main p, section p {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 auto;
             flex: 0 0 auto;
+  }
+  .intro {
+    display: inline-block;
+  }
+  .image-container {
+    width: 100%;
+    text-align: center;
   }
 }
 
@@ -1134,6 +1139,10 @@ main p, section p {
   ul li {
     padding-left: 3px;
     padding-right: 3px;
+  }
+  h1 {
+    text-align: center;
+    margin-bottom: 8px;
   }
   aside#aside1 {
     /* display: none; */
@@ -1211,6 +1220,10 @@ main p, section p {
     padding: 15px;
     margin-left: 70px;
     width: 84%;
+  }
+  .headshot {
+    float: left;
+    margin: 0 15px 10px 0px;
   }
 }
 
@@ -1334,6 +1347,10 @@ main p, section p {
     margin-left: 70px;
     width: 84%;
   }
+  .headshot {
+    float: left;
+    margin: 0 15px 10px 0px;
+  }
 }
 
 /* END tablet layout */
@@ -1451,6 +1468,10 @@ main p, section p {
     padding: 15px;
     margin-left: 70px;
     width: 84%;
+  }
+  .headshot {
+    float: left;
+    margin: 0 15px 10px 0px;
   }
 }
 
@@ -1582,6 +1603,10 @@ main p, section p {
     padding: 15px;
     margin-left: 70px;
     width: 84%;
+  }
+  .headshot {
+    float: left;
+    margin: 0 15px 10px 0px;
   }
 }
 
