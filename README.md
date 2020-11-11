@@ -48,7 +48,7 @@ __Screenshots:__
 <screenshots to go here>
 
 __Tech Stack:__
-HTML3, CSS3, Javascript, React, Nodejs, Express, MongoDB, MySQL, PHP, Ruby/Rails, Python, Java, Sass, Git/Github
+HTML5, CSS3, Javascript, Sass, Git/Github
 
-Adobe Photoshop and GIMP for image editing
+GIMP for image editing
 
