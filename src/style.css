@@ -1427,10 +1427,10 @@ main p, section p {
     grid-column: 3 / 5;
     font-size: 1.25em;
     line-height: 150%;
-    top: -10px;
   }
   aside#aside1 h2 {
     font-size: 2.2em;
+    top: -10px;
   }
   footer {
     -ms-grid-column: 1;
