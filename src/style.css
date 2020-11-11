@@ -559,6 +559,11 @@ aside#aside1 h2 {
   max-width: 155px;
 }
 
+.upper {
+  display: block;
+  position: relative;
+}
+
 header {
   /* background: skyblue; */
   margin: 5px 5px 0px 5px;
@@ -998,8 +1003,11 @@ main p, section p {
     margin: 10px auto;
   }
   .lower {
+    top: 10px;
+    left: 40px;
+  }
+  .upper {
     top: 5px;
-    left: 30px;
   }
   .webpage-images {
     width: 100%;
@@ -1132,6 +1140,9 @@ main p, section p {
   .lower {
     top: 10px;
   }
+  .upper {
+    top: 5px;
+  }
   .webpage-images {
     width: 100%;
   }
@@ -1188,6 +1199,8 @@ main p, section p {
   }
   aside#aside1 h2 {
     font-size: 2.2em;
+    position: relative;
+    top: -6px;
   }
   footer {
     /* display:none; */
@@ -1236,6 +1249,9 @@ main p, section p {
   main .iconrow {
     width: 100%;
     margin: 10px auto;
+  }
+  .upper {
+    top: 10px;
   }
   .lower {
     top: 10px;
@@ -1288,6 +1304,8 @@ main p, section p {
   }
   aside#aside1 h2 {
     font-size: 2.0em;
+    position: relative;
+    top: -17px;
   }
   footer {
     -ms-grid-column: 1;
@@ -1344,8 +1362,11 @@ main p, section p {
     margin: 10px auto;
   }
   .lower {
-    top: 10px;
+    top: 15px;
     left: 40px;
+  }
+  .upper {
+    top: 8px;
   }
 }
 
@@ -1406,6 +1427,7 @@ main p, section p {
     grid-column: 3 / 5;
     font-size: 1.25em;
     line-height: 150%;
+    top: -10px;
   }
   aside#aside1 h2 {
     font-size: 2.2em;
@@ -1462,7 +1484,10 @@ main p, section p {
             animation: letter-flicker 4s infinite;
   }
   .lower {
-    top: 10px;
+    top: 20px;
+  }
+  .upper {
+    top: 14px;
   }
   main .iconrow {
     width: 100%;
