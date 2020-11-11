@@ -816,7 +816,11 @@ main p, section p {
 
 #section3 .small-social-iconrow {
   width: 190px;
-  margin: 10px;
+  margin: 10px auto;
+}
+
+.center {
+  text-align: center;
 }
 
 /* Font definitions */
