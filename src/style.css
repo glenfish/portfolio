@@ -784,6 +784,13 @@ main p, section p {
   border-radius: 25px;
 }
 
+.rotate-90 {
+  display: inline-block;
+  -webkit-transform: rotate(80deg) skew(10deg);
+          transform: rotate(80deg) skew(10deg);
+  color: yellow;
+}
+
 /* Font definitions */
 @font-face {
   font-family: 'Visitor TT1 BRK';
