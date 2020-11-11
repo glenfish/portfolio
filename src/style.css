@@ -723,6 +723,7 @@ main p, section p {
   font-family: 'Yanone Kaffeesatz';
   font-size: 1.4em;
   line-height: 140%;
+  margin-bottom: 10px;
 }
 
 .webpage-images {
@@ -769,7 +770,13 @@ main p, section p {
 }
 
 .bigger-text {
+  display: inline-block;
   font-size: 120%;
+  color: #0d796e;
+  background: rgba(122, 255, 244, 0.6);
+  padding: 5px;
+  margin: 5px;
+  border-radius: 0.2em;
 }
 
 /* Font definitions */
@@ -1304,7 +1311,7 @@ main p, section p {
     -ms-grid-column: 3;
     -ms-grid-column-span: 2;
     grid-column: 3 / 5;
-    font-size: 1.2em;
+    font-size: 1.3em;
     line-height: 140%;
   }
   aside#aside1 h2 {
@@ -1430,7 +1437,7 @@ main p, section p {
     -ms-grid-column: 3;
     -ms-grid-column-span: 2;
     grid-column: 3 / 5;
-    font-size: 1.25em;
+    font-size: 1.3em;
     line-height: 150%;
   }
   aside#aside1 h2 {
