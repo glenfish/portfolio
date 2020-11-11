@@ -1,3 +1,1888 @@
+commit 1ce6dc9d91aee0935edbe37955b0379471388e54
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 23:56:30 2020 +1100
+
+    updated content
+
+commit 8fbbac0a03e43bdc8b43915c6e69785227ba5f71
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 23:55:04 2020 +1100
+
+    updated content
+
+commit b103c7f04cf58dce1d985207fa06576f788fb27d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 23:53:55 2020 +1100
+
+    updated content
+
+commit 65ae73ef00dbc72a102cac895b70ae7d5c3af7aa
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:52:10 2020 +1100
+
+    fixed broken div
+
+commit 4372cd40bdb4f201212b3ca3e7cc1eca174333fc
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:48:19 2020 +1100
+
+    fixed broken social icon link
+
+commit 80814b354b2b47151969ceb6460f95f289d11628
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:41:27 2020 +1100
+
+    changed content on section3 of index
+
+commit b3a4ff2d46c347b53487eee08f1bf21ebe3ef6e5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:40:27 2020 +1100
+
+    changed content on section3 of index
+
+commit 0c44d6cbba020fc42c1cc13fae91ee5773c748a3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:36:54 2020 +1100
+
+    changed content in main element
+
+commit aa3b3a263b3f40b7f20d8c484d619c166a5596e0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:34:20 2020 +1100
+
+    updated content for index.html
+
+commit b70b0ba2417ba1c1790fb41f8a5758122d1681a6
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:28:00 2020 +1100
+
+    content update
+
+commit acfc42f2d2b600a218cedf35cd318a6588290123
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:12:51 2020 +1100
+
+    remove bottom margin from .headshot
+
+commit 4ba2705b061d5b6a85a93a94d016bba33e1c226e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:10:13 2020 +1100
+
+    adjusted desktop aside1 font size down
+
+commit 7c31abd6488fa4a7fc7c5bc77267338d297919b2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 22:06:55 2020 +1100
+
+    drop intro font size so it fits evenly sml scrn
+
+commit 26e33c04f3c42a42ba5ad8f5763255a5ef042aa9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 21:55:21 2020 +1100
+
+    intro text size adjust to 150%
+
+commit 53ba7e4fd2478073447ac1df502e79032fa564ea
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 21:52:44 2020 +1100
+
+    text layout change for small screens
+
+commit 810d173d7594013fbcb88c294093de33f7129cdb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 21:52:32 2020 +1100
+
+    text layout for small screens
+
+commit dfaad1aad9d0146364a7d0c376053048c7d444a0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 21:30:50 2020 +1100
+
+    added .featured class for larger text
+
+commit 39750f692b47fc2412f05362f6a158b6102ff034
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:53:22 2020 +1100
+
+    removed flex on message me
+
+commit f3595109c278b46b659b6c0461e8e3de3dc7a8dc
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:53:09 2020 +1100
+
+    updated style on message me in section3
+
+commit ca42fc51abf092bb453338fede1be1d6e62e01e8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:46:49 2020 +1100
+
+    styled small social icons
+
+commit cb0833bc35768cb118ec5f89e3765b4fcb911690
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:46:38 2020 +1100
+
+    added div to contain small social icons section3
+
+commit 727281a87685868f6e831b1458774183496819af
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:41:48 2020 +1100
+
+    removed height of 'message me' in section3
+
+commit dbc1f8aa10768a6e8afe43b86c07f68bfbc1f9ed
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:38:46 2020 +1100
+
+    added title to all clickable icons and links
+
+commit 00230e0deabdcc528dcbc252756984a81d267e2c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:33:43 2020 +1100
+
+    changed alt to title tags in section3
+
+commit 66106180a0370a9862eadaced147396a1b874457
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:31:16 2020 +1100
+
+    added alt tags to social icons in section3
+
+commit d7e23f890e25b0354caf8c2a153c65374080f2b3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:28:51 2020 +1100
+
+    added margins for social icons in section3
+
+commit 2908dab0e4eb9fc127ef622efb0fd065b78fa202
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:27:30 2020 +1100
+
+    section3 socialrow styling for 'message me' added
+
+commit 6c7fb9f4e7e6005c370ecb736288c4cd57b7cdcf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:27:13 2020 +1100
+
+    'message me' styling added
+
+commit 45683f68214b917e6fb78b4b66483a42e09e5f6e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:06:42 2020 +1100
+
+    'message me' section put in new paragraph
+
+commit e7493e37800a82f917b4805282cb642e8e16a293
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:04:27 2020 +1100
+
+    updated conent in section3
+
+commit a32ce9121e535bdf6229b861b82043c6b797b509
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:03:34 2020 +1100
+
+    content update
+
+commit 14da803939a46055f80f72a9fe059af7c5e1a2c2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 19:02:41 2020 +1100
+
+    content update
+
+commit 183c9a6d80efd9cc6172b5cbe6f53904050e254e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:50:52 2020 +1100
+
+    added page h1's
+
+commit 820a610a97ec494e56bd1e9cb056fa12b45e6b07
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:48:07 2020 +1100
+
+    added 'home' to menu
+
+commit c7fe5ccbccc4c52b7f0f6f6296a323ef14587e7f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:46:47 2020 +1100
+
+    fixed typo
+
+commit b479e92acbfb9c66ffbb03c3657ea0459c4d960b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:45:56 2020 +1100
+
+    initial commit for sitemap
+
+commit d02260841639aa964bed6e2447df013eaf1aa37f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:42:59 2020 +1100
+
+    initial commit for tools
+
+commit e0e30c9e3468916d29c3a8a6ba0d342a854e40a5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:41:54 2020 +1100
+
+    initial commit for blog
+
+commit 51cd2ef2e3d8a04cda515f9e735ee16e968958e7
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:40:40 2020 +1100
+
+    initial commit for portfolio
+
+commit dd7b3fee22b2081652931fa30d2938b5804fa0d4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:38:12 2020 +1100
+
+    inital commit contact page
+
+commit ae976ee9e7952e8714fe94b60370bea59acccef5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:36:01 2020 +1100
+
+    added href to nav links
+
+commit 1781793004d1ee14507fec5082e6ea111ca628a5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:35:03 2020 +1100
+
+    chnage title and add sitemap link
+
+commit 7583271ae1f63fbcdcf48c2259dec6eb2a33fb4d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:21:45 2020 +1100
+
+    no robots added
+
+commit df508a053b676792a42f6cda5bb0bffb12f6e187
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:20:51 2020 +1100
+
+    h2 and footer text size increases
+
+commit 33d03e16983b723f52027f71d4959f86ae3d93c5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:17:10 2020 +1100
+
+    conent update
+
+commit 9be779c8961f8e74c5b2fb3c2d53bebd3c0ce7bd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:14:13 2020 +1100
+
+    emphasis on text plus 2 extra spaces
+
+commit 7a89de6f97668daac41bdad69c0370a78689e0f1
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:11:59 2020 +1100
+
+    reotate and color smiley
+
+commit 475d2933a5c7c061b597ad4e029d9d4b31c09670
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:11:51 2020 +1100
+
+    add variation on smiley
+
+commit 0713d1c4587e1319b4bcd78f8f6c1c71a5546b53
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:07:07 2020 +1100
+
+    fixed smiley
+
+commit fefed1fd3000066deb5c140cb25c642e146c1636
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:05:44 2020 +1100
+
+    added smiley
+
+commit 8c9382db5472982194113d5b91a718e84a457d11
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 18:02:30 2020 +1100
+
+    increase font size in aside1 for desktop
+
+commit 8ced6e8a90cd9efa2dbd56c0722aee7c6adb9e5a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:54:11 2020 +1100
+
+    text change on main intro
+
+commit 9bf14b00a8d5f7fb3aa11dd65bb55f8e32325242
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:52:50 2020 +1100
+
+    intro class added on txt in main element
+
+commit 47093790205780bdb2682a7613e2eb967d62a2e2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:52:07 2020 +1100
+
+    added accent styling for intro text in main
+
+commit 77b0e632d64d1ffb5b5bfed831771457cea9f24a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:28:36 2020 +1100
+
+    updated link-special for underline
+
+commit dab78843904a5581c4c38aa400e4832c8fab8dc8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:28:04 2020 +1100
+
+    updated content in section3
+
+commit 57c940809f08c5ea6019fc214bdda28369b9df9e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:20:48 2020 +1100
+
+    fixed span error on section3
+
+commit 3fbc94dda5c9db6eb612e40df5932ec125f40a03
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:20:11 2020 +1100
+
+    text-styling on section3
+
+commit 0d0f84d7c24e04c8a7dadc1493410add7b4e1da0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:10:33 2020 +1100
+
+    added bigger-text class and tidied up css
+
+commit caa91a71916c2d6f78766ece9f39441880aa7fc8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:10:18 2020 +1100
+
+    added spans to bigger-text class
+
+commit 7ae6850a7f8a90c351a7062ec53e6831a3bde3aa
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:05:04 2020 +1100
+
+    removed 5px padding from content-container
+
+commit 4e4488fe74ad82bd0dc03d7e0232bc2713d849af
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 17:03:49 2020 +1100
+
+    fixed positioning bug with aside1
+
+commit 24d87737359a02e1ce10a9a118569362443fe678
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 16:58:52 2020 +1100
+
+    aside1 h2 positioning for screen sizes
+
+commit b1c5f6e003f8838f3ebaab6242338ca65a9a10e4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 16:58:27 2020 +1100
+
+    class def on aside1 h2 for positoning
+
+commit 086e38c7b4f2a8053fe080f4fce79683aebef890
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 05:05:08 2020 +1100
+
+    styled headshot. added align-self: center 4  imgs
+
+commit 55f888a244ab875e2f83af1a9f28759bc261b392
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 05:03:43 2020 +1100
+
+    create and assigned class on main img (headshot)
+
+commit d14e38e2088995471ef8864d8d93314cad4e77d8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:23:01 2020 +1100
+
+    update copy in aside1
+
+commit c5bc1991d0888ccdd6378bc1057c7b3811f53bf9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:22:07 2020 +1100
+
+    re-write of copy for aside1
+
+commit f6e275cc5951b2983f96ef427cd3d05048cd9d89
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:17:13 2020 +1100
+
+    reformatted main element text
+
+commit 09832b4542197ed6b13e2e537b6d34e2ba6fed72
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:15:24 2020 +1100
+
+    changed name from Nick to Nicholas Fehlberg
+
+commit f419b77ec6dc59427b6e650046cfe77a38f34024
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:13:07 2020 +1100
+
+    changed h1 in main, fixed typo and some grammar
+
+commit 59f70f6406075e41ad105489528c225d4a1b722b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:11:37 2020 +1100
+
+    updated content in main element
+
+commit 9a703cae5ce19e16ad2d5d88cbf11cc180d744c0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:02:56 2020 +1100
+
+    increased line height on aside1 for desktop
+
+commit 6df15e1933843c5a66c3a81a03867ee04f78e146
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:01:17 2020 +1100
+
+    increased headshot image
+
+commit f37242ef39c4e9f31e87c33d2f105c4789523966
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 04:00:50 2020 +1100
+
+    layout tweaks for responsiveness
+
+commit 43697974add6568a1d25142d0f8682942d6b79e2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 03:33:13 2020 +1100
+
+    h1 styling
+
+commit 5ddb5c1b0e172356f70030f2a2da4adfd05402e5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 03:29:57 2020 +1100
+
+    section3 fixes and mods to content and layout
+
+commit f5fcf67ca3f0f412dde5ee70771b2bde762d0e27
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 03:29:12 2020 +1100
+
+    content changes
+
+commit b6e17324aaa4b4225238fc73f347a3ada54508b2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 03:18:24 2020 +1100
+
+    layout issue fixed plus greener tech stack icons
+
+commit 321a192bd65fa1fe34e89b505f18a0cd721054e4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 03:18:05 2020 +1100
+
+    fixed layout issue
+
+commit 63b3dd080f033ec9f7a91f9337a1a1ce6a6322d6
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 03:00:58 2020 +1100
+
+    increased margin by 5px top bot on container
+
+commit 64a6dc77a071abb50bd23d6173a6cfb787223531
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:54:31 2020 +1100
+
+    modified site images for responsive layout
+
+commit 79da0b52afca2adc30073b54d390458c4b95cf42
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:54:17 2020 +1100
+
+    modified site images
+
+commit b3a6e96cc8ddaede4ba319ef8e1ce26b008a11f3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:30:40 2020 +1100
+
+    removed header
+
+commit 66028b9679e03e04d2a71442c105aa1a031d1ac1
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:23:36 2020 +1100
+
+    smaller sized skills text in section3
+
+commit 6531c585c22e0bd7e2564335d78fe56a0e7ba4ce
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:22:02 2020 +1100
+
+    updated content on section3
+
+commit 20994954d7e42973b3dca2480183b6d9314ca2c8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:17:49 2020 +1100
+
+    fix typo in section3
+
+commit 66e29e92b641bb315ed93dd837f13b654e3e1838
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:14:55 2020 +1100
+
+    added skills to section3
+
+commit 9478d58babf7c43faf25c3519637c05262a19605
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:11:23 2020 +1100
+
+    updated content for section3
+
+commit 0b406e487ef7078fdc3bfe2f7badaed9559ee5cc
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:09:33 2020 +1100
+
+    changed style on skills
+
+commit 28027697e02e6a5b2d36986869b12fec9cc0388f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 02:09:00 2020 +1100
+
+    updated content in section3
+
+commit 3571cdd03e13cf848c9673a25e47e23d66b05420
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:58:13 2020 +1100
+
+    content mods to section3
+
+commit 160d6fd3ee4db7590c650c0d2100e2366af4513c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:56:38 2020 +1100
+
+    addeed text style to skills in section3
+
+commit 1803aa233b9c71c21bf50716618df8a14944bc92
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:56:22 2020 +1100
+
+    added content to section3
+
+commit 1fbb9e3d7bb712fba5b2dd20bb40d0cff048efc4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:50:16 2020 +1100
+
+    updated content3
+
+commit 57c1d6a279803724786ab0d7da9717986ef101c8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:45:54 2020 +1100
+
+    added content for section 3
+
+commit a291be9b4957bb13527af317efe5762a7ad5d1a3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:29:23 2020 +1100
+
+    updated title in Section 3
+
+commit e0f037ce032922d033830844dcc76607c13479f5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 01:03:38 2020 +1100
+
+    update website copy
+
+commit 31e2a8374c7fcec23b4b4ac7dab89fa2294181f3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 00:58:25 2020 +1100
+
+    added Daniel Kashuck webpage to section1
+
+commit e4f738848b49e672dda0a188c85a4976ed9c38ba
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 00:58:11 2020 +1100
+
+    added images
+
+commit 38dad62f7b37c00aa7b5256632a0e9126b1a6bd0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 00:35:46 2020 +1100
+
+    content update in aside1
+
+commit b43ff962ee752a6bfeca0a229ae732c1cd722427
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 00:34:42 2020 +1100
+
+    content update in main element
+
+commit bae485b226a4a488e89cdfc75a87a68270c18da3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 00:32:21 2020 +1100
+
+    added styling for webpage images
+
+commit 023551f869b66970c61a7adc867c2601c08eded5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 11 00:32:03 2020 +1100
+
+    added webpage images in section1
+
+commit 219d85053edac4d2957e4a97f01fa37d535d1f3b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:52:17 2020 +1100
+
+    modified section1
+
+commit fa33810d65b183c5bd7fc652371d7e8354db6fcc
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:52:08 2020 +1100
+
+    added content
+
+commit caad76de115a53b0632815fa059e8b6534a4ca3b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:52:01 2020 +1100
+
+    image removed
+
+commit d1dbc625e8c6cc5cd45e3da95492c0e0efeaea28
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:51:48 2020 +1100
+
+    images added
+
+commit 3cf68f5b877a111fcc7f73bdcc930e0bf6df89d0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:50:40 2020 +1100
+
+    imahes not used - moved to docs folder
+
+commit c69719dac03a28af6f081ccafa9ae9a112261dd8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:48:26 2020 +1100
+
+    images added
+
+commit 1311afa026acfbcfbb968f509784dfb19eb2ed9c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:47:57 2020 +1100
+
+    images removed
+
+commit 6a88249f6b414209f49723e2515cca05b6714a90
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:27:21 2020 +1100
+
+    changed resume to resumé
+
+commit 752b8824ee8b81375120a4050122a857f69d242d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:22:22 2020 +1100
+
+    content for main added
+
+commit 8933ac153df4a451f1b64e20875240fd1125b68c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 23:22:01 2020 +1100
+
+    various updates to index
+
+commit f4772cca0e05f976a85a7528284084750629f182
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 21:45:55 2020 +1100
+
+    changed icon colors to blen din a bit more
+
+commit c083f276202d45dc189cfc2acab8b39caff3ae38
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 21:39:26 2020 +1100
+
+    fixed bgnd color in header for 769-1024
+
+commit 29dd8f27b2952a4e08358cc9d5754a039ee6a264
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 19:37:54 2020 +1100
+
+    changed layout of main
+
+commit ddb7b58e43df63ba9a8bc6238680bf65966b95fa
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 10 19:34:40 2020 +1100
+
+     changed layout and content of main element
+
+commit ea4d55dc48a45429bfa88e0d78b2197b5773b63e
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 19:21:59 2020 +1100
+
+    changed nav text size for diff layouts
+
+commit dc527834ede7d169ce3ea79ab8f5317087acfdd6
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 19:19:36 2020 +1100
+
+    changed nav font
+
+commit 574d1e49a5bd497a698c7beb77cdc0606c12444e
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 19:16:56 2020 +1100
+
+    added 'Yanone Kaffeesatz' font
+
+commit 602f59103b052e489cc2b997476add5d9be3e703
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 19:16:28 2020 +1100
+
+    no change
+
+commit c60503de5f121db573e85d7790df0b8eaaeef62b
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 19:04:22 2020 +1100
+
+    updated profeiel pic
+
+commit 7633c67a4d2d917769661dad22768df3512bd762
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 19:04:06 2020 +1100
+
+    changed header margin
+
+commit e085311cbc645ca754ead11f8376b739c89c6817
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 18:07:30 2020 +1100
+
+    increased border radius on header
+
+commit fe5898e28081a536fb2da526a8183aae0080a58f
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 18:00:25 2020 +1100
+
+    lightened h1 in aside1
+
+commit c756363242dd53de2cb6eecaed9644d87892cd1d
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:56:28 2020 +1100
+
+    change banner for aside1
+
+commit 6605485aa26bd374998abd4515d34ec13e0c0ecf
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:56:20 2020 +1100
+
+    add new banner-pink
+
+commit 1883c7700449c9b283bb9475b080b22cbbdb9539
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:56:07 2020 +1100
+
+    remove old banner
+
+commit e688b8cdd60e3a95934ab6bc92f443d469fbafc2
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:51:03 2020 +1100
+
+    changed image opactiy
+
+commit 7e907cbf83110dfdc4e60b1c28d0523778198acd
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:48:02 2020 +1100
+
+    reduced header size for desktop layout
+
+commit d4a3b0ede88b8843891d9c0703eac51f38e32523
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:46:50 2020 +1100
+
+    cleaned up css
+
+commit 95bb19b03297a2d1a21d9cb8dc721f2472163ccb
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:46:27 2020 +1100
+
+    modified main and resume download button
+
+commit a9a72afbf0be472cb27548d99fcea99bc004dfce
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:46:09 2020 +1100
+
+    updated build notes
+
+commit 3e274e5255075c24694cd681d75191427c297a74
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:22:48 2020 +1100
+
+    modified h2 in aside1
+
+commit f643248952804feafe165e2c4dcbac99003feb27
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:18:32 2020 +1100
+
+    changed transparency of retro banner image
+
+commit 277ba5fd4b1e1d53a4e85bab5983754b9e327331
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:12:38 2020 +1100
+
+    styling on nav bar
+
+commit 488c2f9b724dc0c9ae9d8694318fdd30a919363d
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 17:09:11 2020 +1100
+
+    added animation fade-in on icons in main element
+
+commit b8ae44e58ffd5849ab0f914c80c3dd5acd18a303
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:34:07 2020 +1100
+
+    moved tagline for 414+ screens
+
+commit 14af8a09b0bbae3c13c46d0885dfa4298f85a536
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:32:02 2020 +1100
+
+    removed nodejs icon
+
+commit ccc87b82277fa13891089fbc652f6239f07645c6
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:31:45 2020 +1100
+
+    redefined media query size for 414px
+
+commit 7d56e3f2cba17c8fbda405210d041c09a47a9b21
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:27:37 2020 +1100
+
+    fixed iconrow margin top bottom
+
+commit cde2104d05845ec4c144b227c932120b6cc5f2cd
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:23:02 2020 +1100
+
+    padding added for iconrow
+
+commit d8a2b87a8be074766d8423d46eea4da93e63eee0
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:20:23 2020 +1100
+
+    tightened up spacing on main element
+
+commit 55e667a530fca2516ba4b57dc8e94e416a6c5b78
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:18:07 2020 +1100
+
+    fixed icon row width for small displays
+
+commit 341ddacefa96724ac9806e64b230714d638661e0
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:11:57 2020 +1100
+
+    reduced nav width to 99%
+
+commit aa04e6a9f1fbe9bdaf37b9aac82b72e126d51791
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:08:38 2020 +1100
+
+    added fontawesome icons to stylesheet
+
+commit b27bd6539f3dcbe1ab5e247f07fd22dfabd831c0
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:08:28 2020 +1100
+
+    added fontawesome icons
+
+commit 4c59c7abdb2f25c6a64f6ea7b55cd268c2cff898
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 16:08:06 2020 +1100
+
+    added site color swatches
+
+commit da2e2f0c2103a9ea876ebaa1f9937a57706ddf0d
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:59:31 2020 +1100
+
+    responsive positioning of aside1 h2 .lower
+
+commit 302a70aefcd9a3bdf4aeaa24ca0a4c171411d674
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:47:33 2020 +1100
+
+    content update for aside1
+
+commit 96549b815048a576b592863b4db37baa5272fce1
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:46:22 2020 +1100
+
+    updated content for aside1
+
+commit cb17c2f98568ab16e429055398cd7bfd49045f6e
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:41:54 2020 +1100
+
+    modified look of header to resemble a screen
+
+commit 0a97872dc1ed46fb7be935f3a53bd10c5faa5cdc
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:14:16 2020 +1100
+
+    changed colors on elements
+
+commit fb57be5df439d9914ccbe7f6c413b4c85e5eebc9
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:07:55 2020 +1100
+
+    changed gradient in container
+
+commit 5e46ef7c058123be11eaaa58e31e375bf04ec0fe
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 03:02:57 2020 +1100
+
+    lightened main section
+
+commit 262a2b08233d7db7b7e2dd17aa5d789acefa6974
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:55:33 2020 +1100
+
+    moved button in main
+
+commit 20c3e503caa362564946f55d669cc53283040f5f
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:55:21 2020 +1100
+
+    changed main element styles
+
+commit 5b028711c3a6dbe457e524f12fdcae31cb89a262
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:39:53 2020 +1100
+
+    changed background
+
+commit 78b5f0793575f3eebb313610454f48a45da7178a
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:35:34 2020 +1100
+
+    updated build-notes.md
+
+commit 850db110da8b3b905402af43b9f32026e3f363d1
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:33:31 2020 +1100
+
+    style change for button change
+
+commit 1fd6b95229a11fce7a21542c1834911583298d25
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:33:11 2020 +1100
+
+    moved resume download button to main section
+
+commit 80a31572b7456c2b86f1eadad578874162303f72
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:25:13 2020 +1100
+
+    commented out some icons in main
+
+commit a9ee3b82991104f1027d6d7a9c6839ecde1e0195
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:22:52 2020 +1100
+
+    added additional icons to main
+
+commit a1eaeb003884aaaa036bbecc2a1d4aa49b545025
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:18:31 2020 +1100
+
+    moved nick image
+
+commit daba98115566121b9c0ec6daf61a90924a5c6e92
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:17:12 2020 +1100
+
+    updated icon and text layout in main
+
+commit 146fa7e7cad6e48985d58a6ba3a7dd56425f9fc5
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:10:18 2020 +1100
+
+    fixed typos in aside1
+
+commit 6afc213db36403cdbb4cb4d7f4d65746799fb12c
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:08:22 2020 +1100
+
+    changed background image
+
+commit 8c0ec09f1bb9b9e153303fbb0c5fd04f42770d07
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:05:40 2020 +1100
+
+    added icons and styling to main
+
+commit 31e77b0987dc85f4a62747ddfd2663f28c5a23b2
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:05:27 2020 +1100
+
+    added main content
+
+commit ca19622baf1337bef3ec3cec30ff0f2dbcb8212d
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Tue Nov 10 02:05:17 2020 +1100
+
+    added images and icons
+
+commit 953352222ca54af59227aea9a9809c8531808e33
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:40:24 2020 +1100
+
+    h2 size increase for phone layout
+
+commit f2672f462669c95de581cc0e7c1ff2ed627bfb19
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:38:43 2020 +1100
+
+    max-width on aside1 headline
+
+commit c52a2cdb9f2f92d0e6e7792ce8f3977a1660926e
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:34:59 2020 +1100
+
+    overflow hidden on aside1
+
+commit 18bb8191de1a8f6c4d75cbe5392f53d7e8a00cf4
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:31:57 2020 +1100
+
+    changed download link styling
+
+commit 626f72a5d3a49ce7bb3e180b8f1999ec5309b335
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:23:09 2020 +1100
+
+    margin increase on blockquote
+
+commit 967d2a55d0517c38bac6d4cb5584280b64ee83fc
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:20:13 2020 +1100
+
+    updated padding & margin on elements
+
+commit 123dec003bb3107ad0eeb84f2c626597d9bbb30b
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:17:39 2020 +1100
+
+    decreased passing & margin on aside1 img
+
+commit 7f996aabf4bdc757c2e1429fe97529612d738741
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:14:08 2020 +1100
+
+    aside1 content update
+
+commit 4c4c2f9376bdecd0e30b592be17439b0d2948f42
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:12:22 2020 +1100
+
+    aside1 content update
+
+commit bd7994b7bd2162dd7f2803ad3dad93e6379845c4
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:07:55 2020 +1100
+
+    content update aside1
+
+commit ce5ecda0ae67121315d41308e4bf811730bd6390
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:05:41 2020 +1100
+
+    modified content for aside1
+
+commit 5dd3a95cf93379a8762863cc46110f616919ba41
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:03:42 2020 +1100
+
+    changed banner header style
+
+commit 79a5b7924e428401758143736feb697ffe28c3c9
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 23:03:30 2020 +1100
+
+    updated banner transparency
+
+commit 227618783460816c048e79a35f388f968c1c18de
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 22:54:59 2020 +1100
+
+    modified aside1 layout
+
+commit 2b66b76cf8013a45d35015ce7e066af81c73ad02
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 22:54:49 2020 +1100
+
+    added index content
+
+commit 2ba4da0449390232112554f0dcaa3172c19507df
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 22:54:40 2020 +1100
+
+    added 70s banner image bgnd
+
+commit ca5c68d23bdb2177073aa0028ccebf6e81ea840e
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 20:07:53 2020 +1100
+
+    updated aside1 content
+
+commit 9b6f0cd9d6cfb9350d56093269c50f9fb3b2e5a8
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 20:00:20 2020 +1100
+
+    changed colors on aside1
+
+commit 8de62410d10676157b14b6ff172e826f86efd96e
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 19:55:53 2020 +1100
+
+    changed aside1 colors
+
+commit 77582f2facb2cd45d705adeec4e9eb7d9bb48a25
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 19:49:59 2020 +1100
+
+    modified font and sizing for aside1
+
+commit 0747cdf5530bc840d2d3d50b504644e75286a7ec
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 19:34:37 2020 +1100
+
+    modified content
+
+commit 99e681c4c2892fa21f79726daa7f753b8e295aa3
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 19:34:20 2020 +1100
+
+    font styling Kalam
+
+commit 35599be496afad647338a85536b95632fa8b458c
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 19:16:15 2020 +1100
+
+    Aside1 content
+
+commit ef738173b4d8c4feb63fa803c0323bf2572e0362
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 19:15:50 2020 +1100
+
+    added blockquote styling
+
+commit 2d9b6410e3202d25780ec1ad3195abb428e44daa
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 18:04:53 2020 +1100
+
+    changed headline on index
+
+commit e78a6fd8e58dfd607b9316a00a5c329a30f2b6d4
+Author: glenfish <glenfish@pop-os.localdomain>
+Date:   Mon Nov 9 18:02:15 2020 +1100
+
+    changed background gradient
+
+commit d9ff84f30b4d6d98b0d1890bd7233ce18eebaee9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 18:21:27 2020 +1100
+
+    update content index
+
+commit b9b2c60775012b2afa44f3abf99cef153cc8424d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 18:19:16 2020 +1100
+
+    add trs80 image to index
+
+commit ca3724eff609297c9dacd0f5683cd662dc9198ff
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 18:18:58 2020 +1100
+
+    add trs80.png
+
+commit 4b84cd71bef7e00f683cf793ba31819f17f2ab2f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 18:09:01 2020 +1100
+
+    modified aside1 content + layout
+
+commit eb4e890eb33ba31dbc534684369ef4cde68cf289
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 18:08:37 2020 +1100
+
+    modified aside1 content and layout
+
+commit 58e6fa38ff7bbb17da5c890adb28fd31117873a8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 18:08:06 2020 +1100
+
+    added nick-screen.png image
+
+commit 7392a79a60cd8767ed38861f2a0787601114cecd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:39:35 2020 +1100
+
+    increased nav bar height across the board
+
+commit 70d3b9af405f95f48ae08317413a2b9660e82160
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:36:17 2020 +1100
+
+    added Consolas font to all heading definitions
+
+commit 41ea889faad08efdf667b57733f607e44c204163
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:34:42 2020 +1100
+
+    changed default mac font to Consolas
+
+commit a01298e6442912816e87cecf6f14feaabaeb1a51
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:24:08 2020 +1100
+
+    move animated gifs lower by 10px
+
+commit 2e57b92b92881dd12d963f19dd71b8fbd6439e6a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:22:50 2020 +1100
+
+    change header height for phone
+
+commit e55b71b0a100fe7b1d249f10b765deab63eab972
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:21:07 2020 +1100
+
+    change media screen for 415 - 599
+
+commit 0f35cda5ee231dd5c723755e75fe6c95d52f6eab
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:10:41 2020 +1100
+
+    changed media  only screen for 415 - 599
+
+commit 8ccb0f772956a89d61a83529d43a1e48b719050d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:02:17 2020 +1100
+
+    remove skew on tagline animation
+
+commit 239b4aab961c54c651250ecd655a9b12d47a2fd4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 13:00:18 2020 +1100
+
+    menu border styling
+
+commit 66a6f7237899e680015eb2c691536332f220e91c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 12:55:22 2020 +1100
+
+    increase padding on body text
+
+commit a36c172aeeceed07d3744086c33dc27554927c13
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 12:51:58 2020 +1100
+
+    changed font sizes
+
+commit c5ce85be00ace8a767739220f2e8d9d971201335
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 12:47:12 2020 +1100
+
+    changed h1 h2 h3 colors to green
+
+commit 0b81f4368397fa678686b1b45f5371e77e492198
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 12:41:56 2020 +1100
+
+    modified page colors
+
+commit e52c19b30d1f758858304203a010111718cd6139
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 12:23:39 2020 +1100
+
+    text styles on body and footer
+
+commit c55cd626f75f0f5a305e685526c1056f91455f19
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 12:23:28 2020 +1100
+
+    text styling and footer layout
+
+commit 99d069b77fd57d5380ea09791c604c2ae699de2e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 11:39:59 2020 +1100
+
+    fixed syntax error in tagline animation
+
+commit 30fb147ae3d1ffb19e544861cddf18a7875a3bf8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 11:37:33 2020 +1100
+
+    fix flicker rate on tagline animation
+
+commit f0d50ee329a2855a775a95f7ac845999ca787a0e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 11:35:29 2020 +1100
+
+    remove translate from tagline animation
+
+commit 5bb8aac3b77a484fb14c8a63b4c8362ba8ac0bc9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 11:32:47 2020 +1100
+
+    add tagline image to images folder
+
+commit 7bc1430c52a3697c7fec28d60a51e4c25bc14bb3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 11:30:19 2020 +1100
+
+    uncommented the tagline div
+
+commit 7e448e4f3b2631c49a41fe5b8b8d8df06113b9c3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 11:29:58 2020 +1100
+
+    updated css on tagline with animations and flicker
+
+commit d5bec005e1cc3a9972a1e7c3cbaf533ea6e90e4b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 09:13:21 2020 +1100
+
+    increased nav font size to 1em
+
+commit 96a5585b2378cf72822b48f619bb897f4df5e54d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 09:11:42 2020 +1100
+
+    increased nav font size
+
+commit bd12db87c0b80bf9c1e10fb36f3c40f325078c0b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 09:07:57 2020 +1100
+
+    increased webfont size for header on phone layout
+
+commit ae1fba49acd5bf7ab54c3a226dcc4dbe5439636e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 09:04:20 2020 +1100
+
+    changed bgnd color
+
+commit c1449b8286a9b12297d772a2cc1d383c547d8819
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 09:02:59 2020 +1100
+
+    added new webfont visitor.ttf
+
+commit cf2039b66d1cefa296d0a1c243b76a111bc4c58c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 07:42:35 2020 +1100
+
+    added subheader webdev tags - commented out
+
+commit 07f5e7477dd83066bcc7eef9ce4582d869fbc5a2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 07:42:06 2020 +1100
+
+    added new header-crt-cli.gif styling
+
+commit bcadf9cb92c7c8b2bd5678d586649a09bf08272a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 07:41:29 2020 +1100
+
+    added new header-crt-cli.gif
+
+commit b5c70ac451207918121cb859db74d84f43c8171b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 00:53:27 2020 +1100
+
+    added padding to nav li for small phone layout
+
+commit 989966eb54e0902558acb33c3c5b56602b7d494b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 00:51:04 2020 +1100
+
+    updated nav link text
+
+commit a9e5e09c09970c86379619698df72e4e11a1503b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 00:48:26 2020 +1100
+
+    added 10px height to small phone nav and header
+
+commit d7676beed008707192d671d50901ae48b4629242
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 7 00:44:13 2020 +1100
+
+    black bgnd, lighter container color
+
+commit 00a7fbdd52ce4696a906e67d1c83b185648b8bab
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 23:35:08 2020 +1100
+
+    modified css to use one image for all devices
+
+commit 4ef09a0a2753c7d4ce15276c2da18de2f4767848
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 23:34:43 2020 +1100
+
+    added more compressed header animated gif
+
+commit de7533ab2171947d2e7a07e344f29721404e6d92
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 23:13:28 2020 +1100
+
+    modified css to use new clean animated gif headers
+
+commit 389f37d6969724174449730494a132584034241d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 23:12:55 2020 +1100
+
+    added new header animated gifs
+
+commit 2ebc4b16a2e30d0ab6dfe3e0d9bd8cffc337612f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 17:46:18 2020 +1100
+
+    increase navbar height for mobile
+
+commit b2db7433ca677cafd5a362376f98076c8b4d4b7c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 17:37:34 2020 +1100
+
+    new animated gif layout. added 'anim' div id
+
+commit 259d37fe7ddd87fa476b7895b3fb6fe8dce0be5c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 17:37:11 2020 +1100
+
+    removed old header and added animated gif layout
+
+commit 842a8e2699af92ffc53e1bf6e8e5634f435e8b83
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 17:36:52 2020 +1100
+
+    added new animated gifs for header
+
+commit 33819368624916e94ff0ab30d4af8d788967f33c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 00:16:00 2020 +1100
+
+    updated wireframe nf-portfolio.pdf
+
+commit b9df696f4c38c2bf6e0da8d5b1be042665e7feea
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 00:04:51 2020 +1100
+
+    updated requirements.md -added site pages
+
+commit 36db8cbf5559db0b17e8b6ceeba674de9e011088
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Fri Nov 6 00:04:18 2020 +1100
+
+    initial commit of wireframes
+
+commit c346def18568f4512cfa7ea40786b74a111d1a48
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:58:35 2020 +1100
+
+    fixed positioning on tagline for sml phone layout
+
+commit 95d06f9b6d2d915ebebee3f1604d2e323bbd76da
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:56:28 2020 +1100
+
+    fix typo on z-index
+
+commit e74e9a0c8e5d19b637ce4d0e430d14443cdc9a3c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:53:30 2020 +1100
+
+    added z-index to keep nav on top for older browsers
+
+commit a2e1475fa057a943b4e17817bcb9f7b969c65124
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:48:43 2020 +1100
+
+    tightened up positioning on new tagline font
+
+commit b495a0711b2dddd9df0929ca4cb92989cbc265a6
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:48:25 2020 +1100
+
+    changes tagline font to Catamaran
+
+commit 28c3dd266e4f699a30d9bcfe2b538489f022da30
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:41:41 2020 +1100
+
+    changed letter-spacing on phone layouts
+
+commit 6097e83185fb864b109ea42ca085ab7cb3999c01
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:37:06 2020 +1100
+
+    updated build-notes.md
+
+commit b9b7b80b65b9cc72f56b52e4f872ec77b2ca894f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:35:07 2020 +1100
+
+    updated build-notes.md
+
+commit c8dcf5294ca7b0a9d03fbc054b8c6fc57d7e6b91
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:33:22 2020 +1100
+
+    added html for handling layout of header web fonts
+
+commit 7124e08d01a44ac5790ee1e7f2f9e7369a7814ad
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 18:32:39 2020 +1100
+
+    changed header text to web fonts
+
+commit 85f0fe2a6ce8ff02365322dc6e83565649473104
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 16:53:03 2020 +1100
+
+    altered responsive nav bar and link resizing
+
+commit 3297dac0537ebbfa5fb81c243cab5f3649c6e74e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 16:40:19 2020 +1100
+
+    fixed layout issue with header. added margin under
+
+commit 77e5df987531064da937c2295800ad432e63b068
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 16:24:36 2020 +1100
+
+    modified 768 2014 and 1370 headers: brighter
+
+commit f3cae6aa90d15e8cca210384799ee57a4c3b9d07
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 16:24:04 2020 +1100
+
+    added headers with no text
+
+commit 07429326055aeb6f2d1042b77b92ca58da1394bf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 16:03:43 2020 +1100
+
+    updated 414 and 600 header images
+
+commit c1bb673f210e14c90da5ccd2e5930f76408b5f88
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 15:55:18 2020 +1100
+
+    remove 100vw from body
+
+commit 3cd4777c24538653c4c6c59da73b584fc4b7e22a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 15:53:02 2020 +1100
+
+    fixed content section order
+
+commit 00dd21f48da8900909759ef324d577787b19ec0e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 15:46:14 2020 +1100
+
+    fine tune nav layout for old safari browser on mob
+
+commit ab88abb9fd078dcbb16916ae10d1a7e9ae1e89bb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 15:43:24 2020 +1100
+
+    nav alignment fix for old safari try #3
+
+commit e6489a12cf6f6fbb61e11e1ff0a82f9d292834cd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 15:40:44 2020 +1100
+
+    menu safari alignment issue re-try #2
+
+commit 9524dc82b78f5adcd545e39814ea84404b5e201d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 15:36:30 2020 +1100
+
+    nav ul margin auto fix for old safari browser
+
+commit 80005b012aff3c89d49e97c7ecbaac60fa538fd0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 14:44:32 2020 +1100
+
+    menu full view width for desktop
+
+commit 7550208edbe9a66e6bfcce9f2fb55d1fc7b9273d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 14:32:14 2020 +1100
+
+    changed menu gradient
+
+commit 7d062990bb7f1417884ba0a0cc2c733e5c56931d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 14:25:51 2020 +1100
+
+    added sticky nav behaviour
+
+commit fdb7ec240807157fb8e894fb2a4b5b79c4323e95
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 14:25:31 2020 +1100
+
+    moved nav outside .content-container
+
+commit a6b2afc56614748e21c6bf0b890f28e6dce6559e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 13:49:29 2020 +1100
+
+    modified gradient color on elements
+
+commit 3acb2914965629e0fbf3b51629f3b33a44a9973c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 13:16:27 2020 +1100
+
+    .container -> .content-container
+
+commit cd2a20fb052bacf3bfd67008d1f7bf010d102c57
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 13:15:48 2020 +1100
+
+    box shadow on components, bgnd cover, wrpr mrgn
+
+commit 8b3123f34700fd7a2caf9a7fbe2746cff6cea3af
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 13:01:08 2020 +1100
+
+    updated build-notes.md
+
+commit b5412d741951545dc48ef70a881a3533ba58d3bf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 12:36:07 2020 +1100
+
+    fixed flex issue with small mobile screens
+
+commit 2696222aa5866d017109039938318d3b89894ae2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 03:03:07 2020 +1100
+
+    increase font size for phones
+
+commit 822a7036d4d805341eb76d4e7f9bdf025038a289
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:59:16 2020 +1100
+
+    increased line height
+
+commit 5a81316b901bb587435ef40fdcf0e462e24557b1
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:38:32 2020 +1100
+
+    remove opacity on the container for desktop
+
+commit f9cbaa912f6f4db8c355532fa2af53158b6ca1d2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:38:03 2020 +1100
+
+    change name of old regular background image
+
+commit f6d33b8123fa4c8050424382728f8785883c4f84
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:37:35 2020 +1100
+
+    update background image
+
+commit 362665e7473efffc4f3618cbe125b42fac40e703
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:15:10 2020 +1100
+
+    updated background colors
+
+commit ec72dbdf261b374a87e7e3751e484f0c95f87297
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:08:47 2020 +1100
+
+    added background image for desktop layout
+
+commit 93602fbd0e34c9065be0de9feeb98e6d77625dba
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 02:03:00 2020 +1100
+
+    added background jpg image
+
+commit d53b2234f25c9096ea1016acc52be32badbd4a0c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 01:22:57 2020 +1100
+
+    modified padding and box opacity
+
+commit 0ebf05ce0998b39357256950db11b4c74f8fbb56
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 01:11:51 2020 +1100
+
+    updated article aside main footer styling
+
+commit 0ef5d8a097be1ac428a806016bed59651a25e366
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 00:59:46 2020 +1100
+
+    added colorpalette pdf to docs
+
+commit 2a68242e8253a0b5a952be40e011acd543d2f78f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 00:59:13 2020 +1100
+
+    updated container styling and colors
+
+commit 30d7095df1d464575960ddc9961b9a6724d06fa3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Wed Nov 4 00:58:35 2020 +1100
+
+    added color palette
+
+commit 9752681467cf7871c8201c684cbd1856dd8e2852
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 3 23:45:10 2020 +1100
+
+    updated build-notes.md
+
+commit 03771ec829ff3c2e12ec9441a45205c3386b55cf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 3 23:41:44 2020 +1100
+
+    glid and flexbox added. media queries updated
+
+commit eb6747a12cf46e7fe6b218c562436ba29cebb5b9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 3 23:40:47 2020 +1100
+
+    modified for responsive layout
+
+commit 0a27efb6eea46fae611feedf52b0299b43dee56f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Tue Nov 3 23:39:27 2020 +1100
+
+    modified header images 414 and 600
+
+commit 1d020cbdd198b5b7da2871f672fd86398153747b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 19:33:12 2020 +1100
+
+    changed width img-2 img-3 var to 100%
+
+commit be6cd11b56e381e41f2299caf5a46eae692694ca
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:53:08 2020 +1100
+
+    removed 'only' attribute from media queries
+
+commit 62ece401f67f1bf6988ea7fd2dbb7a31447bd728
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:38:25 2020 +1100
+
+    fixed orientation styling 769px-1024px landscape
+
+commit 2d953d3748acf4ae7ea5c608585f341ccefc7200
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:32:46 2020 +1100
+
+    added 'device-width' attribute to meta content
+
+commit b45fc441f4411d49234659baabbaa5814fca0091
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:16:47 2020 +1100
+
+    removed landscape query on smartphone layout
+
+commit 55d366367e0d8e707557feb092f86e238205e673
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:11:44 2020 +1100
+
+    updated link to porfolio on Github Pages
+
+commit fa39b3086513df36ab8a2ae37171aa9a08eba285
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:07:05 2020 +1100
+
+    updated media specific layouts
+
+commit c2ed10b525e1ff844e3f6e7068aad366e493b5fa
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 18:06:29 2020 +1100
+
+    updated header
+
+commit 12543708ea1cf2cba7a1e8439d488e01af16296c
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 17:28:01 2020 +1100
+
+    fixed scss issues with vars
+
+commit aab851ffae33c3e5c5a7c45cc66c70d933c44446
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 17:15:18 2020 +1100
+
+    updated sass var usage for header
+
+commit a0f1f21cba25319a5dd70d8c1eb66a3a83f59fd1
+Merge: 8a5cf55 2b55f60
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 17:11:20 2020 +1100
+
+    Merge branch 'main' of github.com:glenfish/portfolio into main
+
+commit 8a5cf55eefdb195412a2b26802babe71a56774cd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 16:40:27 2020 +1100
+
+    added header to index.html
+
+commit 2b55f60bc9db509981125b5c201bb8e28ebbc694
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 16:40:27 2020 +1100
+
+    updated tech stack section
+
+commit ec595430659e2bc2ef1bf7537e0ca5c438b9311d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 16:37:17 2020 +1100
+
+    Initial commit boilerplate HTML5 index.html
+
+commit a0705d1ae484521ed4b3b5d634e6a449b6fab4f3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 16:36:26 2020 +1100
+
+    initial commit stylesheet
+
+commit 18f146ed44f7f8d1b7707c1098ccd4fae061a006
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 15:16:08 2020 +1100
+
+    updated build-notes.md
+
+commit ceae883af5a09666baef8c1b0495648021f4abce
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 15:15:52 2020 +1100
+
+    initial commit header images
+
+commit a0623ede3efa4760350a87a9a77b4b786ed7def8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Mon Nov 2 15:11:29 2020 +1100
+
+    updated build-notes.md
+
+commit 1c0071cd0ef317722a7f71e307c2571691932c1d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 1 13:41:52 2020 +1100
+
+    Initial-commit for build-notes.md
+
+commit e9d999cb739d11e139b5c6c34a785173d654f93a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 1 13:07:19 2020 +1100
+
+    initial commit
+
 commit 6a4ce0616ab4e6b63adddaef0d864bc0ffc63548
 Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
 Date:   Sun Nov 1 13:04:57 2020 +1100
