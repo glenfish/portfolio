@@ -433,7 +433,7 @@ aside img, section img {
 
 .headshot {
   float: left;
-  margin: 0 30px 10px 10px;
+  margin: 0 15px 10px 0px;
 }
 
 main .flexrow {
@@ -495,7 +495,7 @@ section .boxstyle-2 {
 
 main p {
   width: 98%;
-  text-align: justify;
+  text-align: left;
   margin: auto;
 }
 
@@ -778,6 +778,10 @@ main p, section p {
   padding: 5px;
   margin: 5px;
   border-radius: 0.2em;
+}
+
+.intro {
+  border-radius: 25px;
 }
 
 /* Font definitions */
@@ -1159,6 +1163,12 @@ main p, section p {
   .webpage-images {
     width: 100%;
   }
+  .intro {
+    background: #09947d;
+    padding: 15px;
+    margin-left: 70px;
+    width: 84%;
+  }
 }
 
 /* END phone 2 layout */
@@ -1268,6 +1278,18 @@ main p, section p {
   }
   .lower {
     top: 10px;
+  }
+  .intro {
+    background: #09947d;
+    padding: 15px;
+    margin-left: 70px;
+    width: 84%;
+  }
+  .intro {
+    background: #09947d;
+    padding: 15px;
+    margin-left: 70px;
+    width: 84%;
   }
 }
 
@@ -1380,6 +1402,12 @@ main p, section p {
   }
   .upper {
     top: 8px;
+  }
+  .intro {
+    background: #09947d;
+    padding: 15px;
+    margin-left: 70px;
+    width: 84%;
   }
 }
 
@@ -1505,6 +1533,12 @@ main p, section p {
   main .iconrow {
     width: 100%;
     margin: 20px auto;
+  }
+  .intro {
+    background: #09947d;
+    padding: 15px;
+    margin-left: 70px;
+    width: 84%;
   }
 }
 
