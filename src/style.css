@@ -781,6 +781,10 @@ main p, section p {
   border-radius: 0.2em;
 }
 
+.featured {
+  font-size: 125%;
+}
+
 .intro {
   border-radius: 25px;
 }
