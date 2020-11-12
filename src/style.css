@@ -750,16 +750,21 @@ main p, section p {
 
 .form input {
   margin-bottom: 20px;
-  width: 15em;
+  width: 100%;
 }
 
 form label {
   display: block;
 }
 
+form button {
+  float: right;
+  margin-top: 10px;
+}
+
 .form textarea {
   height: 200px;
-  width: 15em;
+  width: 100%;
 }
 
 .unordered-list {
