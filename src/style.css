@@ -741,6 +741,27 @@ main p, section p {
   line-height: 160%;
 }
 
+.form {
+  width: 355px;
+  text-align: left;
+  font-family: 'Yanone Kaffeesatz';
+  font-size: 1.4em;
+}
+
+.form input {
+  margin-bottom: 20px;
+  width: 15em;
+}
+
+form label {
+  display: block;
+}
+
+.form textarea {
+  height: 200px;
+  width: 15em;
+}
+
 .unordered-list {
   font-family: 'Yanone Kaffeesatz';
   font-size: 150%;
