@@ -26,7 +26,7 @@ __Live presentation:__ 13-11-20
 
 ## Detailed Requirements
 
-### Content : 4+ pages
+### Content : 4 pages minimum
 
 > Portfolio (more detail on projects)
 
@@ -34,15 +34,17 @@ __Live presentation:__ 13-11-20
 
 > Tools (resource list for developers)
 
-> Contact (email address and contact form)
+> Contact (mailing address, email address and contact form)
 
-> Home page / landing page
+> Home page
+
+> Sitemap
 
 ### Links
 
 > Resume (download link to PDF)
 
-- [ ] name and contact info
+- [x] name and contact info
 - [x] links to professional accounts (LinkedIn, Github)
 - [ ] work and study history
 - [ ] link to PDF of resume (can be mockup)
@@ -68,7 +70,7 @@ A file named README.md addressing the assignment criteria below:
 - [ ] Description of portfolio website, including:
   - [x] Purpose
   - [x] Functionality & Features
-  - [ ] Sitemap
+  - [x] Sitemap
   - [ ] Screenshots
   - [x] Target audience
   - [x] Tech Stack (html, css, depolyment platform etc)
