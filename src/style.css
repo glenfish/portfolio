@@ -348,8 +348,6 @@ html {
   color: white;
   font-family: 'Kalam','Helvetica', 'Arial', sans-serif;
   background: white;
-  -webkit-box-shadow: 2px 2px 2px 5px black;
-          box-shadow: 2px 2px 2px 5px black;
 }
 
 *, *:before, *:after {
@@ -968,7 +966,6 @@ main p, section p {
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
     min-height: 100px;
-    background: black;
     min-width: 258px;
     z-index: 500;
   }
@@ -1117,7 +1114,6 @@ main p, section p {
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
     height: 100px;
-    background: black;
   }
   main {
     -ms-grid-column: 1;
@@ -1256,7 +1252,6 @@ main p, section p {
     -ms-grid-row-span: 1;
     grid-row: 2 / 3;
     height: 125px;
-    background: black;
   }
   main {
     -ms-grid-column: 1;
@@ -1376,7 +1371,6 @@ main p, section p {
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
     height: 150px;
-    background: black;
   }
   main {
     -ms-grid-column: 1;
@@ -1509,7 +1503,6 @@ main p, section p {
     -ms-grid-column-span: 4;
     grid-column: 1 / 5;
     height: 180px;
-    background: black;
   }
   main {
     -ms-grid-column: 1;
