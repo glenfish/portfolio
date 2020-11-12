@@ -742,7 +742,6 @@ main p, section p {
 }
 
 .form {
-  width: 355px;
   text-align: left;
   font-family: 'Yanone Kaffeesatz';
   font-size: 1.4em;
@@ -1136,6 +1135,9 @@ form button {
     width: 100%;
     text-align: center;
   }
+  .form {
+    width: 280px;
+  }
 }
 
 /* END phone layout */
@@ -1272,6 +1274,9 @@ form button {
     float: left;
     margin: 0 15px 0px 0px;
   }
+  .form {
+    width: 355px;
+  }
 }
 
 /* END phone 2 layout */
@@ -1391,6 +1396,9 @@ form button {
   .headshot {
     float: left;
     margin: 0 15px 10px 0px;
+  }
+  .form {
+    width: 355px;
   }
 }
 
@@ -1513,6 +1521,9 @@ form button {
   .headshot {
     float: left;
     margin: 0 15px 10px 0px;
+  }
+  .form {
+    width: 355px;
   }
 }
 
@@ -1648,6 +1659,9 @@ form button {
   .headshot {
     float: left;
     margin: 0 15px 10px 0px;
+  }
+  .form {
+    width: 355px;
   }
 }
 
