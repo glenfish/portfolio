@@ -733,6 +733,23 @@ main p, section p {
   color: yellow;
 }
 
+.sitemap {
+  font-size: 170%;
+}
+
+.sitemap a {
+  line-height: 160%;
+}
+
+.unordered-list {
+  font-family: 'Yanone Kaffeesatz';
+  font-size: 150%;
+}
+
+.unordered-list li {
+  padding: 0.2em;
+}
+
 .website-container {
   width: 98%;
   margin: 0 auto;
@@ -982,14 +999,14 @@ main p, section p {
     font-size: 1.0em;
     letter-spacing: normal;
   }
-  ul {
+  nav ul {
     display: -webkit-box;
     -webkit-box-pack: center;
     /* justify-content */
     -webkit-box-align: center;
     /* align-items */
   }
-  ul li {
+  nav ul li {
     padding-left: 4px;
     padding-right: 4px;
   }
@@ -1132,14 +1149,14 @@ main p, section p {
     font-size: 1.2em;
     font-family: 'Yanone Kaffeesatz';
   }
-  ul {
+  nav ul {
     display: -webkit-box;
     -webkit-box-pack: center;
     /* justify-content */
     -webkit-box-align: center;
     /* align-items */
   }
-  ul li {
+  nav ul li {
     padding-left: 3px;
     padding-right: 3px;
   }
