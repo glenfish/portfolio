@@ -6,7 +6,7 @@ Filename: README.md
 
 Creation Date: 1-11-20
 
-Version: 2.0 (11-11-20)
+Version: 2.1 (12-11-20)
  - Notes: All linked assets reside in [docs](./docs/) directory
  - [Assignment Requirements & Checklist](./docs/requirements.md)
 
@@ -27,6 +27,8 @@ This portfolio website showcases professional development knowledge and experien
 
 Its intended audience are IT professionals, prospective employers and clients and recruiters in the IT space. 
 
+---
+
 __Functionality & Features:__
 
 The site is a 5 page standalone portfolio. It uses no prewritten css or frameworks, the only exception being a normalize.css file
@@ -37,15 +39,39 @@ The only javascript used was for the FontAwesome functionality, which displays t
 
 There is a simple fade-in animation on the icons at the top of the page. 
 
-The site features a form on the contact page, some videos and links on the Tools page, some screenshot examples of sites I have personaly built on the index and Portfolio pages and a sitemap which is just a link tree.
+The site features a form on the contact page, some videos and links on the Tools page, some screenshot examples of sites I designed and developed on the index and Portfolio pages and a sitemap which is just a link tree.
+
+---
 
 __Sitemap:__
 
-<image to go here>
+Home
+
+Portfolio
+
+Blog
+
+- Article 1
+
+- Article 2
+
+- Article 3
+
+- Article 4
+
+- Article 5
+
+Tools
+
+Contact
+
+---
 
 __Screenshots:__
 
-<screenshots to go here>
+screenshots to go here
+
+---
 
 __Tech Stack:__
 HTML5, CSS3, Javascript, Sass, Git/Github
