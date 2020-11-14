@@ -886,6 +886,15 @@ form button {
   margin-top: 40px;
 }
 
+.portfolio h2::before {
+  display: block;
+  content: " ";
+  margin-top: -100px;
+  height: 120px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
 /* Font definitions */
 @font-face {
   font-family: 'Visitor TT1 BRK';
