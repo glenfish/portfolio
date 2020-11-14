@@ -839,8 +839,9 @@ form button {
 
 .img-div-small div {
   width: 20%;
-  height: 200px;
+  height: 100px;
   overflow: hidden;
+  background: blue;
 }
 
 .img-div-small img {
@@ -936,6 +937,11 @@ form button {
 
 .tools dt {
   padding-bottom: 1.4em;
+}
+
+.tools .smalltext {
+  font-size: 100%;
+  display: block;
 }
 
 /* Font definitions */
