@@ -970,7 +970,7 @@ form button {
 
 .blog article {
   margin-bottom: 50px;
-  border-radius: 0 3px 0 3px;
+  border-radius: 0 0 15px 0;
 }
 
 .blog h3 {
@@ -988,7 +988,7 @@ form button {
 
 .blog .textbox {
   display: block;
-  max-width: 96%;
+  max-width: 94%;
   font-family: 'Kalam','Helvetica', 'Arial', sans-serif;
   font-size: 112%;
   padding: 5px;
@@ -1018,8 +1018,8 @@ form button {
 
 .blog .blog-post {
   padding: 0em;
-  -webkit-box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.5);
-          box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.5);
+  -webkit-box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.3);
+          box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.3);
   background: white;
 }
 
