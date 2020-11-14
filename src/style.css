@@ -988,7 +988,7 @@ form button {
 
 .blog .textbox {
   display: block;
-  max-width: 100%;
+  max-width: 96%;
   font-family: 'Kalam','Helvetica', 'Arial', sans-serif;
   font-size: 112%;
   padding: 5px;
@@ -998,11 +998,11 @@ form button {
   display: inline-block;
   float: right;
   margin-right: 25px;
-  font-size: 140%;
+  font-size: 110%;
 }
 
 .blog .textbox .author {
-  font-size: 140%;
+  font-size: 120%;
   margin-top: 0.5em;
 }
 
