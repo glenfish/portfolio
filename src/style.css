@@ -488,6 +488,20 @@ section .boxstyle-2 {
   border-radius: 0 35px;
 }
 
+section .boxstyle-3 {
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  border: 1px rgba(255, 255, 255, 0.3) dashed;
+  margin: 20px;
+  -webkit-box-align: right;
+      -ms-flex-align: right;
+          align-items: right;
+  padding: 1em;
+  width: 98%;
+  border-radius: 0 35px;
+}
+
 main p {
   width: 98%;
   text-align: left;
@@ -947,9 +961,15 @@ form button {
   color: #0b805d;
 }
 
+.blog .flexrow {
+  margin: 0;
+  padding: 0;
+  background: white;
+}
+
 .blog article {
   margin-bottom: 50px;
-  border-radius: 0 15px 0 15px;
+  border-radius: 0 3px 0 3px;
 }
 
 .blog h3 {
@@ -996,9 +1016,9 @@ form button {
 }
 
 .blog .blog-post {
-  padding: 2em;
-  -webkit-box-shadow: 4px 4px 4px #0b805d;
-          box-shadow: 4px 4px 4px #0b805d;
+  padding: 0em;
+  -webkit-box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.5);
+          box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.5);
   background: white;
 }
 
@@ -1008,6 +1028,7 @@ form button {
 
 .float-right {
   float: right;
+  margin-right: 0.5em;
 }
 
 .clear {
