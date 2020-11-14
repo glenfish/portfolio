@@ -1,3 +1,531 @@
+commit ff03a8cc2332095167902dd044fdafa1aae21dff
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 00:40:36 2020 +1100
+
+    screenshots of finished website added
+
+commit 59681b827206ebdd8c1d8803090a50648485c283
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 00:29:43 2020 +1100
+
+    cleaned up html code
+
+commit ce358fcda2b3eb6f7085cf352020ef15b803b27a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 00:21:47 2020 +1100
+
+    added comments to code
+
+commit d0cbc06108587452547665bc7f46e972cd5eabcf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 00:21:35 2020 +1100
+
+    added resume button to portfolio page
+
+commit ae4424266dfeb9126096fc689ea190a45df2adbf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 00:11:49 2020 +1100
+
+    added content to portfolio page
+
+commit 60594c397caec9312d1f72fd6a608f392767c773
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:58:51 2020 +1100
+
+    fixed sitemap links
+
+commit 2a4a15c31c084b1f52c4fe44b56087fd0f7122b4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:56:00 2020 +1100
+
+    added sha256 sha384 & sha512
+
+commit 06d7db29145d464fef25b9cd6c553cad2009e149
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:53:36 2020 +1100
+
+    added final sha256 sha384 & sha512
+
+commit 1c53f66f9efd1b9eb0f7557566ea3edb86b913fb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:50:19 2020 +1100
+
+    rounded corners on blog flexrow
+
+commit f45dca2bc9992222ae5c943e31e77afb8527a659
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:47:07 2020 +1100
+
+    reduce width of blog article
+
+commit 92ece16950f250748300714c2cde3050ea93a5cf
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:43:44 2020 +1100
+
+    content change on blog posts
+
+commit b8216a132e15ceab564bfb0fdc3d824ebb3a0599
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:41:27 2020 +1100
+
+    reduced width of blog article
+
+commit 48490931119da79bb69d02ea016a757f17699187
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:39:01 2020 +1100
+
+    modified blog articles style
+
+commit b3bb988c7fd9dc1996e191360d964d156606c6fd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:38:28 2020 +1100
+
+    modified content and layout of blog articles
+
+commit 0122b03df655e2134187a36ade1057f7c46b64ea
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:23:33 2020 +1100
+
+    widen blog article
+
+commit 27af98657d5f90a8c57bd79d2e9ac88891c7b003
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:08:46 2020 +1100
+
+    added blog content
+
+commit 56927ac2b1a1e7e81e24d10c12f67b4bbe0be7fa
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 23:08:39 2020 +1100
+
+    added blog styles
+
+commit 860f78554b6c48a0c3eeadff97e0fecac8fb3956
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 22:57:09 2020 +1100
+
+    add images for blog posts
+
+commit bab8356588199e4a4755209a76d852ed23e7c961
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:52:19 2020 +1100
+
+    added external links to website examples
+
+commit 5f1dea5e84059bd110d15c538821fd57ac497b35
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:40:10 2020 +1100
+
+    add title attribute to img tags
+
+commit aeaef1bba5cd6db41bca6c9ec23f6a9d8cbd80a6
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:33:34 2020 +1100
+
+    remoce integrity
+
+commit ea16f9a74fe17b8a3df9110264c16ac203685a26
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:33:01 2020 +1100
+
+    content change on portfolio - new tab img
+
+commit c515cf87b8d76755c8e9d44e30f024252d12a7a9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:31:29 2020 +1100
+
+    remove margin-top from portfolio h2
+
+commit 12df61161681e680c3b1bae76e01a09afc82659f
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:29:12 2020 +1100
+
+    img-small-div height 100%
+
+commit 221aa03ec5189febccbe070108e3d46bad64e052
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 21:26:52 2020 +1100
+
+    testing div height on img-div-small on phones
+
+commit 1b1c34dc2dcef66988502730b3331f2eb4d3e566
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:51:39 2020 +1100
+
+    added 256 384 512 integrity to index.html
+
+commit 93b1486172020fd262e81f900ed2bfdbc1cadca4
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:44:23 2020 +1100
+
+    added content to tools.html
+
+commit 0b03bc26f489aacbcb62c35d059bbbf9231743ea
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:36:56 2020 +1100
+
+    add anon attribute to link tag
+
+commit 9d73a56d1d83785e48a76a1455b4e99f791a8fff
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:29:52 2020 +1100
+
+    addded shae512 to stylesheet
+
+commit 77196f24e9235bfb54f9616a581c9a343bb477a2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:20:26 2020 +1100
+
+    linked to resume
+
+commit 50847e697b2d91d3b1a34feabc67d11332b3a6b0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:20:19 2020 +1100
+
+    added resume pdf
+
+commit 81cde96a07b18218480bd3685e85a1a59c319a3b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:14:23 2020 +1100
+
+    updated requirements.md
+
+commit 4aba8232b7177a6ad19892a25873d92ac89b90e1
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:14:14 2020 +1100
+
+    updated readme.md
+
+commit 4839a4107e406f0ca83d3a264e1ff4105d6fe8e5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:11:42 2020 +1100
+
+    added javascript form validation on contact.html
+
+commit a8c5476f6ff072d3cd6b3500122317c0452eafad
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:01:07 2020 +1100
+
+    added description paragraph
+
+commit 34fe4eb672c120ee0b6af645463f3d83beb2f66e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 18:00:45 2020 +1100
+
+    added alternate coloring on links
+
+commit 2634002324e94838dcd241290b8401a11b2b53fb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 17:51:15 2020 +1100
+
+    added tools page styling
+
+commit 6c4967079a293b3ae06cfb0f7609530cff66602d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 17:51:04 2020 +1100
+
+    added tools content
+
+commit 228d2aaeb16a9123368a48b047864b396732eeee
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 16:50:58 2020 +1100
+
+    fixed anchor positioning
+
+commit 841dc626e387b42429f4764be46783729c2cda3d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 16:48:20 2020 +1100
+
+    mod layout of webpage thumbs
+
+commit f9fb80982b36b0498d17015c1648a4252cd043a9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 16:45:28 2020 +1100
+
+    fix error on img
+
+commit c741128cfcabc751557a428cb3319f55fda34c4b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 16:43:46 2020 +1100
+
+    styling for website thumbnails
+
+commit 93981f189f2e8bb0973eb585fc054ebb230ad283
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 16:43:13 2020 +1100
+
+    updated portfolio page content
+
+commit 7ace3049143327509fa8b59c32a826760bf26502
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 16:43:03 2020 +1100
+
+    added webpage images
+
+commit 14267a417425467ac726ba77e6a25998ba37c44e
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 15:58:23 2020 +1100
+
+    added css to offset anchor position
+
+commit 372b22e1aaa80ee4ba7c334bdafaf6d51a7b4492
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 15:52:50 2020 +1100
+
+    added anchors to portfolio content
+
+commit 2c6d4ceeed4b97fe8dc1582d9c927db4b5049c40
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 15:52:30 2020 +1100
+
+    added anchor links to portfolio images
+
+commit e971c035fdb346e50fc6268ad6c4c12c9988a1b8
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 15:46:18 2020 +1100
+
+    added portfolio calass h2 definition
+
+commit a61f46894e7fa30b868beb4bc4defe2f60c3381a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sat Nov 14 15:46:07 2020 +1100
+
+    added content to portfolio page
+
+commit b6c1482591b43159e23530610a9293078af6d5cb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 20:14:07 2020 +1100
+
+    added name to form
+
+commit cc3c3b02aa3d3959b0a64fe311fb44b4b6a823f2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 20:10:48 2020 +1100
+
+    add content to portfolio page
+
+commit dc265c47523963a252f946f5400441889202a550
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:29:55 2020 +1100
+
+    updated contact info layout
+
+commit fe7ff53cb92653b7758c77852fe36236049a7a0b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:25:25 2020 +1100
+
+    updated requirements markdown
+
+commit 31788aeeeb91a653e6ca26bd20de99dfc109392a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:23:35 2020 +1100
+
+    updated readme
+
+commit 9d82ebbac2c7ce3bae141025a84d77b8b7080662
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:17:40 2020 +1100
+
+    added contact details
+
+commit 3e073ee6b6c4e16662e779ff4da5227be7558296
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:17:19 2020 +1100
+
+    added contact address and phone
+
+commit fef61277ea807b0061f455aa11254cb8d239fdd6
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:13:21 2020 +1100
+
+    widened form for screens <599
+
+commit e67808583708c35e83fa26eff7049d060f26e438
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:11:52 2020 +1100
+
+    fixed form width for screens < 599
+
+commit f5d0493047d4485ebb8bdb69aa69d1575b1fc2cb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:10:02 2020 +1100
+
+    fixed form size for small screens
+
+commit 02ffae2d86e2f53074e8f5e8545b3a30b21860e2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:07:19 2020 +1100
+
+    added responsive contact form width
+
+commit 7b84df6857854232b37621d7a460cd95f61bc5dd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:02:03 2020 +1100
+
+    tidied up html
+
+commit 6d075039c8edc63a21db24926aff6681022a7c22
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:01:34 2020 +1100
+
+    modified form style
+
+commit bb59d441c38350acae73a7e44f0982bbc10578a3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 19:01:05 2020 +1100
+
+    modified form layout
+
+commit 36ddc1a19c30bdf63d083d81473482672ac43f74
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 18:53:04 2020 +1100
+
+    contact page text added
+
+commit 00bd8a3913e6f43848235e57c5f12b49a733982b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 18:52:06 2020 +1100
+
+    contact form styling added
+
+commit 976fff4e0e9f6966413af20687953aa67bed3523
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 18:51:57 2020 +1100
+
+    contact form added
+
+commit d792f5cfcad9508c18059ed3ef68a9a1dc9acff5
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 18:27:23 2020 +1100
+
+    added sitemap styling
+
+commit 5d556b9431890041b089b5c3de05af6ea2498cb0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 18:27:13 2020 +1100
+
+    updated sitemap content
+
+commit 58f6767c73e6ea86cff5396cdade00d20f30b08d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 17:57:20 2020 +1100
+
+    changed body to section3 only
+
+commit 5009ba09a69977b018ca3f4b1266e89d164136e7
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 17:54:16 2020 +1100
+
+    converted all subpages to use section3
+
+commit f7112a80174f02331a30e73c58964f3860a5a7fb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 17:47:12 2020 +1100
+
+    remove black bgnds and shadows
+
+commit 5ac86ce71a273c806ccfa2ede6bf524f2fc4d956
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 02:47:27 2020 +1100
+
+    intro margin change for small screen on main
+
+commit e782205e7d2d1e33db7138b9e2dbc2048cbbf8c3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 02:43:18 2020 +1100
+
+    added white border to intro in main
+
+commit c999ee9a450ccb474d0e2c20f696da7033d32683
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 02:37:13 2020 +1100
+
+    text layout change in section3 index.html
+
+commit 2dc757dd63c077336eaeade5a63eeb16313a219a
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 02:33:31 2020 +1100
+
+    change aside1 h2 style
+
+commit cdde45df1b26e7100318e4c13b6d4842b7e1f1ad
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:49:01 2020 +1100
+
+    added fadein animation to site examples
+
+commit 9143b547f70ed273c60bb0d3d8e50083fa3af7dc
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:46:47 2020 +1100
+
+    less transparency on the banner-pink.png
+
+commit 0c334f91b5646f8af123cd03445309eb4a0c1edc
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:45:39 2020 +1100
+
+    h2 colors on aside1, footer font and size
+
+commit da41c6f996aa3a13e903cee32d62ccd8609f54b3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:35:39 2020 +1100
+
+    content change on message in section3
+
+commit 2d3e1615b61655688b31eeb9105851f56ddabc11
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:34:55 2020 +1100
+
+    border radius on socialrow in section3
+
+commit d3141c30190d6c78012af2745a24773847050811
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:28:48 2020 +1100
+
+    lightened banner image
+
+commit d52447355ec1b8c63a9fe3db9c31f7a4fb54bffb
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:24:49 2020 +1100
+
+    increase line-height on aside1
+
+commit 288855c1e83e6b8759b53c68cc04aa59a59cbb38
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:21:28 2020 +1100
+
+    increase line-height to 160% on aside1
+
+commit a28b555be50396c19fe46cc6289fac0ca826cbcd
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:18:46 2020 +1100
+
+    155% line-height on aside1 on index
+
+commit 70ac8bfb291d206b7b03900151afb5e98b76cc78
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:16:28 2020 +1100
+
+    content update in section3
+
+commit ee48d668343506415b85d74c1850cd1d53b63de0
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:09:25 2020 +1100
+
+    swapped out for new trs80.png image
+
+commit 6e918b2c05c667af9fd0995ee2a72ef174766a82
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:09:10 2020 +1100
+
+    added brighter trs80.png
+
+commit 21641987bc93a07aebb6573e6dd0a6a061621005
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Thu Nov 12 00:01:30 2020 +1100
+
+    updated gitlog
+
 commit 1ce6dc9d91aee0935edbe37955b0379471388e54
 Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
 Date:   Wed Nov 11 23:56:30 2020 +1100
