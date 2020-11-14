@@ -841,7 +841,6 @@ form button {
   width: 20%;
   height: 100%;
   overflow: hidden;
-  background: blue;
 }
 
 .img-div-small img {
@@ -910,7 +909,7 @@ form button {
 .portfolio h2 {
   color: yellow;
   font-size: 200%;
-  margin-top: 40px;
+  margin-top: 10px;
 }
 
 .portfolio h2::before {
