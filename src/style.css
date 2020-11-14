@@ -821,6 +821,32 @@ form button {
           animation: fadein 2s ease;
 }
 
+.img-div-small {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-animation: fadein 2s ease;
+          animation: fadein 2s ease;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.img-div-small div {
+  width: 32%;
+  height: 300px;
+  overflow: hidden;
+}
+
+.img-div-small img {
+  width: 98%;
+}
+
 .bigger-text {
   display: inline-block;
   font-size: 120%;
