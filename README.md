@@ -6,7 +6,7 @@ Filename: README.md
 
 Creation Date: 1-11-20
 
-Version: 2.1 (12-11-20)
+Version: 3.0 (15-11-20)
  - Notes: All linked assets reside in [docs](./docs/) directory
  - [Assignment Requirements & Checklist](./docs/requirements.md)
 
