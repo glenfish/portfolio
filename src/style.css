@@ -923,10 +923,15 @@ form button {
 
 .tools h3 {
   font-size: 200%;
+  color: yellow;
 }
 
 .tools a {
   font-size: 120%;
+}
+
+.tools dl > dt:nth-child(even) {
+  color: darkgreen;
 }
 
 .tools dt {
