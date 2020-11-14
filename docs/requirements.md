@@ -30,7 +30,7 @@ __Live presentation:__ 13-11-20
 
 > Portfolio (more detail on projects)
 
-> Blog (mock-up of 4 blog posts)
+> Blog (mock-up of 5 blog posts)
 
 > Tools (resource list for developers)
 
@@ -46,32 +46,32 @@ __Live presentation:__ 13-11-20
 
 - [x] name and contact info
 - [x] links to professional accounts (LinkedIn, Github)
-- [ ] work and study history
-- [ ] link to PDF of resume (can be mockup)
+- [x] work and study history
+- [x] link to PDF of resume (can be mockup)
 - [x] content: personality
 - [x] content: skills
 - [x] content: interests
-- [ ] list of blog posts with titles and dates
-- [ ] a blog area with 5 sample posts (placeholder text. 1 image per post reqd)
+- [x] list of blog posts with titles and dates
+- [x] a blog area with 5 sample posts (placeholder text. 1 image per post reqd)
 - [x] 4 components that are text based and styled
 - [x] use your own CSS styling in ext sheet (or significantly modify a framework)
-- [ ] use comments in HTML & CSS to identify each component
+- [x] use comments in HTML & CSS to identify each component
 - [x] semantic HTML elements and attributes
 - [x] create reusable components (such as article layout styling)
 - [x] use Flexbox and/or Grid for a responsive design for mobile, tablet and desktop
 - [x] use git to track the project and generate gitlog.txt for submission
-- [ ] implement SRI on all pages
+- [x] implement SRI on all pages
 
 ### Markdown files
 A file named requirements.md
 A file named README.md addressing the assignment criteria below:
 - [x] URL to published portfolio (Netlify or Github Pages for example)
 - [x] link to Github repo
-- [ ] Description of portfolio website, including:
+- [x] Description of portfolio website, including:
   - [x] Purpose
   - [x] Functionality & Features
   - [x] Sitemap
-  - [ ] Screenshots
+  - [x] Screenshots
   - [x] Target audience
   - [x] Tech Stack (html, css, depolyment platform etc)
 
@@ -80,7 +80,7 @@ A file named README.md addressing the assignment criteria below:
 This is the presentation of the planning stages and associated text, images, drawings, wireframes and files. This is to be live presented and submitted as part of the portfolio requirements. It must include:
 - [x] Walkthrough of the website and its features
 - [x] Walkthrough of the design process and decisions 
-- [ ] Review of the development / build process. Include:
+- [x] Review of the development / build process. Include:
   - [x] ethical issues
   - [x] favourite parts
   - [x] any pertinent/interesting/relevant observations
