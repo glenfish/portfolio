@@ -78,15 +78,15 @@ A file named README.md addressing the assignment criteria below:
 
 ### Slide Deck
 This is the presentation of the planning stages and associated text, images, drawings, wireframes and files. This is to be live presented and submitted as part of the portfolio requirements. It must include:
-- [ ] Walkthrough of the website and its features
-- [ ] Walkthrough of the design process and decisions 
+- [x] Walkthrough of the website and its features
+- [x] Walkthrough of the design process and decisions 
 - [ ] Review of the development / build process. Include:
-  - [ ] ethical issues
-  - [ ] favourite parts
-  - [ ] any pertinent/interesting/relevant observations
-- [ ] Sitemap tree image & brief descriptions of pages
-- [ ] wireframes and other mockups (decision making process related to aesthetic)
-- [ ] list of components to be used and how styling will engage audience
+  - [x] ethical issues
+  - [x] favourite parts
+  - [x] any pertinent/interesting/relevant observations
+- [x] Sitemap tree image & brief descriptions of pages
+- [x] wireframes and other mockups (decision making process related to aesthetic)
+- [x] list of components to be used and how styling will engage audience
 
 Live presentation no longer than 10 minutes. Utilise the submitted slide deck. Use Powerpoint or Google Slides.
 
