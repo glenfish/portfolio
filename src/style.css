@@ -826,9 +826,9 @@ form button {
       flex-wrap: wrap;
   -webkit-animation: fadein 2s ease;
           animation: fadein 2s ease;
-  -webkit-box-pack: start;
-      -ms-flex-pack: start;
-          justify-content: flex-start;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -838,8 +838,8 @@ form button {
 }
 
 .img-div-small div {
-  width: 32%;
-  height: 300px;
+  width: 20%;
+  height: 200px;
   overflow: hidden;
 }
 
