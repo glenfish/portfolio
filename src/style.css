@@ -809,6 +809,18 @@ form button {
           animation: fadein 2s ease;
 }
 
+.img-div-full {
+  width: 100%;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+          flex: 0 0 auto;
+  -webkit-animation: fadein 2s ease;
+          animation: fadein 2s ease;
+}
+
 .bigger-text {
   display: inline-block;
   font-size: 120%;
@@ -866,6 +878,12 @@ form button {
 
 .center {
   text-align: center;
+}
+
+.portfolio h2 {
+  color: yellow;
+  font-size: 200%;
+  margin-top: 40px;
 }
 
 /* Font definitions */
