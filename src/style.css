@@ -921,6 +921,18 @@ form button {
   pointer-events: none;
 }
 
+.tools h3 {
+  font-size: 200%;
+}
+
+.tools a {
+  font-size: 120%;
+}
+
+.tools dt {
+  padding-bottom: 1.4em;
+}
+
 /* Font definitions */
 @font-face {
   font-family: 'Visitor TT1 BRK';
