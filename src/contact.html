@@ -12,6 +12,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact::Nicholas Fehlberg Portfolio</title>
+    <script>
+        function validateForm() {
+            var x = document.forms["myForm"]["name"].value;
+            var y = document.forms["myForm"]["_replyto"].value;
+            var z = document.forms["myForm"]["message"].value;
+            if (x == "") {
+                alert("Name must be filled out");
+                document.getElementById("the-name").focus();
+                return false;
+            }
+            if (y == "") {
+                alert("Email must be filled out");
+                document.getElementById("the-email").focus();
+                return false;
+            }
+            if (z == "") {
+                alert("You didn't write a message!");
+                document.getElementById("the-textarea").focus();
+                return false;
+            }
+            }
+    </script>
 </head>
 <body>
     <div class="wrapper">
@@ -45,7 +67,7 @@
                             Thanks for getting in touch with me. I try to respond within 1 business day.
                         </p>
                         <div class="form">
-                            <form action="https://formspree.io/f/xbjpozvv" method="POST">
+                            <form name="myForm" action="https://formspree.io/f/xbjpozvv" method="POST" onsubmit="return validateForm()">
                                 <label for="the-name">
                                     Your name:
                                 </label>
@@ -87,5 +109,6 @@
             </footer>
         </div>  <!-- end container -->
     </div>  <!-- end wrapper -->
+
 </body>
 </html>
