@@ -959,6 +959,7 @@ form button {
 
 .blog {
   color: #0b805d;
+  font-family: 'Kalam','Helvetica', 'Arial', sans-serif;
 }
 
 .blog .flexrow {
@@ -988,25 +989,25 @@ form button {
 .blog .textbox {
   display: block;
   max-width: 100%;
+  font-family: 'Kalam','Helvetica', 'Arial', sans-serif;
+  font-size: 112%;
+  padding: 5px;
 }
 
 .blog .textbox .date {
   display: inline-block;
   float: right;
   margin-right: 25px;
-  font-family: 'Visitor TT1 BRK';
   font-size: 140%;
 }
 
 .blog .textbox .author {
   font-size: 140%;
-  font-family: 'Visitor TT1 BRK';
   margin-top: 0.5em;
 }
 
 .blog .textbox p {
-  display: block;
-  margin-top: 1.5em;
+  margin-top: 0.5em;
   overflow: hidden;
 }
 
@@ -1020,6 +1021,10 @@ form button {
   -webkit-box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.5);
           box-shadow: 3px 3px 3px rgba(11, 128, 93, 0.5);
   background: white;
+}
+
+.blog img {
+  margin-bottom: 0.5em;
 }
 
 .float-left {
