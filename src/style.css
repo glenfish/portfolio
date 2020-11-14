@@ -931,7 +931,7 @@ form button {
 }
 
 .tools dl > dt:nth-child(even) {
-  color: darkgreen;
+  color: #80ffb0;
 }
 
 .tools dt {
@@ -941,6 +941,85 @@ form button {
 .tools .smalltext {
   font-size: 100%;
   display: block;
+}
+
+.blog {
+  color: #0b805d;
+}
+
+.blog article {
+  margin-bottom: 50px;
+  border-radius: 0 15px 0 15px;
+}
+
+.blog h3 {
+  display: inline-block;
+  font-size: 200%;
+  color: #0b805d;
+  width: 200px;
+  margin: 0;
+  padding: 0;
+}
+
+.blog .indent {
+  text-indent: 2em;
+}
+
+.blog .textbox {
+  display: block;
+  max-width: 100%;
+}
+
+.blog .textbox .date {
+  display: inline-block;
+  float: right;
+  margin-right: 25px;
+  font-family: 'Visitor TT1 BRK';
+  font-size: 140%;
+}
+
+.blog .textbox .author {
+  font-size: 140%;
+  font-family: 'Visitor TT1 BRK';
+  margin-top: 0.5em;
+}
+
+.blog .textbox p {
+  display: block;
+  margin-top: 1.5em;
+  overflow: hidden;
+}
+
+.blog .article-content {
+  width: 100%;
+  overflow: hidden;
+}
+
+.blog .blog-post {
+  padding: 2em;
+  -webkit-box-shadow: 4px 4px 4px #0b805d;
+          box-shadow: 4px 4px 4px #0b805d;
+  background: white;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.pad-left {
+  padding-left: 2em;
+}
+
+.pad-right {
+  padding-right: 2em;
 }
 
 /* Font definitions */
