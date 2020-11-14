@@ -839,7 +839,7 @@ form button {
 
 .img-div-small div {
   width: 20%;
-  height: 100px;
+  height: 100%;
   overflow: hidden;
   background: blue;
 }
