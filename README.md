@@ -35,7 +35,7 @@ The site is a 5 page standalone portfolio. It uses no prewritten css or framewor
 
 Google web fonts were used, and another web font was used which is locally hosted
 
-The only javascript used was for the FontAwesome functionality, which displays the icon vectors.
+Javascript was used for the FontAwesome functionality, which displays the icon vectors and for form validation on the contact.html page
 
 There is a simple fade-in animation on the icons at the top of the page. 
 
