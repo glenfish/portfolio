@@ -1,3 +1,33 @@
+commit ea543feb71e87d90edbaa3a81318c2d3b59bef3b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 01:01:28 2020 +1100
+
+    added slidedeck (pdf)
+
+commit 0bb3fedc2e2d32f0fc29abadd1993d7f2f662d9b
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 01:01:08 2020 +1100
+
+    updated README.md to final status
+
+commit 7d2e232210c811c89696cd81f795f7570b491986
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 01:00:55 2020 +1100
+
+    updated README.md to final status
+
+commit 537dd444fc662f663384bb1bb7c8fff30bf02f44
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 01:00:25 2020 +1100
+
+    updated requirements.md to final status
+
+commit 5865d95948cf9088483e12e86d975fad9f3d3333
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 00:52:27 2020 +1100
+
+    updared gitlog.txt
+
 commit ff03a8cc2332095167902dd044fdafa1aae21dff
 Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
 Date:   Sun Nov 15 00:40:36 2020 +1100
