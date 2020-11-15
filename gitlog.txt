@@ -1,3 +1,33 @@
+commit de44b9112f73a5ac2282dd9778685679ad4fbd99
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:13:39 2020 +1100
+
+    added new article subpages
+
+commit 2529493ac7dcb630204f02da9a4d6a61c3545962
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:13:17 2020 +1100
+
+    added new styles for blog posts and comments
+
+commit 08293cf3edaf51b93bdc65dbd4f7cde47067ec44
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:12:57 2020 +1100
+
+    add integrity 256/385/512
+
+commit a4f6c4ea9cee37a3b27fb3e1a7ee3316151afb95
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:12:22 2020 +1100
+
+    article summary change. add integrity 256/385/512
+
+commit f11b900c5ec71686ac6f8433c59faad76a7d27b9
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 01:02:25 2020 +1100
+
+    output final gitlog.txt
+
 commit ea543feb71e87d90edbaa3a81318c2d3b59bef3b
 Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
 Date:   Sun Nov 15 01:01:28 2020 +1100
