@@ -35,7 +35,7 @@ Its intended audience are IT professionals, prospective employers and clients an
 
 __Functionality & Features:__
 
-The site is a 5 page standalone portfolio. It uses no prewritten css or frameworks, the only exception being a normalize.css file
+The site is a standalone portfolio. It uses no prewritten css or frameworks, the only exception being a normalize.css file
 
 Google web fonts are used
 
@@ -43,7 +43,7 @@ Javascript was used for the FontAwesome functionality, which displays the icon v
 
 There is a simple fade-in animation on the icons at the top of the page and the screenshot images for work examples on the index page, and on the portfolio page. 
 
-The site features a working form on the contact page with validation, some videos and links on the Tools page, some screenshot examples of sites I designed and developed on the index and Portfolio pages and a sitemap.
+The site features a working form on the contact page with validation, some links on the Tools page and some screenshot examples of sites I designed and developed on the index and Portfolio pages and a sitemap.
 
 The final design does not exactly replicate the initial design. As with any project, design decisions are made throughout, which are not refelcted in the wireframes. Some of this story is described in the presentation.
 
