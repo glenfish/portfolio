@@ -19,7 +19,9 @@ Version: 3.0 (15-11-20)
 
 [Gitlog](https://github.com/glenfish/portfolio/blob/main/gitlog.txt)
 
-[Presentation - Slide Deck](https://docs.google.com/presentation/d/106DiWNbjGE897nhZEF6t2Tuml1M-7lqkEl3arGyxkJM/edit?usp=sharing)
+[Presentation Online - Slide Deck](https://docs.google.com/presentation/d/106DiWNbjGE897nhZEF6t2Tuml1M-7lqkEl3arGyxkJM/edit?usp=sharing)
+
+[Presentation Local - Slide Deck](./ppt/NicholasFehlberg_T1A2.pdf)
 
 ---
 
@@ -72,17 +74,45 @@ Contact
 
 __Screenshots:__
 
+Online
+
 [index.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/index.png)
 
 [portfolio.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/portfolio.png)
 
 [blog.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/blog.png)
 
+- [article_1.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/article_1.png)
+- [article_2.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/article_2.png)
+- [article_3.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/article_3.png)
+- [article_4.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/article_4.png)
+- [article_5.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/article_5.png)
+
 [tools.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/tools.png)
 
 [contact.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/contact.png)
 
 [sitemap.html](https://github.com/glenfish/portfolio/blob/main/docs/site-screenshots/sitemap.png)
+
+Local
+
+[index.html](./docs/site-screenshots/index.png)
+
+[portfolio.html](./docs/site-screenshots/portfolio.png)
+
+[blog.html](./docs/site-screenshots/blog.png)
+
+- [article_1.html](./docs/site-screenshots/article_1.png)
+- [article_2.html](./docs/site-screenshots/article_2.png)
+- [article_3.html](./docs/site-screenshots/article_3.png)
+- [article_4.html](./docs/site-screenshots/article_4.png)
+- [article_5.html](./docs/site-screenshots/article_5.png)
+
+[tools.html](./docs/site-screenshots/tools.png)
+
+[contact.html](./docs/site-screenshots/contact.png)
+
+[sitemap.html](./docs/site-screenshots/sitemap.png)
 
 ---
 
