@@ -1,3 +1,33 @@
+commit 512a414591343231e040e613b3e3d3f9f337a6ee
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:40:41 2020 +1100
+
+    updated final readme
+
+commit 59d7b8d3a9235302d13df1fdd9134b3cd5a7f634
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:39:43 2020 +1100
+
+    updated screenshots of final site pages
+
+commit a7a0a0e4f795153f4cfd2479fa4545bdce7497c3
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:24:24 2020 +1100
+
+    updated blog page content
+
+commit 5d094ac7ae9a7403654e624efe302cd2a1e0e65d
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:21:25 2020 +1100
+
+    updated sitemap content
+
+commit 736c28eec7ee41eaf9795ecc24ee1619314c7ce2
+Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
+Date:   Sun Nov 15 12:14:36 2020 +1100
+
+    final gitlog output
+
 commit de44b9112f73a5ac2282dd9778685679ad4fbd99
 Author: Nicholas Fehlberg <glenfish@nicholasfehlberg.com>
 Date:   Sun Nov 15 12:13:39 2020 +1100
