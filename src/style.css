@@ -660,10 +660,9 @@ blockquote {
   background: linear-gradient(180deg, #12c4d1 0%, #14b4a7 30%);
   font-family: 'PT Sans Narrow', sans-serif;
   opacity: 0.9;
-  width: 220px;
+  width: 100px;
   height: 2.2em;
   margin-top: 30px;
-  margin-left:0;
 }
 
 blockquote a {
